@@ -79,7 +79,7 @@ avlo-en:
 mistral:
  name: "Μιχαήλ Στεφανιδάκης"
  email: "mistral@ionio.gr"
- bio "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
+ bio: "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
  avatar: "assets/images/mistral.jpg"
  
 mistral-en:
