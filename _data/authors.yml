@@ -85,5 +85,5 @@ mistral:
 mistral-en:
  name: "Michalis Stefanidakis"
  email: "mistral@ionio.gr"
- bio "Computer Systems Architecture"
+ bio: "Computer Systems Architecture"
  avatar: "assets/images/mistral.jpg"
