@@ -2,8 +2,8 @@
 ref: os
 title: "Operating Systems"
 semester: 5
-author: dtsouma
-excerpt: "Βασικές έννοιες, Δομή ενός Λ.Σ. Διεργασίες: Μοντέλο και υλοποίηση διεργασιών, Διαδιεργασιακή επικοινωνία, Χρονοπρογραμματισμός διεργασιών. Συστήματα Διαχείρισης Μνήμης, Εναλλαγή, Κατάτμηση σε σταθερά και μεταβλητά τμήματα, τεχνικές ελέγχου μεταβολών της μνήμης, Ιδεατή Μνήμη, Σελιδοποίηση, Αλγόριθμοι Αντικατάστασης Σελίδων, Μοντελοποίηση Αλγορίθμων. Συστήματα Αρχείων: Αρχεία και Κατάλογοι. Αδιέξοδα: Ανίχνευση και Επανόρθωση, Αποφυγή, Πρόληψη. Εργαστηριακά, θα ασχοληθούμε με λειτουργικό σύστημα Unix, βασικές εντολές και προγραμματισμό στο περιβάλλον του σε όλα τα παραπάνω θέματα."
+author: dtsouma-en
+excerpt: "Basic notions of an Operating System (OS), OS structure. Processes: model and implementation. Interprocess communication, process scheduling. Memory Management, swapping, segmentation, memory allocation and control, virtual memory, pagination. File Systems, files and directories. Deadlocks: detection and recovery, avoidance and prevention. The Unix OS will be used for all laboratory exercises. Basic Unix instructions and applications will be covered and programming over the Unix environment on all aforementioned topics."
 
 ---
 
