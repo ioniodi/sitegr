@@ -16,6 +16,6 @@ interests:
 contact:
   tel: "+30 26610 87709"
   web: "http://www.ionio.gr/~mistral"
-  cv: ""
+  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
   
 
