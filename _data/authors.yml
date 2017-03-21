@@ -87,3 +87,15 @@ mistral-en:
  email: "mistral@ionio.gr"
  bio "Computer Systems Architecture"
  avatar: "assets/images/mistral.jpg"
+ 
+ christos:
+  name: "Χρήστος Αναγνωστόπουλος"
+  email: "christos@ionio.gr"
+  bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
+  avatar: "/assets/images/anagnostopoulos.jpg"
+
+christos-en:
+   name: "Christos Anagnostopoulos"
+   email: "christos@ionio.gr"
+   bio: "Network-Centric Information Systems"
+   avatar: "/assets/images/anagnostopoulos.jpg"
