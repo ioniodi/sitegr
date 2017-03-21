@@ -3,7 +3,7 @@ ref: avlon
 title: "Μάρκος Αυλωνίτης"
 excerpt: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
 rank: 3
-author: choko
+author: 
 ---
 
 rank: "Επίκουρος Καθηγητής"
