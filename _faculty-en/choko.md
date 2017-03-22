@@ -4,6 +4,9 @@ title: "Konstantinos Chorianopoulos"
 excerpt: "Software Technologies"
 rank: 3
 author: choko-en
+tel: "+30 26610 87707"
+email: "choko@ionio.gr"
+web: "http://www.epidro.me"
 ---
 
 Position: "Assistant Professor"
@@ -16,7 +19,3 @@ Interests:
   - "Multimedia"
   - "Software Engineering"
   - "Ubiquitous Computing"
-Contact:
-  tel: "+30 26610 87707"
-  email: "choko@ionio.gr"
-  web: "http://www.epidro.me"
