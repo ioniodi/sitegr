@@ -54,16 +54,16 @@ menu-en:
    children:
     - title: "Faculty"
       url: "/en/faculty/"
-    - title: "Administrative"
+    - title: #"Administrative"
       url: # "/en/admin/"
-    - title: "Specialized"
+    - title: #"Specialized"
       url: # "/en/special/"
  - title: "STUDIES"
    children:
     - title: "Undergraduate"
       url: "/en/courses/"
-    - title: "Postgraduate"
-      url: ""
+    - title: #"Postgraduate"
+      url: #""
  - title: "LABS"
    url: "/en/groups/"
    children:
