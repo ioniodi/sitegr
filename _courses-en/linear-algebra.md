@@ -4,6 +4,7 @@ title: "Linear Algebra"
 semester: 1
 author: 	vlamos
 excerpt: "Cartesian products, Relations, Algebraic structures, Tables, Matrix operations, Reverse Matrix, Inverse Matrix. Determinants and their properties, Linear systems, Gauss method, Gauss – Jordan method, Systems solved with the use of inverse matrix, Cramer method, Vector spaces, Kernel and Image of linear mappings, Eigenvalues and eigenvectors, Matrix diagonalization, Applications in Informatics."
+web: "https://e-class.ionio.gr/courses/DCS191/"
 ---
 
 code: ΜΘ110
@@ -38,5 +39,3 @@ ects: 6
   - "S. Lipschutz, Linear Algebra, Schaum’s Outiline Series."
   - "REA’s Problem Solvers: Linear Algebra, Research and Education Association."
 
-  
-eclass: "https://e-class.ionio.gr/courses/DCS191/"
