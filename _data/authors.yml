@@ -103,11 +103,11 @@ christos-en:
 vlamos:
   name: "Παναγιώτης Βλάμος"
   email: "vlamos@ionio.gr"
-  bio "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
+  bio: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
   avatar: "/assets/images/vlamos.jpg"
   
 vlamos-en:
   name: "Panagiotis Vlamos"
   email: "vlamos@ionio.gr"
-  bio "Mathematics in Application Modelling"
+  bio: "Mathematics in Application Modelling"
   avatar: "/assets/images/vlamos.jpg"
