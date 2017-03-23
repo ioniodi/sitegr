@@ -2,7 +2,7 @@
 ref: vlamos
 title: "Panagiotis Vlamos"
 excerpt: "Mathematics in Application Modelling"
-rank: 3
+rank: 1
 author: vlamos
 tel: "+30 26610 87710"
 web: "http://www.ionio.gr/~vlamos"
