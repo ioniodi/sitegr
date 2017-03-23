@@ -1,5 +1,5 @@
 ---
-ref: theory_of_propability
+ref: theory-of-propability
 title: "Theory of Probability"
 semester: 2
 author: avlon
