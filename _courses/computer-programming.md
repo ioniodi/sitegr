@@ -1,5 +1,5 @@
 ---
-ref: computer_programming
+ref: computer-programming
 title: "Προγραμματισμός Υπολογιστών"
 semester: 2
 author: andronikos
