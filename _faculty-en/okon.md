@@ -6,7 +6,7 @@ rank: 3
 author: okon 
 tel: "+30 26610 87708"
 web: "http://www.ionio.gr/~okon"
-cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf
+cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf"
 ---
 
 rank: "Assistant Professor"
