@@ -6,7 +6,7 @@ excerpt: "Εισαγωγή στην αρχιτεκτονική υπολογισ�
 web: https://e-class.ionio.gr/courses/DCS114/
 ---
 
-code: ΜΘ100
+code: ΗΥ500
 semester: 3
 type: "Υποχρεωτικό"
 hours: 4
