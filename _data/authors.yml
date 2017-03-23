@@ -70,7 +70,7 @@ avlon:
   bio: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
   avatar: "assets/images/avlon.jpg"
   
-avlo-en:
+avlon-en:
   name: "Markos Avlonitis"
   email: "avlon@ionio.gr"
   bio: "Applied Stohastic Models"
@@ -79,16 +79,16 @@ avlo-en:
 mistral:
  name: "Μιχαήλ Στεφανιδάκης"
  email: "mistral@ionio.gr"
- bio "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
+ bio: "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
  avatar: "assets/images/mistral.jpg"
  
 mistral-en:
  name: "Michalis Stefanidakis"
  email: "mistral@ionio.gr"
- bio "Computer Systems Architecture"
+ bio: "Computer Systems Architecture"
  avatar: "assets/images/mistral.jpg"
  
- christos:
+christos:
   name: "Χρήστος Αναγνωστόπουλος"
   email: "christos@ionio.gr"
   bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
@@ -99,3 +99,15 @@ christos-en:
    email: "christos@ionio.gr"
    bio: "Network-Centric Information Systems"
    avatar: "/assets/images/anagnostopoulos.jpg"
+   
+vlamos:
+  name: "Παναγιώτης Βλάμος"
+  email: "vlamos@ionio.gr"
+  bio: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
+  avatar: "/assets/images/vlamos.jpg"
+  
+vlamos-en:
+  name: "Panagiotis Vlamos"
+  email: "vlamos@ionio.gr"
+  bio: "Mathematics in Application Modelling"
+  avatar: "/assets/images/vlamos.jpg"
