@@ -2,7 +2,7 @@
 ref: vlamos
 title: "Παναγιώτης Βλάμος "
 excerpt: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
-rank: 3
+rank: 1
 author: vlamos
 tel: "+30 26610 87710"
 web: "http://www.ionio.gr/~vlamos"
