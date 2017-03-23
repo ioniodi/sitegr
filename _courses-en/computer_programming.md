@@ -12,7 +12,7 @@ hours: 4
 extra: 2E
 ects: 6
 
-Βιβλιογραφία: 
+Bibliography:
   - “C++ Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011 (in greek)
   - “ΜΑΘΕΤΕ ΤΗ C++ ΑΠΟ ΤΟ ΜΗΔΕΝ”,  HERBERT SCHILDT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-731-0, 2004
   eclass: "https://e-class.ionio.gr/courses/DCS159/"
