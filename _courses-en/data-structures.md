@@ -1,5 +1,5 @@
 ---
-ref: data_structures
+ref: data-structures
 title: "Data Structures"
 semester: 2
 author: sioutas
