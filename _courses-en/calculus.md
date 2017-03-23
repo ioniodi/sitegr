@@ -1,8 +1,9 @@
 ---
 ref: calculus
 title: "Calculus"
-author: 	vlamos
+author: vlamos
 excerpt: "Basic Sets, Real Numbers – Axioms of Real numbers – Euclidean spaces, Sequences, Monotony, Subsequence, Convergence, Numerical Series, Convergence Criteria: Absolute and Relative Convergence, Telescopic Series, Limit, Continuity, Derivative, Basic Theorems of Differential Calculus, Convexity, Taylor Theorem, Taylor Series, Power series, Integral, Beta and Gamma Functions, Applications of Integrals, Differential Equations, Functions of several Variables,  Limit and Continuity – Partial Derivative, Extrema, Completion, Multiple Integration, Change of Variables, Fourier Theory, FFT."
+web: "https://e-class.ionio.gr/courses/DCS194/"
 ---
 
 code: ΜΘ100
@@ -26,4 +27,4 @@ ects: 6
  - "Advanced Mathematics, Elijah Cup, Publications A. Stamoulis, 1993"
  - "Differential and Integral Calculus, Tom Apostol, Volume I and II, Atlantis Publishing, 1962978-960-524-184-1, 2009"
   
-eclass: "https://e-class.ionio.gr/courses/DCS194/"
+
