@@ -1,5 +1,5 @@
 ---
-ref: discrete_mathematics
+ref: discrete-mathematics
 title: "Διακριτά Μαθηματικά"
 semester: 2
 author: vlamos
