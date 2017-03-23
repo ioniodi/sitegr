@@ -1,5 +1,5 @@
 ---
-ref: discrete_mathematics
+ref: discrete-mathematics
 title: "Discrete Mathematics"
 semester: 2
 author: vlamos
