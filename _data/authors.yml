@@ -10,12 +10,6 @@ choko:
   bio: "Τεχνολογίες Λογισμικού"
   avatar: "/assets/images/choko.jpg"
   
-  kourou-en:
-   name: "Panagiotis Kourouthanassis"
-   email: "pkour@ionio.gr"
-   bio: "Information Systems and E-Goverment"
-   avatar: "/assets/images/kourou.jpg"
-   
 pkour:
    name: "Παναγιώτης Κουρουθανάσης"
    email: "pkour@ionio.gr"
@@ -27,13 +21,7 @@ pkour-en:
    email: "pkour@ionio.gr"
    bio: "Information Systems and E-Goverment"
    avatar: "/assets/images/kourou.jpg"
-   
-andronikos:
-  name: "Θεόδωρος Ανδρόνικος"
-  email: "andronikos@ionio.gr"
-  bio: "Διαδικτυακός Προγραμματισμός"
-  avatar: "/assets/images/andro.jpg"
-  
+     
 emagos:
   name: "Εμμανουήλ Μάγκος"
   email: "emagos@ionio.gr"
@@ -46,6 +34,12 @@ emagos-en:
   bio: "Cryptography and Information Systems Security"
   avatar: "/assets/images/emagos.jpg"  
 
+andronikos:
+  name: "Θεόδωρος Ανδρόνικος"
+  email: "andronikos@ionio.gr"
+  bio: "Διαδικτυακός Προγραμματισμός"
+  avatar: "/assets/images/andro.jpg"
+  
 andronikos-en:
   name: "Theodore Andronikos"
   email: "andronikos@ionio.gr"
@@ -88,7 +82,7 @@ mistral-en:
  bio: "Computer Systems Architecture"
  avatar: "assets/images/mistral.jpg"
  
- christos:
+christos:
   name: "Χρήστος Αναγνωστόπουλος"
   email: "christos@ionio.gr"
   bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
@@ -99,3 +93,15 @@ christos-en:
    email: "christos@ionio.gr"
    bio: "Network-Centric Information Systems"
    avatar: "/assets/images/anagnostopoulos.jpg"
+   
+vlamos:
+  name: "Παναγιώτης Βλάμος"
+  email: "vlamos@ionio.gr"
+  bio: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
+  avatar: "/assets/images/vlamos.jpg"
+  
+vlamos-en:
+  name: "Panagiotis Vlamos"
+  email: "vlamos@ionio.gr"
+  bio: "Mathematics in Application Modelling"
+  avatar: "/assets/images/vlamos.jpg"
