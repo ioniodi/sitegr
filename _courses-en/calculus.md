@@ -4,16 +4,16 @@ title: "Calculus"
 author: vlamos
 excerpt: "Basic Sets, Real Numbers – Axioms of Real numbers – Euclidean spaces, Sequences, Monotony, Subsequence, Convergence, Numerical Series, Convergence Criteria: Absolute and Relative Convergence, Telescopic Series, Limit, Continuity, Derivative, Basic Theorems of Differential Calculus, Convexity, Taylor Theorem, Taylor Series, Power series, Integral, Beta and Gamma Functions, Applications of Integrals, Differential Equations, Functions of several Variables,  Limit and Continuity – Partial Derivative, Extrema, Completion, Multiple Integration, Change of Variables, Fourier Theory, FFT."
 web: "https://e-class.ionio.gr/courses/DCS194/"
----
-
 code: ΜΘ100
 semester: 1
 type: "Compulsory"
 hours: 4
 extra: -
 ects: 6
+---
 
-Βιβλιογραφία: 
+
+bibliography : 
  - "Calculus, Volume I, Finney, Weir, Giordano, Crete University Press 2006."
  - "Vector Calculus, J. Marden and A. Tromba, University of Crete"
  - "CALCULUS, VOLUME II, FINNEY RL, WEIR MD, GIORDANO FR, University of Crete"
