@@ -105,3 +105,28 @@ vlamos-en:
   email: "vlamos@ionio.gr"
   bio: "Mathematics in Application Modelling"
   avatar: "/assets/images/vlamos.jpg"
+
+pateli:
+  name: "Αδαμαντία Πατέλη"
+  email: "pateli@ionio.gr"
+  bio: "Διοίκηση Πληροφοριακών Συστημάτων και Καινοτομίας"
+  avatar: "/assets/images/pateli.jpg"
+  
+pateli-en:
+  name: "Adamantia Pateli"
+  email: "pateli@ionio.gr"
+  bio: "Management of Information Systems and Innovation"
+  avatar: "/assets/images/pateli.jpg"
+  
+dtsouma:
+  name: "Δημήτριος Τσουμάκος"
+  email: "dtsouma@ionio.gr"
+  bio: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
+  avatar: "/assets/images/dtsouma.jpg"
+  
+dtsouma-en:
+  name: "Dimitrios Tsoumakos"
+  email: "dtsouma@ionio.gr"
+  bio: "Data Management on the Web"
+  avatar: "/assets/images/dtsouma.jpg"
+
