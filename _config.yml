@@ -264,6 +264,12 @@ collections:
   en:
     output: true
     permalink: /en/:path/
+  posts:
+    output: true
+    permalink: /posts/:path/
+  posts-en:
+    output: true
+    permalink: /posts-en/:path/
     
 # Defaults
 defaults:
@@ -412,9 +418,24 @@ defaults:
       path: ""
       type: posts
     values:
+      sidebar:
+       nav: menu
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+ # _posts-en
+  - scope:
+      path: ""
+      type: posts-en
+    values:
+      sidebar:
+       nav: menu-en
+      layout: single
+      author_profile: true
+      read_time: false
       comments: # true
       share: true
       related: true
