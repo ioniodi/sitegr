@@ -7,7 +7,7 @@ excerpt: "Η έννοια του συστήματος. Νόμοι και αρχ�
 code: ΗΥ310
 type: "Υποχρεωτικό"
 hours: 4
-extra: 2
+extra: "-"
 ects: 6
 eclass: "https://e-class.ionio.gr/courses/DCS129/"
 ---
