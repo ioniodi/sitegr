@@ -19,9 +19,3 @@ Interests:
   - "Cryptographic techniques for computer and network security"
   - "Security and Privacy in Internet applications"
   
-Contact:
-  tel: "+30 26610 87704"
-  
-  email: "emagos@ionio.gr"
-  
-  web: "http://di.ionio.gr/~emagos"
