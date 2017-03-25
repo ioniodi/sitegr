@@ -4,6 +4,11 @@ title: "Εμμανουήλ Μάγκος"
 excerpt: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
 rank: 3
 author: emagos
+tel: "+30 26610 87704"
+email: "emagos@ionio.gr"
+web: "http://di.ionio.gr/~emagos"
+cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
+
 ---
 
 Position: "Επίκουρος Καθηγητής"
@@ -16,10 +21,7 @@ Interests:
   - "Κρυπτογραφικές Τεχνικές στην Ασφάλεια Υπολογιστών και Δικτύων"
   - "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
   - "Ασφάλεια και Ιδιωτικότητα σε Κατανεμημένες Εφαρμογές"
+
   
-Contact:
-  tel: "+30 26610 87704"
   
-  email: "emagos@ionio.gr"
   
-  web: "http://di.ionio.gr/~emagos"
