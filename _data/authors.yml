@@ -105,3 +105,66 @@ vlamos-en:
   email: "vlamos@ionio.gr"
   bio: "Mathematics in Application Modelling"
   avatar: "/assets/images/vlamos.jpg"
+
+pateli:
+  name: "Αδαμαντία Πατέλη"
+  email: "pateli@ionio.gr"
+  bio: "Διοίκηση Πληροφοριακών Συστημάτων και Καινοτομίας"
+  avatar: "/assets/images/pateli.jpg"
+  
+pateli-en:
+  name: "Adamantia Pateli"
+  email: "pateli@ionio.gr"
+  bio: "Management of Information Systems and Innovation"
+  avatar: "/assets/images/pateli.jpg"
+  
+dtsouma:
+  name: "Δημήτριος Τσουμάκος"
+  email: "dtsouma@ionio.gr"
+  bio: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
+  avatar: "/assets/images/dtsouma.jpg"
+  
+dtsouma-en:
+  name: "Dimitrios Tsoumakos"
+  email: "dtsouma@ionio.gr"
+  bio: "Data Management on the Web"
+  avatar: "/assets/images/dtsouma.jpg"
+  
+fmylonas:
+  name: "Φοίβος Μυλωνάς"
+  email: "fmylonas@ionio.gr"
+  bio: "Αναπαράσταση και Διαχείριση Γνώσης"
+  avatar: "/assets/images/fmylonas.jpg"
+  
+fmylonas-en:
+  name: "Phivos Mylonas"
+  email: "fmylonas@ionio.gr"
+  bio: "Representation and Knowledge Management"
+  avatar: "/assets/images/fmylonas.jpg"
+  
+atsohou:
+ name: "Αγγελική Τσώχου"
+ email: "atsohou@ionio.gr"
+ bio: "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
+ avatar: "/assets/images/atsohou.jpg"
+ 
+atsohou-en:
+ name: "Aggeliki Tsohou"
+ email: "atsohou@ionio.gr"
+ bio: "Internet Security and Privacy"
+ avatar: "/assets/images/atsohou.jpg"
+ 
+kerman:
+ name: "Κάτια Λήδα Κερμανίδου"
+ email: "kerman@ionio.gr"
+ bio: "Τεχνητή Νοημοσύνη με έμφαση στη Γλωσσική Τεχνολογία"
+ avatar: "/assets/images/kerman.jpg"
+ 
+kerman-en:
+ name: "Katia Lida Kermanidis"
+ email: "kerman@ionio.gr"
+ bio: "Artificial Intelligence in Language Technology"
+ avatar: "/assets/images/kerman.jpg"
+ 
+
+

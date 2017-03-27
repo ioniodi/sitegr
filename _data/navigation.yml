@@ -1,7 +1,7 @@
 # main links
 main:
  - title: "gram-web"
-   url: "http://gram-web.ionio.gr/classweb/"
+   url: "http://gram-web.ionio.gr/unistudent/login.asp"
  - title: "e-class"
    url: "http://e-class.ionio.gr"
  - title: "WebMail"
