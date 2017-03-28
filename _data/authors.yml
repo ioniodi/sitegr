@@ -166,5 +166,15 @@ kerman-en:
  bio: "Artificial Intelligence in Language Technology"
  avatar: "/assets/images/kerman.jpg"
  
-
-
+sioutas:
+  name: "Σπύρος Σιούτας"
+  email: "sioutas@ionio.gr"  
+  bio: "Δομές και Βάσεις Δεδομένων" 
+  avatar: "/assets/images/sioutas.jpg"
+  
+  sioutas-en
+    name:  "Spyros Sioutas"
+    email: "sioutas@ionio.gr"  
+    bio: "Data Structures & Databases"
+    avatar: "/assets/images/sioutas.jpg"
+    
