@@ -167,14 +167,26 @@ kerman-en:
  avatar: "/assets/images/kerman.jpg"
  
 sioutas:
-  name: "Σπύρος Σιούτας"
-  email: "sioutas@ionio.gr"  
-  bio: "Δομές και Βάσεις Δεδομένων" 
-  avatar: "/assets/images/sioutas.jpg"
+    name: "Σπύρος Σιούτας"
+    email: "sioutas@ionio.gr"  
+    bio: "Δομές και Βάσεις Δεδομένων" 
+    avatar: "/assets/images/sioutas.jpg"
   
-  sioutas-en
+sioutas-en
     name:  "Spyros Sioutas"
     email: "sioutas@ionio.gr"  
     bio: "Data Structures & Databases"
     avatar: "/assets/images/sioutas.jpg"
+    
+ vchris:
+    name: "Βασίλειος Χρυσικόπουλος"
+    email:  "vchris@ionio.gr"
+    bio:  "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
+    avatar: "/assets/images/vchris.jpg"
+
+ vchris-en
+    name: "Vassilis Chrissikopoulos"    
+    email:  "vchris@ionio.gr"
+    bio:  "IT – Networks – Information Security"
+    avatar: "/assets/images/vchris.jpg"
     
