@@ -172,7 +172,7 @@ sioutas:
     bio: "Δομές και Βάσεις Δεδομένων" 
     avatar: "/assets/images/sioutas.jpg"
   
-sioutas-en
+sioutas-en:
     name:  "Spyros Sioutas"
     email: "sioutas@ionio.gr"  
     bio: "Data Structures & Databases"
@@ -184,7 +184,7 @@ sioutas-en
     bio:  "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
     avatar: "/assets/images/vchris.jpg"
 
- vchris-en
+ vchris-en:
     name: "Vassilis Chrissikopoulos"    
     email:  "vchris@ionio.gr"
     bio:  "IT – Networks – Information Security"
