@@ -2,7 +2,7 @@
 ref: vchris
 title: "Vassilis Chrissikopoulos"
 excerpt: "IT – Networks – Information Security"
-rank: 3
+rank: 1
 author: vchris-en
 tel: "+30 26610 87710"
 web: "http://di.ionio.gr"
