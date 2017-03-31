@@ -2,7 +2,7 @@
 ref: simulation-modeling
 title: "Simulation and Modelling"
 semester: 7
-author: 	vlamos
+author: vlamos-en
 excerpt: "Dynamical systems. Theoretical models and modeling strategies. Evolution in time and space. Scale effects and multi-scale modeling. Explicit models for computer science and natural hazards. Queueing Theory. Fundamental Concepts of Queueing. TheoryThe M/M/1 Queue. The powerfulness of Simulation. Simulation strategies. Effective simulation codes for explicit theoretical models.  Simulation of deterministic and stochastic dynamic systems. Analysis of simulation results and evaluation. "
 web: "https://e-class.ionio.gr/courses/DCS156/"
 code: ΗΥ680
