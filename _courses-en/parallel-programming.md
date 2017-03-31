@@ -1,7 +1,7 @@
 ---
 ref: parallel-programming
 title: "Parallel Programming"
-author: 	mistral
+author: mistral-en
 excerpt: "Building blocks of a computer system: a performance study. Cache memories and memory hierarchies performance. Pipelining and other techniques of instruction level parallelism. Parallel Programming with vector SSE Instructions. Thread level parallelism. Introduction to Posix Threads and OpenMP programming. The GPU computing model. CUDA/OpenCL programming."
 web: "https://e-class.ionio.gr/courses/DCS246/"
 code: 
