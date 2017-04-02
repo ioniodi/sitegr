@@ -1,170 +1,191 @@
 choko-en:
-  name: "Konstantinos Chorianopoulos"
-  email: "choko@ionio.gr"
-  bio: "Software Technologies"
-  avatar: "/assets/images/choko.jpg"
+ name: "Konstantinos Chorianopoulos"
+ email: "choko@ionio.gr"
+ bio: "Software Technologies"
+ avatar: "/assets/images/choko.jpg"
 
 choko:
-  name: "Κωνσταντίνος Χωριανόπουλος"
-  email: "choko@ionio.gr"
-  bio: "Τεχνολογίες Λογισμικού"
-  avatar: "/assets/images/choko.jpg"
-  
+ name: "Κωνσταντίνος Χωριανόπουλος"
+ email: "choko@ionio.gr"
+ bio: "Τεχνολογίες Λογισμικού"
+ avatar: "/assets/images/choko.jpg"
+
 pkour:
-   name: "Παναγιώτης Κουρουθανάσης"
-   email: "pkour@ionio.gr"
-   bio: "Πληροφοριακά Συστήματα και Ηλεκτρονική Διακυβέρνηση"
-   avatar: "/assets/images/kourou.jpg"
-   
+ name: "Παναγιώτης Κουρουθανάσης"
+ email: "pkour@ionio.gr"
+ bio: "Πληροφοριακά Συστήματα και Ηλεκτρονική Διακυβέρνηση"
+ avatar: "/assets/images/kourou.jpg"
+
 pkour-en:
-   name: "Panagiotis Kourouthanassis"
-   email: "pkour@ionio.gr"
-   bio: "Information Systems and E-Goverment"
-   avatar: "/assets/images/kourou.jpg"
-     
+ name: "Panagiotis Kourouthanassis"
+ email: "pkour@ionio.gr"
+ bio: "Information Systems and E-Goverment"
+ avatar: "/assets/images/kourou.jpg"
+
 emagos:
-  name: "Εμμανουήλ Μάγκος"
-  email: "emagos@ionio.gr"
-  bio: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
-  avatar: "/assets/images/emagos.jpg"
-  
+ name: "Εμμανουήλ Μάγκος"
+ email: "emagos@ionio.gr"
+ bio: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
+ avatar: "/assets/images/emagos.jpg"
+
 emagos-en:
   name: "Emmanouil Magos"
   email: "emagos@ionio.gr"
   bio: "Cryptography and Information Systems Security"
-  avatar: "/assets/images/emagos.jpg"  
+  avatar: "/assets/images/emagos.jpg"
 
 andronikos:
-  name: "Θεόδωρος Ανδρόνικος"
-  email: "andronikos@ionio.gr"
-  bio: "Διαδικτυακός Προγραμματισμός"
-  avatar: "/assets/images/andro.jpg"
-  
+ name: "Θεόδωρος Ανδρόνικος"
+ email: "andronikos@ionio.gr"
+ bio: "Διαδικτυακός Προγραμματισμός"
+ avatar: "/assets/images/andro.jpg"
+
 andronikos-en:
-  name: "Theodore Andronikos"
-  email: "andronikos@ionio.gr"
-  bio: "Internet Programming"
-  avatar: "/assets/images/andro.jpg"
-  
+ name: "Theodore Andronikos"
+ email: "andronikos@ionio.gr"
+ bio: "Internet Programming"
+ avatar: "/assets/images/andro.jpg"
+
 okon:
-  name: "Κωνσταντίνος Οικονόμου"
-  email: "okon@ionio.gr"
-  bio: "Δίκτυα Υπολογιστών"
-  avatar: "/assets/images/okon.jpg"
-  
+ name: "Κωνσταντίνος Οικονόμου"
+ email: "okon@ionio.gr"
+ bio: "Δίκτυα Υπολογιστών"
+ avatar: "/assets/images/okon.jpg"
+
 okon-en:
-  name: "Konstantinos Oikonomou"
-  email: "okon@ionio.gr"
-  bio: "Computer Networks"
-  avatar: "assets/images/okon.jpg"
-  
+ name: "Konstantinos Oikonomou"
+ email: "okon@ionio.gr"
+ bio: "Computer Networks"
+ avatar: "assets/images/okon.jpg"
+
 avlon:
-  name: "Mάρκος Αυλωνίτης"
-  email: "avlon@ionio.gr"
-  bio: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
-  avatar: "assets/images/avlon.jpg"
-  
+ name: "Mάρκος Αυλωνίτης"
+ email: "avlon@ionio.gr"
+ bio: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
+ avatar: "assets/images/avlon.jpg"
+
 avlon-en:
-  name: "Markos Avlonitis"
-  email: "avlon@ionio.gr"
-  bio: "Applied Stohastic Models"
-  avatar: "assets/images/avlon.jpg"
-  
+ name: "Markos Avlonitis"
+ email: "avlon@ionio.gr"
+ bio: "Applied Stohastic Models"
+ avatar: "assets/images/avlon.jpg"
+
 mistral:
  name: "Μιχαήλ Στεφανιδάκης"
  email: "mistral@ionio.gr"
  bio: "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
  avatar: "assets/images/mistral.jpg"
- 
+
 mistral-en:
  name: "Michalis Stefanidakis"
  email: "mistral@ionio.gr"
  bio: "Computer Systems Architecture"
  avatar: "assets/images/mistral.jpg"
- 
+
 christos:
-  name: "Χρήστος Αναγνωστόπουλος"
-  email: "christos@ionio.gr"
-  bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
-  avatar: "/assets/images/anagnostopoulos.jpg"
+ name: "Χρήστος Αναγνωστόπουλος"
+ email: "christos@ionio.gr"
+ bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
+ avatar: "/assets/images/anagnostopoulos.jpg"
 
 christos-en:
-   name: "Christos Anagnostopoulos"
-   email: "christos@ionio.gr"
-   bio: "Network-Centric Information Systems"
-   avatar: "/assets/images/anagnostopoulos.jpg"
-   
+ name: "Christos Anagnostopoulos"
+ email: "christos@ionio.gr"
+ bio: "Network-Centric Information Systems"
+ avatar: "/assets/images/anagnostopoulos.jpg"
+
 vlamos:
-  name: "Παναγιώτης Βλάμος"
-  email: "vlamos@ionio.gr"
-  bio: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
-  avatar: "/assets/images/vlamos.jpg"
-  
+ name: "Παναγιώτης Βλάμος"
+ email: "vlamos@ionio.gr"
+ bio: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
+ avatar: "/assets/images/vlamos.jpg"
+
 vlamos-en:
-  name: "Panagiotis Vlamos"
-  email: "vlamos@ionio.gr"
-  bio: "Mathematics in Application Modelling"
-  avatar: "/assets/images/vlamos.jpg"
+ name: "Panagiotis Vlamos"
+ email: "vlamos@ionio.gr"
+ bio: "Mathematics in Application Modelling"
+ avatar: "/assets/images/vlamos.jpg"
 
 pateli:
-  name: "Αδαμαντία Πατέλη"
-  email: "pateli@ionio.gr"
-  bio: "Διοίκηση Πληροφοριακών Συστημάτων και Καινοτομίας"
-  avatar: "/assets/images/pateli.jpg"
-  
+ name: "Αδαμαντία Πατέλη"
+ email: "pateli@ionio.gr"
+ bio: "Διοίκηση Πληροφοριακών Συστημάτων και Καινοτομίας"
+ avatar: "/assets/images/pateli.jpg"
+
 pateli-en:
-  name: "Adamantia Pateli"
-  email: "pateli@ionio.gr"
-  bio: "Management of Information Systems and Innovation"
-  avatar: "/assets/images/pateli.jpg"
-  
+ name: "Adamantia Pateli"
+ email: "pateli@ionio.gr"
+ bio: "Management of Information Systems and Innovation"
+ avatar: "/assets/images/pateli.jpg"
+
 dtsouma:
-  name: "Δημήτριος Τσουμάκος"
-  email: "dtsouma@ionio.gr"
-  bio: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
-  avatar: "/assets/images/dtsouma.jpg"
-  
+ name: "Δημήτριος Τσουμάκος"
+ email: "dtsouma@ionio.gr"
+ bio: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
+ avatar: "/assets/images/dtsouma.jpg"
+
 dtsouma-en:
-  name: "Dimitrios Tsoumakos"
-  email: "dtsouma@ionio.gr"
-  bio: "Data Management on the Web"
-  avatar: "/assets/images/dtsouma.jpg"
-  
+ name: "Dimitrios Tsoumakos"
+ email: "dtsouma@ionio.gr"
+ bio: "Data Management on the Web"
+ avatar: "/assets/images/dtsouma.jpg"
+
 fmylonas:
-  name: "Φοίβος Μυλωνάς"
-  email: "fmylonas@ionio.gr"
-  bio: "Αναπαράσταση και Διαχείριση Γνώσης"
-  avatar: "/assets/images/fmylonas.jpg"
-  
+ name: "Φοίβος Μυλωνάς"
+ email: "fmylonas@ionio.gr"
+ bio: "Αναπαράσταση και Διαχείριση Γνώσης"
+ avatar: "/assets/images/fmylonas.jpg"
+
 fmylonas-en:
-  name: "Phivos Mylonas"
-  email: "fmylonas@ionio.gr"
-  bio: "Representation and Knowledge Management"
-  avatar: "/assets/images/fmylonas.jpg"
-  
+ name: "Phivos Mylonas"
+ email: "fmylonas@ionio.gr"
+ bio: "Representation and Knowledge Management"
+ avatar: "/assets/images/fmylonas.jpg"
+
 atsohou:
  name: "Αγγελική Τσώχου"
  email: "atsohou@ionio.gr"
  bio: "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
  avatar: "/assets/images/atsohou.jpg"
- 
+
 atsohou-en:
  name: "Aggeliki Tsohou"
  email: "atsohou@ionio.gr"
  bio: "Internet Security and Privacy"
  avatar: "/assets/images/atsohou.jpg"
- 
+
 kerman:
  name: "Κάτια Λήδα Κερμανίδου"
  email: "kerman@ionio.gr"
  bio: "Τεχνητή Νοημοσύνη με έμφαση στη Γλωσσική Τεχνολογία"
  avatar: "/assets/images/kerman.jpg"
- 
+
 kerman-en:
  name: "Katia Lida Kermanidis"
  email: "kerman@ionio.gr"
  bio: "Artificial Intelligence in Language Technology"
  avatar: "/assets/images/kerman.jpg"
- 
 
+sioutas:
+ name: "Σπύρος Σιούτας"
+ email: "sioutas@ionio.gr"
+ bio: "Δομές και Βάσεις Δεδομένων"
+ avatar: "/assets/images/sioutas.jpg"
 
+sioutas-en:
+ name:  "Spyros Sioutas"
+ email: "sioutas@ionio.gr"
+ bio: "Data Structures & Databases"
+ avatar: "/assets/images/sioutas.jpg"
+
+ vchris:
+ name: "Βασίλειος Χρυσικόπουλος"
+ email:  "vchris@ionio.gr"
+ bio:  "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
+ avatar: "/assets/images/vchris.jpg"
+
+ vchris-en:
+ name: "Vassilis Chrissikopoulos"
+ email:  "vchris@ionio.gr"
+ bio:  "IT – Networks – Information Security"
+ avatar: "/assets/images/vchris.jpg"
