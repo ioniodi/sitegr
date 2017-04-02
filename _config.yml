@@ -337,7 +337,7 @@ defaults:
       lang: gr
       sidebar:
        nav: menu
-      layout: single
+      layout: courses
       author_profile: true
       read_time: false
       comments: # true
@@ -351,7 +351,7 @@ defaults:
       lang: en
       sidebar:
        nav: menu-en
-      layout: single
+      layout: courses
       author_profile: true
       read_time: false
       comments: # true
