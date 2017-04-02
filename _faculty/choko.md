@@ -22,3 +22,6 @@ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv
   - "Τεχνολογία Λογισμικού"
   - "Διάχυτος Υπολογισμός"
   
+### contact:
+ [web]
+ 
