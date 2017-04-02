@@ -1,8 +1,8 @@
 ---
 ref: entrepreneurship-innovation
 title: "Innovation and Entrepreneurship"
-semester: 5
-author: pateli
+semester: 5 
+author: pateli-en
 excerpt: "Introduction to the Entrepreneurship and Innovation concepts. Business Environment. Innovation and Creativity process. Innovation Assessment Methods and Tools. Innovation in Greece. Closed vs. Open Innovation. Business Model Design. Business Plan: Development and Evaluation. Firm Establishment. Resource Identification and Alliance Formation. Exit Strategies. The role of IT in innovation development. International entrepreneurship and Case Studies."
 web: "https://e-class.ionio.gr/courses/CONF101/"
 code: 

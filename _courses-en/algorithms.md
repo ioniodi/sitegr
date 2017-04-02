@@ -2,7 +2,7 @@
 ref: algorithms
 title: "Algorithms"
 semester: 4
-author: andronikos
+author: andronikos-en
 excerpt: "The notions of algorithm and complexity. Basic notions of algorithm analysis. Mathematical background. Techniques for solving recursive equations. Techniques for designing algorithms. The “Divide and Conquer” technique, the merge-sort algorithm and the quick-sort algorithm. Minimum execution time for sorting algorithms. Number and matrix multiplication. Dynamic programming technique. Optimal substructure property. The problem of multiplying sequences of matrices. Pure knapsack problem. The partition problem. Brute-force technique. Task routing, greed and change, the fractional knapsack problem. Graph Theory. Graph representation, graph-searching algorithms. Breadth-first search, Depth-first search. Topological sorting. Minimum spanning trees. Greedy calculation of the minimum spanning tree. Shortest paths. Single sourced shortest paths. Shortest paths for all the pairs of vertices. Regression. Branching and Bounding. Basic algorithms for strings. Introduction to the Theory of Computational Complexity"
 
 code: ΗΥ020

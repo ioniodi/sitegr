@@ -2,16 +2,16 @@
 ref: linear-algebra
 title: "Linear Algebra"
 semester: 1
-author: 	vlamos
+author: vlamos-en
 excerpt: "Cartesian products, Relations, Algebraic structures, Tables, Matrix operations, Reverse Matrix, Inverse Matrix. Determinants and their properties, Linear systems, Gauss method, Gauss – Jordan method, Systems solved with the use of inverse matrix, Cramer method, Vector spaces, Kernel and Image of linear mappings, Eigenvalues and eigenvectors, Matrix diagonalization, Applications in Informatics."
 web: "https://e-class.ionio.gr/courses/DCS191/"
----
-
 code: ΜΘ110
 type: "Compulsory"
 hours: 4
 extra: 2L
 ects: 6
+---
+
 
 Βιβλιογραφία: 
   - "S. Barnett,  Matrices Methods and Applications ,  Clarendon Press, Oxford,  1990."

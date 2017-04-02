@@ -2,7 +2,7 @@
 ref: computer-programming
 title: "Computer Programming"
 semester: 2
-author: andronikos
+author: andronikos-en
 excerpt: "Top-down techniques, modular, and structured engineering for the production of large programs. Advanced dynamic data structures, basic file processing techniques (serial or random access). Classes and objects. Programming with objects. Operators, variables, methods, relations, dependencies, class diagrams. Functions: declaration, definition, overloading functions. Pointers, references, advanced functions, operator overloading. Inheritance. Polymorphism. Exception handling, error detection and handling. Programming with templates and template libraries. Object-oriented analysis and design. Design models. Predefined libraries. Programming Lab (Chosen language: “C++”)."
 web: "https://e-class.ionio.gr/courses/DCS159/"
 code: ΗΥ110 
