@@ -15,7 +15,9 @@ interests:
   - "Δυναμικοί αλγόριθμοι για παράλληλα & κατανεμημένα ετερογενή συστήματα"
   - "Αλγόριθμοι ερωταποκρίσεων για διαδικτυακά δεδομένα (XML, XPath)"
   - "Χρονικές (Temporal) λογικές για αυτόματη επαλήθευση και σύνθεση συστημάτων"
-contact:
+
+###contact:
+
   tel: "+30 26610 87712"
   web: [http://www.ionio.gr/~andronikos](http://www.ionio.gr/~andronikos)
   cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/andronikos_cv_gr_2015.pdf"
