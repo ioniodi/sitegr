@@ -1,0 +1,5 @@
+---
+layout: default
+author_profile= true
+---
+{% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
