@@ -3,7 +3,7 @@ ref: okon
 title: "Konstantinos Oikonomou"
 excerpt: "Computer Networks"
 rank: 3
-author: okon 
+author: okon-en
 tel: "+30 26610 87708"
 web: "http://www.ionio.gr/~okon"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf"

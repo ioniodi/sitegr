@@ -3,7 +3,7 @@ ref: avlon
 title: "Markos Avlonitis"
 excerpt: "Applied Stohastic Models"
 rank: 3
-author: avlon 
+author: avlon-en 
 tel: "+30 26610 87702"
 web: "http://www.ionio.gr/~avlon"
 cv: ""

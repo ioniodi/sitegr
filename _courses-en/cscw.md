@@ -1,5 +1,5 @@
 ---
-ref: msm
+ref: cscw
 title: "Mobile and Social Media"
 author: choko-en
 excerpt: "Social Computing. Computer Supported Collaborative Work. Space-Time taxonomy. Social Media Apps. Mobile Computing. Mobile Apps."

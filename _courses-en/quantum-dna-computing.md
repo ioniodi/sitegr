@@ -2,7 +2,7 @@
 ref: quantum-dna-computing
 title: "Introduction to Quantum and DNA Computing"
 semester: 5
-author: andronikos
+author: andronikos-en
 excerpt: "A brief survey of the standard computational models such as Turing Machines. Introduction to non-conventional computing paradigms. DNA computing. Adleman’s experiments. Introduction to quantum computing. Basic principles of quantum mechanical systems. Dirac’s formalism. The fundamental algorithms of Deutsch–Jozsa, Simon, Shor and Grover. Simulating quantum computation with Matlab."
 web: "https://e-class.ionio.gr/courses/DCS272/"
 code: ΗΥ027
