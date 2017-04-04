@@ -34,6 +34,36 @@ layout: default
       {% if page.excerpt %}
        <div>{{ page.excerpt }}</div>
       {% endif %}
+      
+      {% if page.code %}
+        <div>{{ page.code }}</div>
+      {% endif %}
+      
+      {% if page.semester %}
+        <div>{{ page.semester }}</div>
+      {% endif %}
+      
+      {% if page.type %}
+        <div>{{ page.type }}</div>
+      {% endif %}
+      
+      {% if page.hours %}
+        <div>{{ page.hours }}</div>
+      {% endif %}
+      
+      {% if page.extra %}
+        <div>{{ page.extra }}</div>
+      {% endif %}
+      
+      {% if page.ects %}
+        <div>{{ page.ects }}</div>
+      {% endif %}
+      
+      {% if page.web %}
+        <div>{{ page.web }}</div>
+      {% endif %}
+      
+      
 
       <section class="page__content" itemprop="text">
         {{ content }}
