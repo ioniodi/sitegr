@@ -364,7 +364,7 @@ defaults:
     values:
       lang: gr
       sidebar:
-       nav: menu-en
+       nav: menu
       layout: single
       author_profile: true
       read_time: false
@@ -374,7 +374,7 @@ defaults:
    # _groups-en
   - scope:
       path: ""
-      type: groups
+      type: groups-en
     values:
       lang: en
       sidebar:
