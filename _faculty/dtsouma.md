@@ -5,7 +5,7 @@ excerpt: "Διαχείριση Δεδομένων στον Παγκόσμιο Ι
 rank: 3
 author: dtsouma
 tel: "+30 26610 87756"
-web: "http://www.ionio.gr/~dtsouma"
+uri:  "http://www.ionio.gr/~dtsouma"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/tsoumakos_cv_gr_2011.pdf"
 ---
 
@@ -18,5 +18,3 @@ interests:
   - "Κατανεμημένη διαχείριση δεδομένων"
   - "Υπολογιστικά νέφη και διαχείριση δεδομένων"
   - "Βάσεις δεδομένων και αποθήκες δεδομένων στο διαδίκτυο"
-  
-
