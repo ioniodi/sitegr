@@ -19,4 +19,4 @@ Interests:
 Contact:
   tel: "+30 26610 87756"
   email: "christos@ionio.gr"
-  web: "http://www.ionio.gr/~christos"
+  uri:  "http://www.ionio.gr/~christos"

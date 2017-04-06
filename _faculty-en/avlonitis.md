@@ -3,9 +3,9 @@ ref: avlon
 title: "Markos Avlonitis"
 excerpt: "Applied Stohastic Models"
 rank: 3
-author: avlon-en 
+author: avlon-en
 tel: "+30 26610 87702"
-web: "http://www.ionio.gr/~avlon"
+uri:  "http://www.ionio.gr/~avlon"
 cv: ""
 ---
 
@@ -19,6 +19,3 @@ interests:
   - "Self-organized systems"
   - "Modeling the spread of computer malware"
   - "Modeling and simulation of large scale networks"
-
-  
-

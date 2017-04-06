@@ -5,7 +5,7 @@ excerpt: "Data Structures & Databases"
 rank: 2
 author: sioutas-en
 tel: "+30 26610 87706"
-web: "http://www.ionio.gr/~sioutas"
+uri:  "http://www.ionio.gr/~sioutas"
 cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
 ---
 
@@ -26,4 +26,3 @@ interests:
   - "Knowledge Data Discovery (KDD)"
   - "Data Mining Algorithms"
   - "Spatial Data Structures and Geographical Information Systems"
-

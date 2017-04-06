@@ -5,7 +5,7 @@ excerpt: "Data Management on the Web"
 rank: 3
 author: dtsouma-en
 tel: "+30 26610 87756"
-web: "http://www.ionio.gr/~dtsouma"
+uri:  "http://www.ionio.gr/~dtsouma"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/tsoumakos_cv_gr_2011.pdf"
 ---
 
@@ -18,4 +18,3 @@ interests:
   - "Distributed Data Management"
   - "Data management in Cloud Computing"
   - "Internet Databases and DataWarehouses"
-  
