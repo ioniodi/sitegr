@@ -4,7 +4,7 @@ title: "Introduction to Information Systems"
 semester: 4
 author: pkour-en
 excerpt: "The System concept. Principles of General Systems Theory. Soft and Hard Systems Methodologies. The Checkland Soft Systems Methodology (Rich Picture, CATWOE Analysis, Basic Definition). Definition and Components of IS. Lifecycle of IS. Categorization and Types of IS. Diagrams for the structure of IS (HIPO, Warnier-Orr, Structure Diagrams). Diagrams for the process of IS (Data Flow Diagrams, Decision Tables and Trees)."
-web: "https://e-class.ionio.gr/courses/DCS129/"
+uri: "https://e-class.ionio.gr/courses/DCS129/"
 code: ΗΥ310
 type: "Compulsory"
 hours: 4
