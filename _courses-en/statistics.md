@@ -4,7 +4,7 @@ title: "Statistics"
 semester: 3
 author: avlon-en
 excerpt: "Sampling theory, Random samples, Random numbers. Description of statistical data with arrays and graphics, Frequency array, Histogram. Analysis of Variance. Correlation coefficient. Confidence intervals, Statistical hypothesis-testing process. Regression. Statistical software."
-web: "https://e-class.ionio.gr/courses/DCS229/"
+uri: "https://e-class.ionio.gr/courses/DCS229/"
 code: 
 type: "Compulsory"
 hours: 4

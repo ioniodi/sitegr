@@ -4,7 +4,7 @@ title: "Analysis and Design of Information Systems"
 semester: 5
 author: pateli-en
 excerpt: "Software Engineering Methodologies and Models. Lifecycle of Information Systems. User Requirements Elicitation Methods and Tools. The critical role of analyst. Three-tier Architectural Design of Information Systems. Object-Oriented Analysis and Design. Analysis and Design Models with the use of the Unified Modelling Language (Use Case Diagrams, Activity Diagrams, Class Diagrams, Sequence Diagrams)."
-web: "https://e-class.ionio.gr/courses/DCS115/"
+uri: "https://e-class.ionio.gr/courses/DCS115/"
 code: ΗΥ315
 type: "Compulosory I.S."
 hours: 4

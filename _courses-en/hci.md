@@ -4,7 +4,7 @@ title: "Human-Computer Interaction"
 author: choko-en
 excerpt: "User needs, human-centered design, and interaction design. Design and development of interactive prototypes. Methods and techniques for user evaluation."
 semester: 3
-web: "http://e-class.ionio.gr/courses/DCS147/"
+uri: "http://e-class.ionio.gr/courses/DCS147/"
 code: 
 type: "Compulsory"
 hours: 4

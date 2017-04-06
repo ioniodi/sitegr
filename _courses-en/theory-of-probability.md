@@ -4,7 +4,7 @@ title: "Theory of Probability"
 semester: 2
 author: avlon-en
 excerpt: "The probability concept. Classical and empirical definition of probability. Conditional probability and independence. Bayes law. Combinatorial analysis. The concept of random variables. One-dimensional distributions. Functions of random variables. Mean value, variance, correlation functions , correlation coefficient. Multi-dimensional distributions. Central limit theorem. Moment generating functions. Random walks. Stochastic processes.  Master Equation, Langevin Equation, Fokker-Planck Equation, Markov Chains."
-web: "https://e-class.ionio.gr/courses/DCS228/"
+uri: "https://e-class.ionio.gr/courses/DCS228/"
 code: ΜΘ130
 type: "Compulsory"
 hours: 4

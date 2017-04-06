@@ -3,7 +3,7 @@ ref: ics
 title: "Introduction to Computer Science"
 author: mistral-en
 excerpt: "Introduction to Information Science. History of Computers. The von Neumann model of computer. Bits and bytes, binary numbers, text and multimedia binary representations. Computer Arithmetic. Introduction to computer architecture (central processing unit, memory hierarchies, input-output subsystems). Introduction to computer networking and operating systems. Algorithms and Programming languages. Introduction to databases, data compression and security."
-web: "https://e-class.ionio.gr/courses/DCS116/"
+uri: "https://e-class.ionio.gr/courses/DCS116/"
 code: ΗΥ010
 semester: 1
 type: "Compulsory"

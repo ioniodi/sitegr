@@ -3,7 +3,7 @@ ref: cscw
 title: "Mobile and Social Media"
 author: choko-en
 excerpt: "Social Computing. Computer Supported Collaborative Work. Space-Time taxonomy. Social Media Apps. Mobile Computing. Mobile Apps."
-web: "http://e-class.ionio.gr/courses/DCS235/"
+uri: "http://e-class.ionio.gr/courses/DCS235/"
 code: ΗΥ665
 semester: 4
 type: "Elective"
