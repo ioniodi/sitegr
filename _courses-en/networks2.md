@@ -3,7 +3,7 @@ ref: networks2
 title: "Networks II"
 author: okon-en
 excerpt: "Design and development of high-speed networks. Physical Transmission Media in high speed networks. Frame Relay Networks. ATM networks. Virtual circuit switching networks. High-speed wireless networks. Technology and Network Convergence. TCP/IP Network management. SNMP protocol. Management Information Base. OSI network Management. CMIP protocol. Management Information Tree. Bridged network management. Modern management techniques/methodologies WBM, CORBA, Java-based."
-web: "https://e-class.ionio.gr/courses/DCS166/"
+uri: "https://e-class.ionio.gr/courses/DCS166/"
 code: ΗΥ221
 semester: 4
 type: "Compulsory"
