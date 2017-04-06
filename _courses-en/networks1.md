@@ -4,7 +4,7 @@ title: "Networks I"
 author: okon-en
 excerpt: "Telecommunications and Networks. Signals (analog-digital), data transmission principles, data encoding. Transmission media: twisted pair cables, coaxial cables, optical fibers. Wired networks standards. Wireless communication networks using radio waves, microwaves, infrared. Wireless network standards. Protocol architectures: The OSI standard, the TCP/IP standard. Local Area Networks. Metropolitan Area Networks – Wide Area Networks. Network interconnection and network devices. Packet Transmission and Routing. Switching technics, backbone networks, residential and corporate internet access. PSTN, ISDN access. Broadband access technologies (DSL, Wi-fi, Wi-USB, Wi-Max), third generation services (3G). Network Management."
 code: ΗΥ220
-web: "https://e-class.ionio.gr/courses/DCS174/"
+uri: "https://e-class.ionio.gr/courses/DCS174/"
 semester: 4
 type: "Compulsory"
 hours: 4
