@@ -5,7 +5,7 @@ excerpt: "Αρχιτεκτονική Υπολογιστικών Συστημάτ
 rank: 3
 author: mistral
 tel: "+30 26610 87709"
-web: "http://www.ionio.gr/~mistral"
+uri:  "http://www.ionio.gr/~mistral"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
 ---
 
@@ -16,6 +16,3 @@ education:
 interests:
   - "Κατανεμημένες αρχιτεκτονικές υπολογιστικών συστημάτων υψηλών επιδόσεων -Ενσωματωμένα συστήματα πραγματικού χρόνου"
   - "Αρχιτεκτονικές συστημάτων αυξημένης υπολογιστικής παρουσίας  (pervasive computing systems)"
-
-  
-

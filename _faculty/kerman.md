@@ -1,11 +1,11 @@
 ---
-ref: kerman 
+ref: kerman
 title: "Κάτια Λήδα Κερμανίδου"
 excerpt: "Τεχνητή Νοημοσύνη με έμφαση στη Γλωσσική Τεχνολογία"
 rank: 3
 author: kerman
 tel: "+30 26610 87703"
-web: "https://sites.google.com/site/katialida/"
+uri:  "https://sites.google.com/site/katialida/"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/kermanidou_cv_gr_2011.pdf"
 ---
 

@@ -3,9 +3,9 @@ ref: avlon
 title: "Μάρκος Αυλωνίτης"
 excerpt: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
 rank: 3
-author: avlon 
+author: avlon
 tel: "+30 26610 87702"
-web: "http://www.ionio.gr/~avlon"
+uri:  "http://www.ionio.gr/~avlon"
 cv: ""
 ---
 
@@ -18,6 +18,3 @@ interests:
   - "Συστήματα αυτοοργάνωσης"
   - "Εξάπλωση κακόβουλου λογισμικού"
   - "Μοντελοποίηση και προσομοίωση δικτύων μεγάλης κλίμακας"
-
-  
-

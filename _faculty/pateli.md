@@ -5,9 +5,9 @@ excerpt: "Διοίκηση Πληροφοριακών Συστημάτων κα�
 rank: 3
 author: pateli
 tel: "+30 26610 87714"
-web: "http://www.ionio.gr/~pateli"
+uri:  "http://www.ionio.gr/~pateli"
 cv: "http://di.ionio.gr/wp-content/uploads/2017/03/0317_A.Pateli_CV.pdf"
---- 
+---
 
 rank: "Επίκουρος Καθηγητής"
 education:
@@ -20,5 +20,3 @@ interests:
   - "Ψηφιακή Επιχειρηματικότητα"
   - "Ανοικτή Καινοτομία"
   - "Crowdsourcing"
-  
-

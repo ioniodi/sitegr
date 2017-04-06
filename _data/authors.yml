@@ -1,4 +1,4 @@
-hoko-en:
+choko-en:
  name: "Konstantinos Chorianopoulos"
  email: "choko@ionio.gr"
  uri: "http://www.epidro.me"
@@ -210,14 +210,14 @@ sioutas-en:
  bio: "Data Structures & Databases"
  avatar: "/assets/images/sioutas.jpg"
 
- vchris:
+vchris:
  name: "Βασίλειος Χρυσικόπουλος"
  email:  "vchris@ionio.gr"
  uri: 
  bio:  "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
  avatar: "/assets/images/vchris.jpg"
 
- vchris-en:
+vchris-en:
  name: "Vassilis Chrissikopoulos"
  email:  "vchris@ionio.gr"
  uri:

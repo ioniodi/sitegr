@@ -5,7 +5,7 @@ excerpt: "Δομές και Βάσεις Δεδομένων"
 rank: 2
 author: sioutas
 tel: "+30 26610 87706"
-web: "http://www.ionio.gr/~sioutas"
+uri:  "http://www.ionio.gr/~sioutas"
 cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
 ---
 
@@ -22,6 +22,3 @@ interests:
   - "Διαχείριση Μεγάλου Όγκου Δεδομένων σε Συστήματα Υπολογιστικού Νέφους (Cloud)"
   - "Αποθήκες Δεδομένων και Αλγόριθμοι Εξόρυξης Γνώσης"
   - "Χωρικές Δομές Δεδομένων και GIS"
-  
-  
-

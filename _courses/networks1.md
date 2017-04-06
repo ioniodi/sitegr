@@ -9,7 +9,7 @@ type: "Υποχρεωτικό"
 hours: 4
 extra: 2Ε
 ects: 6
-web: "https://e-class.ionio.gr/courses/DCS174/"
+uri: "https://e-class.ionio.gr/courses/DCS174/"
 ---
 
 
