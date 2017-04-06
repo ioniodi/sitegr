@@ -29,10 +29,10 @@ emagos:
  avatar: "/assets/images/emagos.jpg"
 
 emagos-en:
-  name: "Emmanouil Magos"
-  email: "emagos@ionio.gr"
-  bio: "Cryptography and Information Systems Security"
-  avatar: "/assets/images/emagos.jpg"
+ name: "Emmanouil Magos"
+ email: "emagos@ionio.gr"
+ bio: "Cryptography and Information Systems Security"
+ avatar: "/assets/images/emagos.jpg"
 
 andronikos:
  name: "Θεόδωρος Ανδρόνικος"
