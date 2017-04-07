@@ -3,7 +3,7 @@ ref: cscw
 title: "Κινητά και Κοινωνικά Μέσα"
 author: choko
 excerpt: "Συνεργατικός Υπολογισμός. Συστήματα CSCW (Computer-Supported Cooperative Work). Ταξινόμηση Χώρου-Χρόνου. Ανάπτυξη εφαρμογών. Εφαρμογές σε Μέσα Κοινωνικής Δικτύωσης. Κινητός Υπολογισμός. Κινητές Εφαρμογές."
-web: "http://e-class.ionio.gr/courses/DCS235/"
+uri: "http://e-class.ionio.gr/courses/DCS235/"
 code: ΗΥ665
 semester: 4
 type: "Επιλογής"

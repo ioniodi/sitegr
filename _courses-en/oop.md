@@ -3,7 +3,7 @@ ref: oop
 title: "Object Oriented Programming"
 author: andronikos-en
 excerpt: "Introduction to the notion of Object Oriented Programming. Basic notions of Java: variables, data, calculations. Branching structures, arrays. Classes, objects and Inheritance in Java. Interaction Environments in Java. The notion of exception and the various exception handling methods. Building Applets and the use of data input/output techniques. Execution threads and parallel programming in Java. Java graphics and animation. Java and web programming. Programming Lab (Chosen language: “Java”)."
-web: "https://e-class.ionio.gr/courses/DCS109/"
+uri: "https://e-class.ionio.gr/courses/DCS109/"
 code: ΗΥ130
 semester: 3
 type: "Compulsory"

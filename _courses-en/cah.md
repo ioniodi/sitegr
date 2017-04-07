@@ -4,7 +4,7 @@ title: "Computers and the Humanities"
 semester: 1
 author: kerman-en
 excerpt: "Information Society. Information Technology. Data-Information-Knowledge-Wisdom. The Internet. The World Wide Web. Virtual Information Environments. Virtual Learning Environments. E-Learning. E-Business. E-Commerce. Tele-Working. E-Government. E-Democracy. E-Banking. E-health. The Digital Divide."
-web: "https://e-class.ionio.gr/courses/DCS113/"
+uri: "https://e-class.ionio.gr/courses/DCS113/"
 code: 
 type: "Compulsory"
 hours: 4

@@ -18,4 +18,4 @@ Interests:
 Contact:
   tel: "+30 26610 87712"
   email: "andronikos@ionio.gr"
-  web: "http://www.ionio.gr/~andronikos"
+  uri:  "http://www.ionio.gr/~andronikos"

@@ -5,8 +5,8 @@ excerpt: "Representation and Knowledge Management"
 rank: 3
 author: fmylonas-en
 tel: "+30 26610 87756"
-web: "	http://image.ntua.gr/~fmylonas"
-cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/mylonas_cv_gr_2016.pdf" 
+uri:  "	http://image.ntua.gr/~fmylonas"
+cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/mylonas_cv_gr_2016.pdf"
 ---
 
 rank: "Assistant Professor"
@@ -21,7 +21,5 @@ Interests:
   - "User adaptation"
   - "User modeling"
   - "User profiling"
-  - "Visual context representation and analysis" 
+  - "Visual context representation and analysis"
   - "Human-computer interaction"
-
-
