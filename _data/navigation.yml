@@ -27,8 +27,8 @@ menu:
    children:
     - title: "Προπτυχιακό"
       url: "/gr/courses/"
-    - title: #"Μεταπτυχιακό"
-      url: # ""
+    - title: "Μεταπτυχιακό"
+      url: "/gr/msc-courses/"
  - title: "ΕΡΓΑΣΤΗΡΙΑ"
    url: "/gr/groups/"
    children:
@@ -66,8 +66,8 @@ menu-en:
    children:
     - title: "Undergraduate"
       url: "/en/courses/"
-    - title: #"Postgraduate"
-      url: #""
+    - title: "Postgraduate"
+      url: "/en/msc-courses/"
  - title: "LABS"
    url: "/en/groups/"
    children:
