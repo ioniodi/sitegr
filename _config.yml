@@ -246,6 +246,12 @@ collections:
   courses-en:
     output: true
     permalink: /en/courses/:path/
+  msc:
+    output: true
+    permalink: /gr/msc/:path/
+  msc-en:
+    output: true
+    permalink: /en/msc/:path/
   groups:
     output: true
     permalink: /gr/groups/:path/
@@ -357,7 +363,35 @@ defaults:
       comments: # true
       share: false
       related: false
-   # _groups
+  # _msc
+  - scope:
+      path: ""
+      type: msc
+    values:
+      lang: gr
+      sidebar:
+       nav: menu
+      layout: courses
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+  # _msc-en
+  - scope:
+      path: ""
+      type: msc-en
+    values:
+      lang: en
+      sidebar:
+       nav: menu-en
+      layout: courses
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+  # _groups
   - scope:
       path: ""
       type: groups
