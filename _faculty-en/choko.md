@@ -17,7 +17,6 @@ tags:
  - "Computer-Supported Collaborative Work"
 ---
 
-Position: "Assistant Professor"
 Education:
   - "Diploma in Electronic and Computer Engineering, Technical University of Crete"
   - "MSc. Marketing and Communication, Athens University of Economics and Business"
