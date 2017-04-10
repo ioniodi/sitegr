@@ -47,7 +47,7 @@ menu:
       url: ""
     - title: ""
       url: ""
- - title: "Υπηρεσίες"
+ - title: "ΥΠΗΡΕΣΙΕΣ"
    children:
     - title: "gram-web"
       url: "http://gram-web.ionio.gr/unistudent/login.asp"
