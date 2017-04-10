@@ -22,10 +22,7 @@ tags:
 ---
 
 ### education:
-  - "Graduated of the Computer Engineering and Informatics department (University of Patras).
-Diploma Thesis: “A multimedia Information System for the city of Patras: Network Connection with Database Servers located in the most popular Hotels and Transport Stations”."
-  - "Master Engineer of the Computer Engineering and Informatics Department (University of Patras).
-Master Thesis: “Eliminating Amortization. On Data Structures with Guaranteed Response Time”"
-  - "Doctor of Philosophy (PhD) on Computer Engineering and Informatics Department (University of Patras).
-PhD Thesis: “Efficient Algorithms and Robust Techniques for Spatial, Temporal and Spatio-Temporal Retrieval and Searching”"  
+  - "Graduated of the Computer Engineering and Informatics department (University of Patras).Diploma Thesis: “A multimedia Information System for the city of Patras: Network Connection with Database Servers located in the most popular Hotels and Transport Stations”."
+  - "Master Engineer of the Computer Engineering and Informatics Department (University of Patras).Master Thesis: “Eliminating Amortization. On Data Structures with Guaranteed Response Time”"
+  - "Doctor of Philosophy (PhD) on Computer Engineering and Informatics Department (University of Patras).PhD Thesis: “Efficient Algorithms and Robust Techniques for Spatial, Temporal and Spatio-Temporal Retrieval and Searching”"  
 
