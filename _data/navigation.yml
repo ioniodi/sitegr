@@ -11,6 +11,8 @@ main:
 menu:
  - title: "ΑΝΑΚΟΙΝΩΣΕΙΣ"
    url: "/gr/posts/"
+ - title: "ΕΚΔΗΛΩΣΕΙΣ"
+   url: "http://events.di.ionio.gr/"
  - title: "ΠΡΟΣΩΠΙΚΟ"
    children:
     - title: "Διδακτικό"
@@ -59,6 +61,8 @@ menu:
       
 # sidebar en
 menu-en:
+ - title: "EVENTS"
+   url: "http://events.di.ionio.gr/"
  - title: "NEWS"
    url: "/en/posts/"
  - title: "STAFF"
