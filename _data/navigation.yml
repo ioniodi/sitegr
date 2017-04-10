@@ -1,11 +1,5 @@
 # main links
 main:
- - title: "gram-web"
-   url: "http://gram-web.ionio.gr/unistudent/login.asp"
- - title: "e-class"
-   url: "http://e-class.ionio.gr"
- - title: "WebMail"
-   url: "https://webmail.ionio.gr/"
   #- title: "Groups"
   #  url: /groups/
   #- title: "Projects"
@@ -53,7 +47,16 @@ menu:
       url: ""
     - title: ""
       url: ""
-
+ - title: "Υπηρεσίες"
+   children:
+    - title: "gram-web"
+      url: "http://gram-web.ionio.gr/unistudent/login.asp"
+    - title: "e-class"
+      url: "http://e-class.ionio.gr"
+    - title: "WebMail"
+      url: "https://webmail.ionio.gr/"
+      
+      
 # sidebar en
 menu-en:
  - title: "NEWS"
@@ -94,3 +97,11 @@ menu-en:
       url: ""
     - title: ""
       url: ""
+ - title: "Services"
+   children:
+    - title: "gram-web"
+      url: "http://gram-web.ionio.gr/unistudent/login.asp"
+    - title: "e-class"
+      url: "http://e-class.ionio.gr"
+    - title: "WebMail"
+      url: "https://webmail.ionio.gr/"
