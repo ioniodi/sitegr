@@ -19,6 +19,8 @@ tags:
  - "User profiling"
  - "Visual context representation and analysis"
  - "Human-computer interaction"
+---
+
 ### education:
   - "Diploma in Electrical and Computer Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2001"
   - "Ph.D. in Engineering, School of Electrical and Computer Engineering, N.T.U.A., 2008"
