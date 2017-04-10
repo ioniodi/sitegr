@@ -11,10 +11,10 @@ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_c
 categories:
  - ""
 tags:
-  - "Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)"
-  - "Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)"
-  - "Ασύρματα Δίκτυα Αισθητήρων (Wireless Sensor Networks)"
-  - "Δικτυοκεντρικά Πληροφοριακά Συστήματα (Network-centric Information Systems)"
+ - "Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)"
+ - "Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)"
+ - "Ασύρματα Δίκτυα Αισθητήρων (Wireless Sensor Networks)"
+ - "Δικτυοκεντρικά Πληροφοριακά Συστήματα (Network-centric Information Systems)"
 ---
 
 ### education:
