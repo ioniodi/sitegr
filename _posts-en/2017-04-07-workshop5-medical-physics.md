@@ -1,6 +1,7 @@
 ---
 ref: Workshop5-medical-physics
-title: "Department of Informatics, Ionian University alongside with the Institute for Medical Physics (IFMP) will host the 5th workshop on Medical Physics and Biomedical Engineering. The workshop will be held from 6 to 10 November 2017 at Ionian University."
+title: "5th workshop on Medical Physics and Biomedical Engineering"
+excerpt: "Department of Informatics, Ionian University alongside with the Institute for Medical Physics (IFMP) will host the 5th workshop on Medical Physics and Biomedical Engineering. The workshop will be held from 6 to 10 November 2017 at Ionian University."
 tags:
 categories:
  - workshop
