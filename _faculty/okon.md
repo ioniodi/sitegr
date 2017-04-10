@@ -11,9 +11,9 @@ cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_20
 categories:
 - "NMSLab"
 tags:
-  - "Αυτόνομα Δίκτυα"
-  - "Ανάλυση Απόδοσης Δικτύων"
-  - "Πρόσβαση Μέσου"
+ - "Αυτόνομα Δίκτυα"
+ - "Ανάλυση Απόδοσης Δικτύων"
+ - "Πρόσβαση Μέσου"
 ---
 
 ### education:
