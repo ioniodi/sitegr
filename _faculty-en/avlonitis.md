@@ -11,10 +11,10 @@ cv: ""
 categories:
  - "CMODLab"
 tags:
-  - "Applied stochastic processes"
-  - "Self-organized systems"
-  - "Modeling the spread of computer malware"
-  - "Modeling and simulation of large scale networks"
+ - "Applied stochastic processes"
+ - "Self-organized systems"
+ - "Modeling the spread of computer malware"
+ - "Modeling and simulation of large scale networks"
 ---
 
 ### education:
