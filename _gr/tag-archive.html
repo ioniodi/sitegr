@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /en/tags/
-title: "Faculty Research Interests"
+permalink: /gr/tags/
+title: "Ερευνητικά Ενδιαφέροντα του Τμήματος"
 ---
 
-{% include group-by-array collection=site.faculty-en field="tags" %}
+{% include group-by-array collection=site.faculty field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}

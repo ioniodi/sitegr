@@ -15,6 +15,8 @@ main:
 
 # sidebar gr
 menu:
+ - title: "ΑΝΑΚΟΙΝΩΣΕΙΣ"
+   url: "/gr/posts/"
  - title: "ΠΡΟΣΩΠΙΚΟ"
    children:
     - title: "Διδακτικό"
@@ -27,8 +29,8 @@ menu:
    children:
     - title: "Προπτυχιακό"
       url: "/gr/courses/"
-    - title: #"Μεταπτυχιακό"
-      url: # ""
+    - title: "Μεταπτυχιακό"
+      url: "/gr/msc-courses/"
  - title: "ΕΡΓΑΣΤΗΡΙΑ"
    url: "/gr/groups/"
    children:
@@ -54,6 +56,8 @@ menu:
 
 # sidebar en
 menu-en:
+ - title: "NEWS"
+   url: "/en/posts/"
  - title: "STAFF"
    children:
     - title: "Faculty"
@@ -66,8 +70,8 @@ menu-en:
    children:
     - title: "Undergraduate"
       url: "/en/courses/"
-    - title: #"Postgraduate"
-      url: #""
+    - title: "Postgraduate"
+      url: "/en/msc-courses/"
  - title: "LABS"
    url: "/en/groups/"
    children:
