@@ -1,4 +1,3 @@
-
 ---
 ref: isd
 title: "Information Systems and Databases Laboratory (ISDLab)"
