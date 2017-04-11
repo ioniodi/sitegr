@@ -1,11 +1,5 @@
 # main links
 main:
- - title: "gram-web"
-   url: "http://gram-web.ionio.gr/unistudent/login.asp"
- - title: "e-class"
-   url: "http://e-class.ionio.gr"
- - title: "WebMail"
-   url: "https://webmail.ionio.gr/"
   #- title: "Groups"
   #  url: /groups/
   #- title: "Projects"
@@ -15,6 +9,10 @@ main:
 
 # sidebar gr
 menu:
+ - title: "ΑΝΑΚΟΙΝΩΣΕΙΣ"
+   url: "/gr/posts/"
+ - title: "ΕΚΔΗΛΩΣΕΙΣ"
+   url: "http://events.di.ionio.gr/"
  - title: "ΠΡΟΣΩΠΙΚΟ"
    children:
     - title: "Διδακτικό"
@@ -51,9 +49,22 @@ menu:
       url: ""
     - title: ""
       url: ""
-
+ - title: "ΥΠΗΡΕΣΙΕΣ"
+   children:
+    - title: "gram-web"
+      url: "http://gram-web.ionio.gr/unistudent/login.asp"
+    - title: "e-class"
+      url: "http://e-class.ionio.gr"
+    - title: "WebMail"
+      url: "https://webmail.ionio.gr/"
+      
+      
 # sidebar en
 menu-en:
+ - title: "EVENTS"
+   url: "http://events.di.ionio.gr/"
+ - title: "NEWS"
+   url: "/en/posts/"
  - title: "STAFF"
    children:
     - title: "Faculty"
@@ -90,3 +101,11 @@ menu-en:
       url: ""
     - title: ""
       url: ""
+ - title: "Services"
+   children:
+    - title: "gram-web"
+      url: "http://gram-web.ionio.gr/unistudent/login.asp"
+    - title: "e-class"
+      url: "http://e-class.ionio.gr"
+    - title: "WebMail"
+      url: "https://webmail.ionio.gr/"
