@@ -2,7 +2,7 @@
 ref: isd
 title: "Information Systems and Databases Laboratory (ISDLab)"
 excerpt: "The ISD-Lab of our department supports both educational and research needs of the Department of Informatics, as well as other departments of the Ionian University, related to information systems and databases."
-web: "http://isdlab.di.ionio.gr"
+uri: "http://isdlab.di.ionio.gr"
 ---
 
 The main focus of the Information Systems research actions is on:
