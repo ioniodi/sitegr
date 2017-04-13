@@ -1,6 +1,6 @@
 ---
 ref: quit
-title: "Εργαστήριο Κβαντικών και μή Συμβατικών Υπολογισμών(QUITLab)"
+title: "Quantum and UnconventIonal CompuTing Laboratory(QUITLab)"
 excerpt: ""
 uri: "http://quit.di.ionio.gr"
 ---
