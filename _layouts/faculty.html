@@ -40,15 +40,15 @@ layout: default
       {% endif %}
     
       {% if page.email %}
-      <div><a  href="mailto:{{ page.email }}" target="_top">{{ page.email }}</a></div>
+      <div><a  href="mailto:{{ page.email }}" target="_top">{{page.title}}'s E-mail</a></div>
       {% endif %}
       
       {% if page.uri %}
-      <div><a href="{{ page.uri }}">Professor's URI</a></div>
+      <div><a href="{{ page.uri }}">{{page.title}}'s URI</a></div>
       {% endif %}
       
       {% if page.cv %}
-      <div><a href="{{ page.cv }}">Professor's CV</a></div>
+      <div><a href="{{ page.cv }}">{{page.title}}'s CV</a></div>
       {% endif %}
       
       <section class="page__content" itemprop="text">
