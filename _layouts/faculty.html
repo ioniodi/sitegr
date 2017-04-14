@@ -36,19 +36,19 @@ layout: default
       {% endif %}
       
       {% if page.tel %}
-        <div>{{ page.tel }}</div>
+      <div>{{ page.tel }}</div>
       {% endif %}
-      
+    
       {% if page.email %}
-        <div>{{ page.email }}</div>
+      <div><a href="{{ page.email }}" target="_top">{{ page.email }}</a></div>
       {% endif %}
       
       {% if page.uri %}
-        <div>{{ page.uri }}</div>
+      <div><a>{{ page.uri }}</a></div>
       {% endif %}
       
       {% if page.cv %}
-        <div>{{ page.cv }}</div>
+      <div><a>{{ page.cv }}</a></div>
       {% endif %}
       
       <section class="page__content" itemprop="text">
