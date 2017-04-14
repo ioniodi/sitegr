@@ -35,36 +35,22 @@ layout: default
        <div>{{ page.excerpt }}</div>
       {% endif %}
       
-      {% if page.code %}
-        <div>{{ page.code }}</div>
+      {% if page.tel %}
+        <div>{{ page.tel }}</div>
       {% endif %}
       
-      {% if page.semester %}
-        <div>{{ page.semester }}</div>
+      {% if page.email %}
+        <div>{{ page.email }}</div>
       {% endif %}
       
-      {% if page.type %}
-        <div>{{ page.type }}</div>
+      {% if page.uri %}
+        <div>{{ page.uri }}</div>
       {% endif %}
       
-      {% if page.hours %}
-        <div>{{ page.hours }}</div>
+      {% if page.cv %}
+        <div>{{ page.cv }}</div>
       {% endif %}
       
-      {% if page.extra %}
-        <div>{{ page.extra }}</div>
-      {% endif %}
-      
-      {% if page.ects %}
-        <div>{{ page.ects }}</div>
-      {% endif %}
-      
-      {% if page.web %}
-        <div>{{ page.web }}</div>
-      {% endif %}
-      
-      
-
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
