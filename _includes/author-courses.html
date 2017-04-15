@@ -1,6 +1,6 @@
 <div>
-  {% for course in site.courses %}
-  {% if course.author == author  %}
+  {% for course in site.courses and course_en in site.courses-en %}
+  {% if course.author == author || if course_en.author == author  %}
   <ul>
     <li>{{ course.title }}</li>
   </ul>
