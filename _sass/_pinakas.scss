@@ -7,29 +7,29 @@
   border-collapse: collapse;
   border: 1px solid $gray;
 
-  & + table:pinakas {
+  & + table{
     margin-top: 1em;
   }
 }
 
-thead:pinakas {
+thead{
   background-color: $gray;
   border-bottom: 1px solid $gray;
 }
 
-th:pinakas{
+th{
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
   border-right: 1px solid $gray;
 }
 
-td:pinakas{
+td{
   padding: 0.5em;
   border-bottom: 1px solid $gray;
   border-right: 1px solid $gray;
 }
 
-tr:pinakas, td:pinakas, th:pinakas {
+tr, td, th {
   vertical-align: middle;
 }
