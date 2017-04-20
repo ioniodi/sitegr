@@ -1,10 +1,10 @@
-.pinakas{
+table:pinakas{
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 1px solid $gray;
+  border: 1px solid $light-gray;
 
   & + table:pinakas {
     margin-top: 1em;
@@ -12,21 +12,21 @@
 }
 
 thead:pinakas {
-  background-color: $gray;
-  border-bottom: 1px solid $gray;
+  background-color: $lighter-gray;
+  border-bottom: 1px solid $light-gray;
 }
 
 th:pinakas {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $gray;
+  border-right: 1px solid $light-gray;
 }
 
 td:pinakas {
   padding: 0.5em;
-  border-bottom: 1px solid $gray;
-  border-right: 1px solid $gray;
+  border-bottom: 1px solid $light-gray;
+  border-right: 1px solid $light-gray;
 }
 
 tr:pinakas, td:pinakas, th:pinakas {
