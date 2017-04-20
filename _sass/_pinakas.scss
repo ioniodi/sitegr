@@ -1,35 +1,34 @@
-.pinakas { 
-	margin: 0; 
-	padding: 0; 
-}
-body { 
-	font: 14px/1.4 Georgia, Serif; 
-}
-&__page-wrap {
-	margin: 50px;
-}
-p {
-	margin: 20px 0; 
+table:pinakas {
+  margin-bottom: 1em;
+  width: 100%;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  border-collapse: collapse;
+  border: 1px solid $light-gray;
+
+  & + table:pinakas {
+    margin-top: 1em;
+  }
 }
 
-	/* 
-	Generic Styling, for Desktops/Laptops 
-	*/
-	table { 
-		width: 100%; 
-		border-collapse: collapse; 
-	}
-	/* Zebra striping */
-	tr:nth-of-type(odd) { 
-		background: #eee; 
-	}
-	th { 
-		background: #333; 
-		color: white; 
-		font-weight: bold; 
-	}
-	td, th { 
-		padding: 6px; 
-		border: 1px solid #ccc; 
-		text-align: left; 
-	}
+thead:pinakas {
+  background-color: $lighter-gray;
+  border-bottom: 1px solid $light-gray;
+}
+
+th:pinakas {
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+  border-right: 1px solid $light-gray;
+}
+
+td:pinakas {
+  padding: 0.5em;
+  border-bottom: 1px solid $light-gray;
+  border-right: 1px solid $light-gray;
+}
+
+tr:pinakas, td:pinakas, th:pinakas {
+  vertical-align: middle;
+}
