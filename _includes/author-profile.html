@@ -17,7 +17,7 @@
   {% endif %}
 
   <div class="author__content">
-    <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+    <h3 class="author__name" itemprop="name"><a href="{{site.url}}/{{site.baseurl}}/{{page.lang}}/faculty/{{ page.author | remove: '-en' }}">{{ author.name }}</a> </h3>
     {% if author.bio %}
       <p class="author__bio" itemprop="description">
         {{ author.bio }}
