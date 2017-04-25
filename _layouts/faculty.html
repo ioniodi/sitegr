@@ -35,36 +35,25 @@ layout: default
        <div>{{ page.excerpt }}</div>
       {% endif %}
       
-      {% if page.code %}
-        <div>{{ page.code }}</div>
+      {% if page.tel %}
+      <div>{{ page.tel }}</div>
+      {% endif %}
+    
+      {% if page.email %}
+      <div><a  href="mailto:{{ page.email }}" target="_top">{{page.title}}'s E-mail</a></div>
       {% endif %}
       
-      {% if page.semester %}
-        <div>{{ page.semester }}</div>
+      {% if page.uri %}
+      <div><a href="{{ page.uri }}">{{page.title}}'s URI</a></div>
       {% endif %}
       
-      {% if page.type %}
-        <div>{{ page.type }}</div>
+      {% if page.cv %}
+      <div><a href="{{ page.cv }}">{{page.title}}'s CV</a></div>
       {% endif %}
+<!--       This page's author gets assigned to author variable in include to be used for iteration comparison purposes -->
+      {% assign author = page.author %} 
+      {% include author-courses.html %}
       
-      {% if page.hours %}
-        <div>{{ page.hours }}</div>
-      {% endif %}
-      
-      {% if page.extra %}
-        <div>{{ page.extra }}</div>
-      {% endif %}
-      
-      {% if page.ects %}
-        <div>{{ page.ects }}</div>
-      {% endif %}
-      
-      {% if page.web %}
-        <div>{{ page.web }}</div>
-      {% endif %}
-      
-      
-
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
@@ -106,3 +95,4 @@ layout: default
     </div>
   {% endif %}
 </div>
+
