@@ -35,33 +35,7 @@ layout: default
        <div>{{ page.excerpt }}</div>
       {% endif %}
       
-      {% if page.code %}
-        <div>{{ page.code }}</div>
-      {% endif %}
-      
-      {% if page.semester %}
-        <div>{{ page.semester }}</div>
-      {% endif %}
-      
-      {% if page.type %}
-        <div>{{ page.type }}</div>
-      {% endif %}
-      
-      {% if page.hours %}
-        <div>{{ page.hours }}</div>
-      {% endif %}
-      
-      {% if page.extra %}
-        <div>{{ page.extra }}</div>
-      {% endif %}
-      
-      {% if page.ects %}
-        <div>{{ page.ects }}</div>
-      {% endif %}
-      
-      {% if page.uri %}
-        <div><a href="{{ page.uri }}">e-Class</a></div>
-      {% endif %}
+      {% include pinakas.html %}
       
       
 

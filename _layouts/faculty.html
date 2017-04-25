@@ -50,6 +50,9 @@ layout: default
       {% if page.cv %}
       <div><a href="{{ page.cv }}">{{page.title}}'s CV</a></div>
       {% endif %}
+<!--       This page's author gets assigned to author variable in include to be used for iteration comparison purposes -->
+      {% assign author = page.author %} 
+      {% include author-courses.html %}
       
       <section class="page__content" itemprop="text">
         {{ content }}

@@ -1,8 +1,5 @@
-/* ==========================================================================
-   TABLES
-   ========================================================================== */
 
-table {
+.pinakas{
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
@@ -10,24 +7,24 @@ table {
   border-collapse: collapse;
   border: 1px solid $light-gray;
 
-  & + table {
+  & + table{
     margin-top: 1em;
   }
 }
 
-thead {
+thead{
   background-color: $lighter-gray;
   border-bottom: 1px solid $light-gray;
 }
 
-th {
+th{
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
   border-right: 1px solid $light-gray;
 }
 
-td {
+td{
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
   border-right: 1px solid $light-gray;
