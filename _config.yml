@@ -240,12 +240,24 @@ collections:
   faculty-en:
     output: true
     permalink: /en/faculty/:path/
+  people:
+    output: true
+    permalink: /gr/people/:path/
+  people-en:
+    output: true
+    permalink: /en/people/:path/
   courses:
     output: true
     permalink: /gr/courses/:path/
   courses-en:
     output: true
     permalink: /en/courses/:path/
+  msc:
+    output: true
+    permalink: /gr/msc/:path/
+  msc-en:
+    output: true
+    permalink: /en/msc/:path/
   groups:
     output: true
     permalink: /gr/groups/:path/
@@ -266,10 +278,10 @@ collections:
     permalink: /en/:path/
   posts:
     output: true
-    permalink: /posts/:path/
+    permalink: /gr/posts/:path/
   posts-en:
     output: true
-    permalink: /posts-en/:path/
+    permalink: /en/posts/:path/
     
 # Defaults
 defaults:
@@ -309,7 +321,7 @@ defaults:
       lang: gr
       sidebar:
        nav: menu
-      layout: single
+      layout: faculty
       author_profile: true
       read_time: false
       comments: # true
@@ -319,6 +331,34 @@ defaults:
   - scope:
       path: ""
       type: faculty-en
+    values:
+      lang: en
+      sidebar:
+       nav: menu-en
+      layout: faculty
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      lang: gr
+      sidebar:
+       nav: menu
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+  # _people-en
+  - scope:
+      path: ""
+      type: people-en
     values:
       lang: en
       sidebar:
@@ -337,7 +377,7 @@ defaults:
       lang: gr
       sidebar:
        nav: menu
-      layout: single
+      layout: courses
       author_profile: true
       read_time: false
       comments: # true
@@ -351,20 +391,48 @@ defaults:
       lang: en
       sidebar:
        nav: menu-en
-      layout: single
+      layout: courses
       author_profile: true
       read_time: false
       comments: # true
       share: false
       related: false
-   # _groups
+  # _msc
+  - scope:
+      path: ""
+      type: msc
+    values:
+      lang: gr
+      sidebar:
+       nav: menu
+      layout: courses
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+  # _msc-en
+  - scope:
+      path: ""
+      type: msc-en
+    values:
+      lang: en
+      sidebar:
+       nav: menu-en
+      layout: courses
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+  # _groups
   - scope:
       path: ""
       type: groups
     values:
       lang: gr
       sidebar:
-       nav: menu-en
+       nav: menu
       layout: single
       author_profile: true
       read_time: false
@@ -374,7 +442,7 @@ defaults:
    # _groups-en
   - scope:
       path: ""
-      type: groups
+      type: groups-en
     values:
       lang: en
       sidebar:

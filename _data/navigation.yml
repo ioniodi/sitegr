@@ -1,11 +1,5 @@
 # main links
 main:
- - title: "gram-web"
-   url: "http://gram-web.ionio.gr/unistudent/login.asp"
- - title: "e-class"
-   url: "http://e-class.ionio.gr"
- - title: "WebMail"
-   url: "https://webmail.ionio.gr/"
   #- title: "Groups"
   #  url: /groups/
   #- title: "Projects"
@@ -15,6 +9,10 @@ main:
 
 # sidebar gr
 menu:
+ - title: "ΑΝΑΚΟΙΝΩΣΕΙΣ"
+   url: "/gr/posts/"
+ - title: "ΕΚΔΗΛΩΣΕΙΣ"
+   url: "http://events.di.ionio.gr/"
  - title: "ΠΡΟΣΩΠΙΚΟ"
    children:
     - title: "Διδακτικό"
@@ -27,17 +25,21 @@ menu:
    children:
     - title: "Προπτυχιακό"
       url: "/gr/courses/"
-    - title: #"Μεταπτυχιακό"
-      url: # ""
+    - title: "Μεταπτυχιακό"
+      url: "/gr/msc-courses/"
  - title: "ΕΡΓΑΣΤΗΡΙΑ"
    url: "/gr/groups/"
    children:
-    - title: "hilab"
-      url: "/gr/groups/hi/"
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
+    - title: # "BIHELab"
+      url: # "/gr/groups/bihe/"
+    - title: # "ISDLab"
+      url: # "/gr/groups/isd/"
+    - title: # "NMSLab"
+      url: # "/gr/groups/nms/"
+    - title: #"HILab"
+      url: #"/gr/groups/hi/"
+    - title: #"CMODLab"
+      url: # "/gr/groups/cmod"
  - title: "ΠΡΟΓΡΑΜΜΑΤΑ"
    url: "/gr/projects/"
    children:
@@ -47,9 +49,22 @@ menu:
       url: ""
     - title: ""
       url: ""
-
+ - title: "ΥΠΗΡΕΣΙΕΣ"
+   children:
+    - title: "gram-web"
+      url: "http://gram-web.ionio.gr/unistudent/login.asp"
+    - title: "e-class"
+      url: "http://e-class.ionio.gr"
+    - title: "WebMail"
+      url: "https://webmail.ionio.gr/"
+      
+      
 # sidebar en
 menu-en:
+ - title: "EVENTS"
+   url: "http://events.di.ionio.gr/"
+ - title: "NEWS"
+   url: "/en/posts/"
  - title: "STAFF"
    children:
     - title: "Faculty"
@@ -62,17 +77,21 @@ menu-en:
    children:
     - title: "Undergraduate"
       url: "/en/courses/"
-    - title: #"Postgraduate"
-      url: #""
+    - title: "Postgraduate"
+      url: "/en/msc-courses/"
  - title: "LABS"
    url: "/en/groups/"
    children:
-    - title: "hilab"
-      url: "/en/groups/hi/"
-    - title: ""
-      url: ""
-    - title: ""
-      url: ""
+    - title: #"BIHELab"
+      url: #"/en/groups/bihe/"
+    - title: #"ISDLab"
+      url: #"/en/groups/isd/"
+    - title: #"NMSLab"
+      url: #"/en/groups/nms/"
+    - title: #"HILab"
+      url: #"/en/groups/hi/"
+    - title: #"CMODLab"
+      url: #"/en/groups/cmod"
  - title: "PROJECTS"
    url: "/en/projects/"
    children:
@@ -82,3 +101,11 @@ menu-en:
       url: ""
     - title: ""
       url: ""
+ - title: "Services"
+   children:
+    - title: "gram-web"
+      url: "http://gram-web.ionio.gr/unistudent/login.asp"
+    - title: "e-class"
+      url: "http://e-class.ionio.gr"
+    - title: "WebMail"
+      url: "https://webmail.ionio.gr/"

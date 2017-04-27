@@ -2,19 +2,20 @@
 ref: vchris
 title: "Vassilis Chrissikopoulos"
 excerpt: "IT – Networks – Information Security"
-rank: 3
+rank: 1
 author: vchris-en
+tel: "+30 26610 87710"
+email: "vchris@ionio.gr"
+uri:  "http://di.ionio.gr"
+cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chrissikopoulos_cv_gr_2015.pdf"
+categories:
+ - "NMSLab"
+tags:
+ - "Security"
+ - "Computer Networks"
 ---
 
-Position: "Professor – Rector of Ionian University"
-Education:
+### education:
   - "Diploma in Mathematics, Aristotle University of Thessaloniki"
   - "MSc Industrial Research, Chelsea College, London University"
   - "PhD Royal Holloway, London University"
-Interests:
-  - "Security"
-  - "Computer Networks"
-Contact:
-  tel: "+30 26610 87710"
-  email: "vchris@ionio.gr"
-  web: "http://di.ionio.gr"

@@ -4,7 +4,7 @@ title: "Operating Systems"
 semester: 5
 author: dtsouma-en
 excerpt: "Basic notions of an Operating System (OS), OS structure. Processes: model and implementation. Interprocess communication, process scheduling. Memory Management, swapping, segmentation, memory allocation and control, virtual memory, pagination. File Systems, files and directories. Deadlocks: detection and recovery, avoidance and prevention. The Unix OS will be used for all laboratory exercises. Basic Unix instructions and applications will be covered and programming over the Unix environment on all aforementioned topics."
-web: "https://e-class.ionio.gr/courses/DCS239/"
+uri: "https://e-class.ionio.gr/courses/DCS239/"
 code: ΗΥ400
 type: "Compulsory"
 hours: 4

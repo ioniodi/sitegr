@@ -5,7 +5,7 @@ semester: 4
 author: emagos-en
 excerpt: "Introduction to Computer and Information Security: Definitions, Threats, Vulnerabilities, Risks. Logical Access Control: User AUthentication (Passwords, Challenge-Response, One-time Passwords). Access Control Policies, Authorization Models (MAC, DAC, RBAC), Operating System Security. Computer Malware: Viruses, Trojans, Worms, Bots and Botnets, Rootkits, Propagation Techniques. Internet and Web Security, TCP/IP Security, Cryptographic Techniques and Systems for Secure Communications, authenticated key establishments. Network Firewalls."
 code: ΗΥ210
-web: "https://e-class.ionio.gr/courses/DCS132/"
+uri: "https://e-class.ionio.gr/courses/DCS132/"
 type: "Compulsory"
 hours: 4
 extra: 2L

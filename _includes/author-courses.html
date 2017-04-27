@@ -1,0 +1,16 @@
+<div>
+  {% for course in site.courses%}
+  {% if course.author == author %}
+  <ul>
+    <li>{{ course.title }}</li>
+  </ul>
+  {% endif %}
+  {% endfor %}
+  {% for course_en in site.courses-en%}
+  {% if course_en.author == author %}
+  <ul>
+    <li>{{ course_en.title }}</li>
+  </ul>
+  {% endif %}
+  {% endfor %}
+</div>
