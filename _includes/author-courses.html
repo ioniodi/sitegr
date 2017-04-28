@@ -2,14 +2,14 @@
   {% for course in site.courses%}
   {% if course.author == author %}
   <ul>
-    <li>{{ course.title }}</li>
+    <li><a href="{{course.title}}">{{ course.title }}</a></li>
   </ul>
   {% endif %}
   {% endfor %}
   {% for course_en in site.courses-en%}
   {% if course_en.author == author %}
   <ul>
-    <li>{{ course_en.title }}</li>
+    <li><a href="{{course_en.title}}">{{ course_en.title }}</a></li>
   </ul>
   {% endif %}
   {% endfor %}
