@@ -2,7 +2,7 @@
   {% for course in site.courses%}
   {% if course.author == author %}
   <ul>
-    <li><a href="{{site.url}}/{{site.baseurl}} {{ course.url }}">{{ course.title }}</a></li>
+    <li><a href="{{site.url}} {{ course.url }}">{{ course.title }}</a></li>
   </ul>
   {% endif %}
   {% endfor %}
