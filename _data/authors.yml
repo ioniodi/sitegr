@@ -223,3 +223,10 @@ vchris-en:
  uri:
  bio:  "IT – Networks – Information Security"
  avatar: "/assets/images/vchris.jpg"
+
+alex:
+ name: "Αλέξανδρος Πανάρετος"
+ email:  "alex@ionio.gr"
+ uri: "http://users.ionio.gr/~alex/"
+ capacity:  "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+ avatar: "/assets/images/nophoto.jpg"
