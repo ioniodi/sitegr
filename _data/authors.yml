@@ -230,3 +230,10 @@ alex:
  uri: "http://users.ionio.gr/~alex/"
  bio:  "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
  avatar: "/assets/images/nophoto.jpg"
+ 
+svoul:
+ name: "Σπύρος Βούλγαρης"
+ email:  "svoul@ionio.gr"
+ uri: -
+ bio:  "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+ avatar: "/assets/images/nophoto.jpg"
