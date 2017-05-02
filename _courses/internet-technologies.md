@@ -14,7 +14,7 @@ ects: 5
 
 
 Βιβλιογραφία: 
-  - “Ανάπτυξη Web Εφαρμογών με PHP και MySQL”, Welling Luke,Thomson Laura, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-357-6, 2005"
-  - "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΛΑΤΦΟΡΜΑΣ ΥΠΗΡΕΣΙΩΝ ΙΣΤΟΥ”, SANJIVA WEERAWARANA, FRANCISCO CURBERA, FRANK LEYMANN, TONY STOREY, DONALD F. FERGUSON, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-086-0, 2008"
+  - “Ανάπτυξη Web Εφαρμογών με PHP και MySQL”, Welling Luke,Thomson Laura, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-357-6, 2005"[eudoxus link](https://service.eudoxus.gr/search/#a/id:12527844/0)
+  - "ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΛΑΤΦΟΡΜΑΣ ΥΠΗΡΕΣΙΩΝ ΙΣΤΟΥ”, SANJIVA WEERAWARANA, FRANCISCO CURBERA, FRANK LEYMANN, TONY STOREY, DONALD F. FERGUSON, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-086-0, 2008"[eudoxus link](https://service.eudoxus.gr/search/#a/id:13613/0)
 
 
