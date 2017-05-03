@@ -219,14 +219,21 @@ vchris:
 
 vchris-en:
  name: "Vassilis Chrissikopoulos"
- email:  "vchris@ionio.gr"
- uri:
+ email: "vchris@ionio.gr"
+ uri: ""
  bio:  "IT – Networks – Information Security"
  avatar: "/assets/images/vchris.jpg"
 
 alex:
  name: "Αλέξανδρος Πανάρετος"
- email:  "alex@ionio.gr"
+ email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
- bio:  "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+ bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
+ avatar: "/assets/images/nophoto.jpg"
+ 
+svoul:
+ name: "Σπύρος Βούλγαρης"
+ email: "svoul@ionio.gr"
+ uri: ""
+ bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
