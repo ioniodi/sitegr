@@ -1,4 +1,6 @@
-{% assign posts = site.courses | sort: "semester" %}
+{% if page.lang=='en' %}
+   {% assign posts = site.courses-en | sort: "semester" %}
+{% endif %}
 
 {% for post in posts %}
    {% include archive-single.html %}
