@@ -14,7 +14,7 @@ ects: 6
 
 
 Βιβλιογραφία: 
-  - ““Λειτουργικά Συστήματα Αρχές Σχεδίασης”, William Stallings, 8η Έκδοση, Εκδόσεις Τζιόλα"
-  - "“ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΕ UNIX”,MARC J. ROCHKIND, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ"
+  - ““Λειτουργικά Συστήματα Αρχές Σχεδίασης”, William Stallings, 8η Έκδοση, Εκδόσεις Τζιόλα"[eudoxus link](https://service.eudoxus.gr/search/#a/id:41959458/0)
+  - "“ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΕ UNIX”,MARC J. ROCHKIND, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ"[eudoxus link](https://service.eudoxus.gr/search/#a/id:13863/0)
   
 

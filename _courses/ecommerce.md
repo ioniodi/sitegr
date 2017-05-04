@@ -14,7 +14,7 @@ ects: 6
 
 
 Βιβλιογραφία: 
-  - "Ηλεκτρονικό εμπόριο 2008", Turban E., King D., McKay J., Marshall P., Lee J., Viehland D., Volonino L., Cheung Ch., Lai L., Pollard C., Εκδόσεις Α. Γκιούρδα, ISBN 960-512-543-9, 2008"
-  - "ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΟ ΕΜΠΟΡΙΟ", DAVE CHAFFEY, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-171-3, 2008"
+  - "Ηλεκτρονικό εμπόριο 2008", Turban E., King D., McKay J., Marshall P., Lee J., Viehland D., Volonino L., Cheung Ch., Lai L., Pollard C., Εκδόσεις Α. Γκιούρδα, ISBN 960-512-543-9, 2008" [eudoxus link](https://service.eudoxus.gr/search/#a/id:12307/0)
+  - "ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΟ ΕΜΠΟΡΙΟ", DAVE CHAFFEY, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-171-3, 2008" [eudoxus link](https://service.eudoxus.gr/search/#a/id:13774/0)
   
 
