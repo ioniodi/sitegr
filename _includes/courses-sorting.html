@@ -1,0 +1,5 @@
+{% assign posts = site.courses | sort: "semester" %}
+
+{% for post in posts %}
+   {% include archive-single.html %}
+{% endfor %}
