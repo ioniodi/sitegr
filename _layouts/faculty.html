@@ -35,6 +35,16 @@ layout: default
        <div>{{ page.excerpt }}</div>
       {% endif %}
       
+      {% if page.lang == 'en' %}
+       {% if page.rank == 3 %}
+         <div>Assistant Professor</div>
+       {% endif %}
+      {% else %}
+       {% if page.rank == 3 %}
+         <div>Επίκουρος Καθηγητής</div>
+       {% endif %}
+      {% endif %}
+      
       {% if page.tel %}
       <div>{{ page.tel }}</div>
       {% endif %}
