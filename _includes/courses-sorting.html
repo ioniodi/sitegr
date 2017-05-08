@@ -4,10 +4,11 @@
   {% assign posts = site.courses | sort: "semester" %}
 {% endif %}
 
+{% assign counter = 'false' %}
 {% for post in posts %}
-    {% assign counter = 'false' %}
+    
     {% if post.semester == 1 and counter != 'true' %}
-      <p>1ο Εξάμηνο</p> 
+      <h>1ο Εξάμηνο</h> 
       {% assign counter = 'true' %}
     {% endif %}
     {% include archive-single.html %}
