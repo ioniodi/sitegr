@@ -1,5 +1,10 @@
-{% assign posts = site.faculty | sort: "rank" %}
+{% if page.lang == 'en' %}
+  {% assign posts = site.faculty-en | sort: "rank" %}
+{% else %}
+  {% assign posts = site.faculty | sort: "rank" %}
+{% endif %}
 
-  {% for post in posts %}
+{% for post in posts %}
     {% include archive-single.html %}
-  {% endfor %}
+{% endfor %}
+
