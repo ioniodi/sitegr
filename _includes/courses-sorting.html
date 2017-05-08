@@ -5,10 +5,10 @@
 {% endif %}
 
 {% for post in posts %}
-{% assign counter = 1 %}
-{% if post.semester=1 and counter !=1 %}
+{% assign counter = 'false' %}
+{% if post.semester=1 and counter != 'true' %}
     <h1>1ο Εξάμηνο</h1>
-    {% assign counter = 1 %}
+    {% assign counter = 'true' %}
 {% endif %}
     {% include archive-single.html %}
 {% endfor %}
