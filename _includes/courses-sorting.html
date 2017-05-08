@@ -41,7 +41,7 @@
       <h3>7ο Εξάμηνο</h3> 
       {% assign counter7 = 'true' %}
     {% endif %}
-   {% else %}
+  {% else %}
         {% if post.semester == 1 and counter != 'true' %}
       <h3>1st Semester</h3> 
       {% assign counter = 'true' %}
@@ -69,7 +69,8 @@
     {% if post.semester == 7 and counter7 != 'true' %}
       <h3>7th Semester</h3> 
       {% assign counter7 = 'true' %}
-    {% endif %}  
-    {% include archive-single.html %}
+    {% endif %}
+  {% endif %}
+  {% include archive-single.html %}
 {% endfor %}
 
