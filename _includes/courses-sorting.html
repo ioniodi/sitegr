@@ -5,6 +5,11 @@
 {% endif %}
 
 {% for post in posts %}
+{% assign counter = 1 %}
+{% if post.semester=1 and counter !=1 %}
+    <h1>1ο Εξάμηνο</h1>
+    {% assign counter = 1 %}
+{% endif %}
     {% include archive-single.html %}
 {% endfor %}
 
