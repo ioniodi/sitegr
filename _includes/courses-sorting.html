@@ -5,11 +5,41 @@
 {% endif %}
 
 {% assign counter = 'false' %}
+{% assign counter2 = 'false' %}
+{% assign counter3 = 'false' %}
+{% assign counter4 = 'false' %}
+{% assign counter5 = 'false' %}
+{% assign counter6 = 'false' %}
+{% assign counter7 = 'false' %}
 {% for post in posts %}
     
     {% if post.semester == 1 and counter != 'true' %}
       <h>1ο Εξάμηνο</h> 
       {% assign counter = 'true' %}
+    {% endif %}
+    {% if post.semester == 2 and counter != 'true' %}
+      <h>2ο Εξάμηνο</h> 
+      {% assign counter2 = 'true' %}
+    {% endif %}
+    {% if post.semester == 3 and counter != 'true' %}
+      <h>3ο Εξάμηνο</h> 
+      {% assign counter3 = 'true' %}
+    {% endif %}
+    {% if post.semester4 == 4 and counter != 'true' %}
+      <h>4ο Εξάμηνο</h> 
+      {% assign counter4 = 'true' %}
+    {% endif %}
+    {% if post.semester == 5 and counter != 'true' %}
+      <h>5ο Εξάμηνο</h> 
+      {% assign counter5 = 'true' %}
+    {% endif %}
+    {% if post.semester == 6 and counter != 'true' %}
+      <h>6ο Εξάμηνο</h> 
+      {% assign counter6 = 'true' %}
+    {% endif %}
+    {% if post.semester == 7 and counter != 'true' %}
+      <h>7ο Εξάμηνο</h> 
+      {% assign counter7 = 'true' %}
     {% endif %}
     {% include archive-single.html %}
 {% endfor %}
