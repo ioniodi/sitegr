@@ -2,7 +2,7 @@
 ref: dtsouma
 title: "Δημήτριος Τσουμάκος"
 excerpt: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
-rank: 3
+rank: 2
 author: dtsouma
 tel: "+30 26610 87756"
 email: "dtsouma@ionio.gr"

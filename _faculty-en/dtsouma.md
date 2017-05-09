@@ -2,7 +2,7 @@
 ref: dtsouma
 title: "Dimitrios Tsoumakos"
 excerpt: "Data Management on the Web"
-rank: 3
+rank: 2
 author: dtsouma-en
 tel: "+30 26610 87756"
 email: "dtsouma@ionio.gr"
