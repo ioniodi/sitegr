@@ -2,7 +2,7 @@
 ref: magos
 title: "Emmanouil Magos"
 excerpt: "Cryptography and Information Systems Security"
-rank: 3
+rank: 2
 author: emagos-en
 tel: "+30 26610 87704"
 email: "emagos@ionio.gr"
