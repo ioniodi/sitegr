@@ -2,7 +2,7 @@
 ref: magos
 title: "Εμμανουήλ Μάγκος"
 excerpt: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
-rank: 3
+rank: 2
 author: emagos
 tel: "+30 26610 87704"
 email: "emagos@ionio.gr"
