@@ -2,7 +2,7 @@
 ref: okon
 title: "Κωνσταντίνος Οικονόμου"
 excerpt: "Δίκτυα Υπολογιστών"
-rank: 3
+rank: 2
 author: okon
 tel: "+30 26610 87708"
 email: "okon@ionio.gr"
