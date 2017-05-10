@@ -6,8 +6,7 @@ main:
   #  url: /projects/
   # - title: "Sitemap"
   #   url: /sitemap/
-   - title: Search
-     url: /gr/search/
+
 
 # sidebar gr
 menu:
