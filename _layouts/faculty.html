@@ -36,14 +36,36 @@ layout: default
       {% endif %}
       
       {% if page.lang == 'en' %}
-       {% if page.rank == 3 %}
-         <div>Assistant Professor</div>
-       {% endif %}
+       
+        {% if page.rank == 3 %}
+          <div>Assistant Professor</div>
+        {% endif %}
+       
+        {% if page.rank == 2 %}
+          <div>Associate Professor</div>
+        {% endif %}
+       
+        {% if page.rank == 1 %}
+          <div>Professor</div>
+        {% endif %}
+
       {% else %}
-       {% if page.rank == 3 %}
-         <div>Επίκουρος Καθηγητής</div>
-       {% endif %}
+      
+        {% if page.rank == 3 %}
+          <div>Επίκουρος Καθηγητής</div>
+        {% endif %}
+       
+        {% if page.rank == 2 %}
+          <div>Αναπληρωτής Καθηγητής</div>
+        {% endif %}
+       
+        {% if page.rank == 1 %}
+          <div>Καθηγητής</div>
+        {% endif %}
       {% endif %}
+      
+           
+      
       
       {% if page.tel %}
       <div>{{ page.tel }}</div>
