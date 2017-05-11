@@ -8,7 +8,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Εκδηλώσεις"
   cta_url: "http://events.di.ionio.gr/"
   caption:
-excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/gr/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
+excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/site1/gr/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/site1/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -18,9 +18,9 @@ feature_row:
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Διδακτικό Προσωπικό"
-    excerpt: "Γνωρίστε το Διδακτικό και Ερευνητικό προσωπικό του τμήματος Πληροφορικής."
-    url: "/gr/faculty/"
+    title: "Ερευνητικά Προγράμματα"
+    excerpt: "Δείτε όλα τα ερευνητικά προγράμματα του τμήματος Πληροφορικής."
+    url: "/gr/projects/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
