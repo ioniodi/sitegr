@@ -18,9 +18,9 @@ feature_row:
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Διδακτικό Προσωπικό"
-    excerpt: "Γνωρίστε το Διδακτικό και Ερευνητικό προσωπικό του τμήματος Πληροφορικής."
-    url: "/gr/faculty/"
+    title: "Ερευνητικά Προγράμματα"
+    excerpt: "Δείτε όλα τα ερευνητικά προγράμματα του τμήματος Πληροφορικής."
+    url: "/gr/projects/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"

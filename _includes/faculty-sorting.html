@@ -4,7 +4,38 @@
   {% assign posts = site.faculty | sort: "rank" %}
 {% endif %}
 
+{% assign counter = 'false' %}
+{% assign counter2 = 'false' %}
+{% assign counter3 = 'false' %}
+
 {% for post in posts %}
+  {% if page.lang =='gr' %} 
+    {% if post.rank == 1 and counter != 'true' %}
+      <h3>Καθηγητές</h3> 
+      {% assign counter = 'true' %}
+    {% endif %}
+    {% if post.rank == 2 and counter2 != 'true' %}
+      <h3>Αναπληρωτές Καθηγητές</h3> 
+      {% assign counter2 = 'true' %}
+    {% endif %}
+    {% if post.rank  == 3 and counter3 != 'true' %}
+      <h3>Επίκουροι Καθηγητές</h3> 
+      {% assign counter3 = 'true' %}
+    {% endif %}
+  {% else %}
+    {% if post.rank == 1 and counter != 'true' %}
+      <h3>Professors</h3> 
+      {% assign counter = 'true' %}
+    {% endif %}
+    {% if post.rank == 2 and counter2 != 'true' %}
+      <h3>Assοciate Professors</h3> 
+      {% assign counter2 = 'true' %}
+    {% endif %}
+     {% if post.rank  == 3 and counter3 != 'true' %}
+      <h3>Assistant Professors</h3> 
+      {% assign counter3 = 'true' %}
+     {% endif %}
+    {% endif %}
     {% include archive-single.html %}
 {% endfor %}
 
