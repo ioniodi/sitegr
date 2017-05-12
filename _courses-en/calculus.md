@@ -8,9 +8,8 @@ code: ΜΘ100
 semester: 1
 type: "Compulsory"
 hours: 4
-extra: -
+extra: 
 ects: 6
-
 ---
 
 
