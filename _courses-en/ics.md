@@ -10,6 +10,7 @@ type: "Compulsory"
 hours: 4
 extra: -
 ects: 6
+
 ---
 
 
