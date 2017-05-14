@@ -5,7 +5,7 @@
  {% endif %}
  
 {% for post in posts %}
-  {% if post.type =='Κατεύθυνσης Α.Ε.' %}
+  {% if post.type contains "Α.Ε." %}
     <div>{{ post.title }}</div>
   {% endif %}
   {% include archive-single.html %}
