@@ -7,6 +7,7 @@
 {% for post in posts %}
   {% if post.type contains "Α.Ε." %}
     <div>{{ post.title }}</div>
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
+  
  {% endfor %}
