@@ -4,9 +4,9 @@
   {% assign posts = site.courses | sort: "type" %}
  {% endif %}
  
- {% for post in posts %}
+{% for post in posts %}
   {% if post.type =='Κατεύθυνση Α.Ε' %}
     <div>{{ post.title }}</div>
-    {% include archive-single.html %}
   {% endif %}
+  {% include archive-single.html %}
  {% endfor %}
