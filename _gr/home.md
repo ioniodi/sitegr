@@ -8,7 +8,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Εκδηλώσεις"
   cta_url: "http://events.di.ionio.gr/"
   caption:
-excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="site1/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
+excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/gr/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="site1/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
