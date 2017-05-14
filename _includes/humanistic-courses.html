@@ -7,5 +7,6 @@
  {% for post in posts %}
   {% if post.type =='Κατεύθυνση Α.Ε' %}
     <div>{{ post.title }}</div>
+    {% include archive-single.html %}
   {% endif %}
  {% endfor %}
