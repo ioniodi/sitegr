@@ -5,8 +5,9 @@
  {% endif %}
  
 {% for post in posts %}
-  {% if post.type =='Κατεύθυνση Α.Ε' %}
+  {% if post.type =='Κατεύθυνσης Α.Ε' %}
     <div>{{ post.title }}</div>
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
+
  {% endfor %}
