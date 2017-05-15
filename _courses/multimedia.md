@@ -6,7 +6,7 @@ excerpt: "Υπερμέσα. Συμμετοχικά πολυμέσα. Εικον�
 uri: "http://e-class.ionio.gr/courses/DCS144/"
 code: 
 semester: 5
-type: "Κατεύθυνσης"
+type: "Κατεύθυνσης Α.Ε."
 hours: 4
 extra: 2Ε
 ects: 5
