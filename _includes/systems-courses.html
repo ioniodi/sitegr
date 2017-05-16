@@ -1,0 +1,13 @@
+
+{% if page.lang == 'en' %}
+  {% assign posts = site.courses-en | sort: "type" %}
+ {% else %}
+  {% assign posts = site.courses | sort: "type" %}
+ {% endif %}
+ 
+{% for post in posts %}
+  {% if post.type contains "Π.Σ." or post.type contains "I.S." %}
+    {% include archive-single.html %}
+  {% endif %}
+  
+ {% endfor %}
