@@ -1,76 +1,15 @@
+
+[//]: # (language.)
+
 {% if page.lang == 'en' %}
-  {% assign posts = site.courses-en | sort: "semester" %}
+  {% assign posts = site.courses-en  %}
 {% else %}
-  {% assign posts = site.courses | sort: "semester" %}
+    {% assign posts = site.courses %}
 {% endif %}
 
-{% assign counter = 'false' %}
-{% assign counter2 = 'false' %}
-{% assign counter3 = 'false' %}
-{% assign counter4 = 'false' %}
-{% assign counter5 = 'false' %}
-{% assign counter6 = 'false' %}
-{% assign counter7 = 'false' %}
 {% for post in posts %}
-  {% if page.lang=='gr' %} 
-    {% if post.semester == 1 and counter != 'true' %}
-     <h3>1ο Εξάμηνο</h3> 
-      {% assign counter = 'true' %}
-    {% endif %}
-    {% if post.semester == 2 and counter2 != 'true' %}
-      <h3>2ο Εξάμηνο</h3> 
-      {% assign counter2 = 'true' %}
-    {% endif %}
-    {% if post.semester == 3 and counter3 != 'true' %}
-      <h3>3ο Εξάμηνο</h3> 
-      {% assign counter3 = 'true' %}
-    {% endif %}
-    {% if post.semester == 4 and counter4 != 'true' %}
-      <h3>4ο Εξάμηνο</h3> 
-      {% assign counter4 = 'true' %}
-    {% endif %}
-    {% if post.semester == 5 and counter5 != 'true' %}
-      <h3>5ο Εξάμηνο</h3> 
-      {% assign counter5 = 'true' %}
-    {% endif %}
-    {% if post.semester == 6 and counter6 != 'true' %}
-      <h3>6ο Εξάμηνο</h3> 
-      {% assign counter6 = 'true' %}
-    {% endif %}
-    {% if post.semester == 7 and counter7 != 'true' %}
-      <h3>7ο Εξάμηνο</h3> 
-      {% assign counter7 = 'true' %}
-    {% endif %}
-  {% else %}
-        {% if post.semester == 1 and counter != 'true' %}
-      <h3>1st Semester</h3> 
-      {% assign counter = 'true' %}
-    {% endif %}
-    {% if post.semester == 2 and counter2 != 'true' %}
-      <h3>2nd Semester</h3> 
-      {% assign counter2 = 'true' %}
-    {% endif %}
-    {% if post.semester == 3 and counter3 != 'true' %}
-      <h3>3rd Semester</h3> 
-      {% assign counter3 = 'true' %}
-    {% endif %}
-    {% if post.semester == 4 and counter4 != 'true' %}
-      <h3>4th Semester</h3> 
-      {% assign counter4 = 'true' %}
-    {% endif %}
-    {% if post.semester == 5 and counter5 != 'true' %}
-      <h3>5th Semester</h3> 
-      {% assign counter5 = 'true' %}
-    {% endif %}
-    {% if post.semester == 6 and counter6 != 'true' %}
-      <h3>6th Semester</h3> 
-      {% assign counter6 = 'true' %}
-    {% endif %}
-    {% if post.semester == 7 and counter7 != 'true' %}
-      <h3>7th Semester</h3> 
-      {% assign counter7 = 'true' %}
-    {% endif %}
+  {% if post.semester == include.i %}
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
 
