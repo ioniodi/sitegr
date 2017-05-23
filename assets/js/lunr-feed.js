@@ -502,10 +502,11 @@ var index = lunr(function () {
   this.field('categories')
   this.field('tags')
   this.ref('id')
-
-  this.pipeline.remove(lunr.trimmer) // it doesn't work well with non-latin characters
-  this.pipeline.add(greekStemmer)
-  this.pipeline.remove(lunr.stemmer)
+  {% if page.lang == 'gr' %}
+    this.pipeline.remove(lunr.trimmer) // it doesn't work well with non-latin characters
+    this.pipeline.add(greekStemmer)
+    this.pipeline.remove(lunr.stemmer)
+  {% endif %} 
 });
 
 {% assign count = 0 %}{% for post in site.posts %}
