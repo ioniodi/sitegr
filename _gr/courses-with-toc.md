@@ -3,14 +3,6 @@ ref: courses-with-toc
 title: "Μαθήματα"
 ---
 
-[//]: # (language.)
-
-{% if page.lang == 'en' %}
-  {% assign posts = site.courses-en | sort: "semester" %}
-{% else %}
-  {% assign posts = site.courses | sort: "semester" %}
-{% endif %}
-
 [//]: # (assign table.)
 
 {% include toc title="ΜΑΘΗΜΑΤΑ" %}
@@ -19,70 +11,31 @@ title: "Μαθήματα"
 
 ### A ΕΞΑΜΗΝΟ
 
- {% for post in posts %}
-   {% if page.lang=='gr'  %} 
-     {% if post.semester == 1 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
- 
+ {% include courses-sorting.html i= 1 %}
+
 ### Β ΕΞΑΜΗΝΟ
  
- {% for post in posts %}
-   {% if page.lang=='gr' %} 
-     {% if post.semester == 2 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
-
+ {% include courses-sorting.html i= 2 %}
+ 
 ### Γ ΕΞΑΜΗΝΟ
  
- {% for post in posts %}
-   {% if page.lang=='gr' %} 
-     {% if post.semester == 3 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
-
+ {% include courses-sorting.html i= 3 %}
+ 
 ### Δ ΕΞΑΜΗΝΟ
  
- {% for post in posts %}
-   {% if page.lang=='gr' %} 
-     {% if post.semester == 4 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
-
+ {% include courses-sorting.html i= 4 %}
+ 
 ### Ε ΕΞΑΜΗΝΟ
  
- {% for post in posts %}
-   {% if page.lang=='gr' %} 
-     {% if post.semester == 5 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
-
+ {% include courses-sorting.html i= 5 %}
+ 
 ### ΣΤ ΕΞΑΜΗΝΟ
  
- {% for post in posts %}
-   {% if page.lang=='gr' %} 
-     {% if post.semester == 6 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
-
+ {% include courses-sorting.html i= 6 %}
+ 
 ### Ζ ΕΞΑΜΗΝΟ
  
- {% for post in posts %}
-   {% if page.lang=='gr' %} 
-     {% if post.semester == 7 %}  
-       {% include archive-single.html %}
-     {% endif %}
-   {% endif %}
- {% endfor %}
+ {% include courses-sorting.html i= 7 %}
+ 
+ 
+ 
