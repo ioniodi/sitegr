@@ -5,6 +5,7 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.baseurl }}/{{ page.lang }}/index/">{{ site.title[page.lang] }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.baseurl }}/{{ page.lang }}/search/">{% if page.lang == 'gr' %}Αναζήτηση{% else %}Search{% endif %}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
