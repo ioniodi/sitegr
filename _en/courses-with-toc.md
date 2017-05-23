@@ -9,31 +9,31 @@ title: "Μαθήματα"
 
 [//]: # (create table.)
 
-### A ΕΞΑΜΗΝΟ
+### SEMESTER 1
 
  {% include courses-sorting.html i= 1 %}
 
-### Β ΕΞΑΜΗΝΟ
+### SEMESTER 2
  
  {% include courses-sorting.html i= 2 %}
  
-### Γ ΕΞΑΜΗΝΟ
+### SEMESTER 3
  
  {% include courses-sorting.html i= 3 %}
  
-### Δ ΕΞΑΜΗΝΟ
+### SEMESTER 4
  
  {% include courses-sorting.html i= 4 %}
  
-### Ε ΕΞΑΜΗΝΟ
+### SEMESTER 5
  
  {% include courses-sorting.html i= 5 %}
  
-### ΣΤ ΕΞΑΜΗΝΟ
+### SEMESTER 6
  
  {% include courses-sorting.html i= 6 %}
  
-### Ζ ΕΞΑΜΗΝΟ
+### SEMESTER 7
  
  {% include courses-sorting.html i= 7 %}
  
