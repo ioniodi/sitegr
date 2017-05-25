@@ -486,6 +486,7 @@ defaults:
       path: ""
       type: posts
     values:
+      lang: gr
       sidebar:
        nav: menu
       layout: single
@@ -499,6 +500,7 @@ defaults:
       path: ""
       type: posts-en
     values:
+      lang: en
       sidebar:
        nav: menu-en
       layout: single
