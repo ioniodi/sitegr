@@ -1,5 +1,5 @@
 ---
-  
+
 ---
 // builds lunr
 var index = lunr(function () {
@@ -43,7 +43,7 @@ $(document).ready(function() {
     // Loop through, match, and add results
     for (var item in result) {
       var ref = result[item].ref;
-      var searchitem = '<div class="archive"><img src="'+store[ref].image+' class="result-img" style= height:150px;><div class="result-body"><a href="'+store[ref].link+'" class="archive__item-title">'+store[ref].title+'</a><div class="archive__subtitle">'+store[ref].date+'</div><p>'+store[ref].excerpt+'</p></div>';
+      var searchitem = '<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"><img src="'+store[ref].image+'" class="archive__item-teaser" style="height: 150px;"><a href="'+store[ref].link+'"><h2 class="archive__item-title" itemprop="headline">'+store[ref].title+'</h2></a><div class="archive__item-excerpt">'+store[ref].date+'<p>'+store[ref].excerpt+'</p></div></article></div>';
       resultdiv.append(searchitem);
     }
   });
