@@ -5,28 +5,28 @@ title: "Τμήμα Πληροφορικής"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash1.jpg
-  cta_label: "<i class='fa fa-download'></i> Είσοδος"
-  cta_url: "/gr/index/"
+  cta_label: "<i class='fa fa-download'></i> Οδηγός Σπουδών 2016-2017"
+  cta_url: "http://di.ionio.gr/wp-content/uploads/2016/09/OS_2016-2017-final.pdf"
   caption:
-excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.2.1">Latest release v4.2.1</a></small><br /><br />'
+excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/site1/gr/humanistic/">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/site1/gr/systems/">Πληροφοριακών Συστημάτων </a></small><br /><br />'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Ανακοινώσεις"
+    excerpt: "Ενημερωθείτε για τα τελευταία νέα του τμήματος Πληροφορικής."
+    url: "/gr/posts/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Ερευνητικά Προγράμματα"
+    excerpt: "Δείτε όλα τα ερευνητικά προγράμματα του τμήματος Πληροφορικής."
+    url: "/gr/projects/"
     btn_label: "Learn More"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
+    title: "Εργαστήρια"
+    excerpt: "Τα εργαστήρια του τμήματος παρέχουν έρευνα και διδασκαλία στην περιοχή της Πληροφορικής"
+    url: "/gr/groups/"
     btn_label: "Learn More"
 github:
   - excerpt: ''

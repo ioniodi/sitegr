@@ -1,0 +1,15 @@
+
+[//]: # (language.)
+
+{% if page.lang == 'en' %}
+  {% assign posts = site.courses-en  %}
+{% else %}
+    {% assign posts = site.courses %}
+{% endif %}
+
+{% for post in posts %}
+  {% if post.semester == include.i %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
