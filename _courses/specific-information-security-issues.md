@@ -8,7 +8,7 @@ code: DCS269
 semester: 4
 type: "Επιλογής"
 hours: 4
-extra: 2L
+extra: 2Ε
 ects: 4
 ---
 
