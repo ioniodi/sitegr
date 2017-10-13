@@ -14,5 +14,5 @@ ects: 5
 
 
 Βιβλιογραφία: 
-  - "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΩΝ", CHRISTOPHER D. MANNING, PRABHAKAR RAGHAVAN, HINRICH [eudoxus link] (https://service.eudoxus.gr/search/#a/id:12532681/0)
+  - "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΩΝ", CHRISTOPHER D. MANNING, PRABHAKAR RAGHAVAN, HINRICH [eudoxus link](https://service.eudoxus.gr/search/#a/id:12532681/0)
   - "Ανάκτηση Πληροφορίας", 2η Έκδοση, Baeza-Yates Ricardo, Ribeiro-Neto Berthier [eudoxus link](https://service.eudoxus.gr/search/#a/id:41954965/0)
