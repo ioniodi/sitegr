@@ -6,7 +6,7 @@ excerpt: "Introduction to compilation of computer programs. General-purpose prog
 uri: "https://e-class.ionio.gr/courses/DCS135/"
 code: ΗΥ150
 semester: 6
-type: " 	Elective"
+type: "Elective"
 hours: 4
 extra: 2L
 ects: 4
