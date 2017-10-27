@@ -245,3 +245,10 @@ karydis:
  uri: "https://users.ionio.gr/~karydis/index.el.html"
  bio: "Προσωρινός Διδάσκων (Π.Δ.) 407/80"
  avatar: "/assets/images/karydis.jpg"
+
+karydis-en:
+ name: "Ioannis Karydis"
+ email: "karydis@ionio.gr"
+ uri: "https://users.ionio.gr/~karydis/index.html"
+ bio: "Temporary Lecturer Department of Informatics 407/80"
+ avatar: "/assets/images/karydis.jpg"
