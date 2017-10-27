@@ -1,5 +1,5 @@
 ---
-ref: karydis
+ref: karydis-en
 title: "Ioannis Karydis"
 bio: "Temporary Lecturer 407/80 Department of Informatics"
 rank: 6
