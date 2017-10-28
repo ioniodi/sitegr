@@ -15,4 +15,4 @@ uri:
 
 Bibliography: 
   - "ΒΙΝΤΕΟΠΑΙΧΝΙΔΙΑ: ΒΙΟΜΗΧΑΝΙΑ ΚΑΙ ΑΝΑΠΤΥΞΗ, ΚΩΣΤΑΣ ΑΝΑΓΝΩΣΤΟΥ"[eudoxus link](https://service.eudoxus.gr/search/#a/id:13626/0)
-  - "Εικονικά περιβάλλοντα πληροφόρησης, Κόκοτος Δημήτριος Χ"[eudoxus link](https://service.eudoxus.gr/search/#a/id:22738/0)
+  - "Εικονικά περιβάλλοντα πληροφόρησης, Κόκοτος Δημήτριος Χ."[eudoxus link](https://service.eudoxus.gr/search/#a/id:22738/0)
