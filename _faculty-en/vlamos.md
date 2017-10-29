@@ -11,7 +11,6 @@ cv: "http://di.ionio.gr/wp-content/uploads/2017/03/Vlamos-Panayiotis-CV-2016.pdf
 tags:
   - "Mathematical modeling applied for image restoration purposes"
   - "Mathematical modeling applied to physical and Chemical Engineering problems"
-  - "Discrete Mathematics"
   - "Mathematical modeling in Education with the use of new technologies"
 ---
 
