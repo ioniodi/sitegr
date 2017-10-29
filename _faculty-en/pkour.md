@@ -8,8 +8,6 @@ tel: "+30 26610 87701"
 email: "pkour@ionio.gr"
 uri:  "http://www.ionio.gr/~pkour"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/kourouthanassis_cv_en_2011.pdf"
-categories:
- - ""
 tags: 
  - "Electronic Business"
  - "Electronic Government"

@@ -7,8 +7,6 @@ author: atsohou-en
 tel: "+30 26610 87738"
 email: "atsohou@ionio.gr"
 cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
-categories:
- - "NMSLab"
 tags:
  - "Information Security Policies, Risk Perceptions and User Awareness"
  - "Information Security Risk Assessment and Management"
