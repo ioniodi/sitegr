@@ -3,7 +3,7 @@ ref: semantic-and-social-web
 title: "Σημασιολογικός και Κοινωνικός Ιστός"
 author: fmylonas
 excerpt: "Μοντέλα και δομές πληροφορίας με στόχο την αποδοτική διαχείριση δεδομένων του Παγκόσμιου Ιστού. Οργάνωση πληροφορίας στον Παγκόσμιο Ιστό: semantics, οντολογίες και γλώσσες σημασιολογίας (RDF, OWL). Η γλώσσα ερωτημάτων SPARQL. Ανοικτά Διασυνδεδεμένα Δεδομένα. Επεξεργασία chat text, text analytics, text mining και web sentiment analysis. Επεξεργασία δεδομένων από κοινωνικά δίκτυα. Τεχνολογίες Web 2.0 και μηχανές αναζήτησης Ιστού."
-uri: "https://e-class.ionio.gr/courses/DCS161/"
+uri: "https://e-class.ionio.gr/courses/DCS254/"
 code: ΗΥ750
 semester: 8
 type: "Κατεύθυνση Α.Ε."
