@@ -8,8 +8,6 @@ tel: "+30 26610 87702"
 email: "avlon@ionio.gr"
 uri:  "http://www.ionio.gr/~avlon"
 cv: ""
-categories:
- - "CMODLab"
 tags:
  - "Applied stochastic processes"
  - "Self-organized systems"
