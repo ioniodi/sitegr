@@ -3,6 +3,11 @@ ref: nms
 title: "Networks, Multimedia and Security Systems Laboratory (NMSLab)"
 excerpt: "The Networks, Multimedia and Security Systems Laboratory (NMSLab) supports both educational and research needs of the Department of Informatics, as well as other departments of the Ionian University, related to computer networks, multimedia and security."
 uri: "http://nmslab.di.ionio.gr"
+members:
+ - atsohou-en
+ - emagos-en
+ - okon-en
+ - vchris-en
 ---
 
 The education role of NMSLab is to support courses in computer networks, multimedia systems with respect to cultural applications, computer security, cryptography, information systems security, distributed systems, information theory in the undergraduate level. In the postgraduate level, similar courses are given with a research flavor focusing on new issues and challenges in the area. Undergraduate and postgraduate theses are also supported as well as preparing any relevant educational material required (e.g., notes, presentations).

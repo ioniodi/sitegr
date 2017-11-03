@@ -210,8 +210,8 @@ category_archive:
   type: liquid
   path: /categories/
 tag_archive:
-  type: liquid
-  path: /tags/
+  type: google
+  path: https://scholar.google.gr/scholar?hl=en&as_sdt=0%2C5&q
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
