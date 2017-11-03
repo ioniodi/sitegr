@@ -3,7 +3,7 @@ ref: GeNeDis2016
 title: "2ο Παγκόσμιο Συνέδριο GeNeDis 2016"
 excerpt: "Το 2ο Παγκόσμιο Συνέδριο για την Γενετική, Γηριατρική και την Έρευνα νευροεκφυλιστικών νόσων, το 2nd World Congress 'GeNeDis 2016' με τίτλο ‘Geriatrics and Neurodegenerative Diseases Research’ θα πραγματοποιηθεί στην Σπάρτη, 20-23 Οκτωβρίου 2016."
 tags:
-categories:
+tags:
  - conference
 ---
 
