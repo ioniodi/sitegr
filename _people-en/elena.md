@@ -1,6 +1,6 @@
 ---
-ref: elena-en
+ref: elena
 title: "Elena Laskari"
 bio: "Head of Secretariat"
-author: elena
+author: elena-en
 ---
