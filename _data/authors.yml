@@ -231,6 +231,13 @@ alex:
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
  
+ alex-en:
+ name: "Alexandros Panaretos"
+ email: "alex@ionio.gr"
+ uri: "http://users.ionio.gr/~alex/"
+ bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
+ avatar: "/assets/images/nophoto.jpg"
+ 
 svoul:
  name: "Σπύρος Βούλγαρης"
  email: "svoul@ionio.gr"
@@ -261,4 +268,14 @@ karydis-en:
  elena-en:
  name: "Elena Laskari"
  bio: "Head of Secretariat"
+ avatar: "/assets/images/nophoto.jpg"
+ 
+ swthria:
+ name: "Σωτηρία-Σοφία Αρωνιάδα"
+ bio: "Γραμματεία"
+ avatar: "/assets/images/nophoto.jpg"
+ 
+ swthria-en:
+ name: "Swtiria-Sofia Aroniada"
+ bio: "Secretariat"
  avatar: "/assets/images/nophoto.jpg"
