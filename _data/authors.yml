@@ -244,7 +244,13 @@ svoul:
  uri: ""
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
- 
+
+svoul-en:
+ name: "Spiros Voulagris"
+ email: "svoul@ionio.gr"
+ uri: ""
+ bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
+ avatar: "/assets/images/nophoto.jpg"
  
 karydis:
  name: "Ιωάννης Καρύδης"
