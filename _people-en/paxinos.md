@@ -8,8 +8,6 @@ tel: ""
 email: "g.paxinos@neura.edu.au"
 uri: ""
 cv: ""
-categories:
- - "BiHELab"
 
 tags:
  - "Neuroscience"
