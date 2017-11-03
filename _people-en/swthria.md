@@ -1,6 +1,6 @@
 ---
 ref: swthria
-title: "Swthria-Sofia Aroniada"
+title: "Swtiria-Sofia Aroniada"
 bio: "Secretariat"
 author: swthria-en
 ---
