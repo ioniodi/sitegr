@@ -7,8 +7,6 @@ author: atsohou
 tel: "+30 26610 87738"
 email: "atsohou@ionio.gr"
 cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
-categories:
- - "NMSLab"
 tags: 
  - "Πολιτικές Ασφάλειας, Αντιλήψεις Επικινδυνότητας και Ενημερότητα Χρηστών"
  - "Ανάλυση Επικινδυνότητας και Διοίκηση Ασφάλειας Πληροφοριών"
