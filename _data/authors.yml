@@ -252,3 +252,13 @@ karydis-en:
  uri: "https://users.ionio.gr/~karydis/index.html"
  bio: "Temporary Lecturer Department of Informatics 407/80"
  avatar: "/assets/images/karydis.jpg"
+ 
+ elena:
+ name: "Έλενα Λάσκαρι"
+ bio: "Προϊσταμένη Γραμματείας"
+ avatar: "/assets/images/nophoto.jpg"
+ 
+ elena-en:
+ name: "Elena Laskari"
+ bio: "Head of Secretariat"
+ avatar: "/assets/images/nophoto.jpg"
