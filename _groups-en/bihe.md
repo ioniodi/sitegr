@@ -5,6 +5,7 @@ excerpt: "The Bioinformatics and Human Electrophysiology Lab focus on recent adv
 uri: "http://bihelab.di.ionio.gr"
 members:
  - vlamos-en
+ - paxinos-en
 ---
 
 BiHELab interests lie within educational, research and development activities in the areas of neurogenerative diseases and their relations with mitochondrial abnormalities and skin cancers, Rna-Protein interaction problem, the mathematical modeling of mitochondrial motility, alternative mathematical representations and optimized algorithms for RNA closed secondary structures and bioethics.

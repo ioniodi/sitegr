@@ -6,6 +6,7 @@ uri: "http://cmodlab.di.ionio.gr"
 members:
  - avlon-en
  - vlamos-en
+ - wegner-en
 ---
 
 The fields of current research interest in the Laboratory of Computational Modeling in the Department of Informatics of the Ionian University focus on the following thematic units:
