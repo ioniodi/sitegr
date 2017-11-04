@@ -252,3 +252,31 @@ karydis-en:
  uri: "https://users.ionio.gr/~karydis/index.html"
  bio: "Temporary Lecturer Department of Informatics 407/80"
  avatar: "/assets/images/karydis.jpg"
+
+paxinos:
+ name: "Γεώργιος Παξινός"
+ email: "g.paxinos@neura.edu.au"
+ uri: ""
+ bio: "Επίτιμος Διδάκτορας"
+ avatar: "/assets/images/paxinos.jpg"
+
+paxinos-en:
+ name: "George Paxinos"
+ email: "g.paxinos@neura.edu.au"
+ uri: ""
+ bio: "Honorary Doctor"
+ avatar: "/assets/images/paxinos.jpg"
+ 
+wegner:
+ name: "Bernd Wegner"
+ email: ""
+ uri: ""
+ bio: "Επίτιμος Διδάκτορας"
+ avatar: "/assets/images/wegner.jpg"
+
+wegner-en:
+ name: "Bernd Wegner"
+ email: ""
+ uri: ""
+ bio: "Honorary Doctor"
+ avatar: "/assets/images/wegner.jpg"

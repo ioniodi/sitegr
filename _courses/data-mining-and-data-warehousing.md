@@ -8,7 +8,7 @@ uri: "https://e-class.ionio.gr/courses/DCS172/"
 code: ΗΥ380
 type: "Επιλογής"
 hours: 4
-extra: "-"
+extra: 
 ects: 4
 ---
 
