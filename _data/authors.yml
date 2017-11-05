@@ -265,23 +265,32 @@ karydis-en:
  uri: "https://users.ionio.gr/~karydis/index.html"
  bio: "Temporary Lecturer Department of Informatics 407/80"
  avatar: "/assets/images/karydis.jpg"
+
+paxinos:
+ name: "Γεώργιος Παξινός"
+ email: "g.paxinos@neura.edu.au"
+ uri: ""
+ bio: "Επίτιμος Διδάκτορας"
+ avatar: "/assets/images/paxinos.jpg"
+
+paxinos-en:
+ name: "George Paxinos"
+ email: "g.paxinos@neura.edu.au"
+ uri: ""
+ bio: "Honorary Doctor"
+ avatar: "/assets/images/paxinos.jpg"
  
- elena:
- name: "Έλενα Λάσκαρι"
- bio: "Προϊσταμένη Γραμματείας"
- avatar: "/assets/images/nophoto.jpg"
- 
- elena-en:
- name: "Elena Laskari"
- bio: "Head of Secretariat"
- avatar: "/assets/images/nophoto.jpg"
- 
- swthria:
- name: "Σωτηρία-Σοφία Αρωνιάδα"
- bio: "Γραμματεία"
- avatar: "/assets/images/nophoto.jpg"
- 
- swthria-en:
- name: "Swtiria-Sofia Aroniada"
- bio: "Secretariat"
- avatar: "/assets/images/nophoto.jpg"
+wegner:
+ name: "Bernd Wegner"
+ email: ""
+ uri: ""
+ bio: "Επίτιμος Διδάκτορας"
+ avatar: "/assets/images/wegner.jpg"
+
+wegner-en:
+ name: "Bernd Wegner"
+ email: ""
+ uri: ""
+ bio: "Honorary Doctor"
+ avatar: "/assets/images/wegner.jpg"
+
