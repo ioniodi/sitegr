@@ -5,7 +5,7 @@ bio: "Απόφοιτος Διδάκτορας"
 rank: 7
 author: mikalef
 tel: ""
-email: ""
+email: "patrick.mikalef@ntnu.no"
 uri: ""
 cv: ""
 
