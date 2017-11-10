@@ -231,13 +231,26 @@ alex:
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
  
+ alex-en:
+ name: "Alexandros Panaretos"
+ email: "alex@ionio.gr"
+ uri: "http://users.ionio.gr/~alex/"
+ bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
+ avatar: "/assets/images/nophoto.jpg"
+ 
 svoul:
  name: "Σπύρος Βούλγαρης"
  email: "svoul@ionio.gr"
  uri: ""
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
- 
+
+svoul-en:
+ name: "Spiros Voulagris"
+ email: "svoul@ionio.gr"
+ uri: ""
+ bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
+ avatar: "/assets/images/nophoto.jpg"
  
 karydis:
  name: "Ιωάννης Καρύδης"
@@ -280,3 +293,4 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
+
