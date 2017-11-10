@@ -1,6 +1,6 @@
 ---
 ref: search
 layout: archive
-title: Αναζήτηση στις ανακοινώσεις
+title: Αναζήτηση στην ιστοσελίδα
 search: true
 ---
