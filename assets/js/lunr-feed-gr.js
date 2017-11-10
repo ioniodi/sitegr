@@ -577,6 +577,13 @@ $(document).ready(function() {
       	var searchitem = '<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"><a href="'+store[ref].link+'"><h2 class="archive__item-title" itemprop="headline">'+store[ref].title+'</h2></a><div class="archive__item-excerpt">'+store[ref].collection+'<p>'+store[ref].excerpt+'</p></div></article></div>';}
       else if(store[ref].collection=="Προσωπικό"){
       	var searchitem = '<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"><a href="'+store[ref].link+'"><h2 class="archive__item-title" itemprop="headline">'+store[ref].title+'</h2></a><div class="archive__item-excerpt">'+store[ref].collection+'<p>'+store[ref].excerpt+'</p></div></article></div>';}
+=======
+      if(store[ref].image){
+        var searchitem = '<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"><img src="'+store[ref].image+'" class="archive__item-teaser" style="height: 150px;"><a href="'+store[ref].link+'"><h2 class="archive__item-title" itemprop="headline">'+store[ref].title+'</h2></a><div class="archive__item-excerpt">'+store[ref].date+'<p>'+store[ref].excerpt+'</p></div></article></div>';
+      }  
+      else{
+      	var searchitem = '<div><article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"><a href="'+store[ref].link+'"><h2 class="archive__item-title" itemprop="headline">'+store[ref].title+'</h2></a><div class="archive__item-excerpt">'+store[ref].date+'<p>'+store[ref].excerpt+'</p></div></article></div>';
+      }
       resultdiv.append(searchitem);
       } 
   });
