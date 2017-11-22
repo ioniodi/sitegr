@@ -1,41 +1,41 @@
 ---
-ref: courses-with-toc
-title: "Μαθήματα"
+ref: courses
+title: "Undergraduate Courses"
 ---
 
-[//]: # (assign table.)
+{% include toc title = "COURSES" icon = "graduation-cap" %}
 
-{% include toc title="ΜΑΘΗΜΑΤΑ" %}
+## 1ˢᵗ Semester
+---------------
 
-[//]: # (create table.)
+  {% include courses-sorting.html i = 1 %}
 
-### SEMESTER 1
+## 2ⁿᵈ Semester
+---------------
 
- {% include courses-sorting.html i= 1 %}
+  {% include courses-sorting.html i = 2 %}
 
-### SEMESTER 2
- 
- {% include courses-sorting.html i= 2 %}
- 
-### SEMESTER 3
- 
- {% include courses-sorting.html i= 3 %}
- 
-### SEMESTER 4
- 
- {% include courses-sorting.html i= 4 %}
- 
-### SEMESTER 5
- 
- {% include courses-sorting.html i= 5 %}
- 
-### SEMESTER 6
- 
- {% include courses-sorting.html i= 6 %}
- 
-### SEMESTER 7
- 
- {% include courses-sorting.html i= 7 %}
- 
- 
- 
+## 3ʳᵈ Semester
+---------------
+
+  {% include courses-sorting.html i = 3 %}
+
+## 4ᵗʰ Semester
+---------------
+
+  {% include courses-sorting.html i = 4 %}
+
+## 5ᵗʰ Semester
+---------------
+
+  {% include courses-sorting.html i = 5 %}
+
+## 6ᵗʰ Semester
+---------------
+
+  {% include courses-sorting.html i = 6 %}
+
+## 7ᵗʰ Semester
+---------------
+
+  {% include courses-sorting.html i = 7 %}
