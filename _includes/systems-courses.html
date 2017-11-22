@@ -1,13 +1,12 @@
 
 {% if page.lang == 'en' %}
-  {% assign posts = site.courses-en | sort: "type" %}
- {% else %}
-  {% assign posts = site.courses | sort: "type" %}
- {% endif %}
- 
+  {% assign posts = site.courses-en  %}
+{% else %}
+    {% assign posts = site.courses %}
+{% endif %}
+
 {% for post in posts %}
-  {% if post.type contains "Π.Σ." or post.type contains "I.S." %}
+  {% if post.type == "Κατεύθυνση Π.Σ." %}
     {% include archive-single.html %}
   {% endif %}
-  
- {% endfor %}
+{% endfor %}
