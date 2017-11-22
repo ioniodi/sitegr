@@ -1,6 +1,6 @@
 ---
 ref: search
-layout: archive
+layout: search
 title: Αναζήτηση στην ιστοσελίδα
 search: true
 ---

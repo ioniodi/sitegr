@@ -4,7 +4,8 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme                    : "minimal-mistakes-jekyll"
 # Site Settings
 locale                   : "en"
 title:
@@ -180,7 +181,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -282,7 +283,7 @@ collections:
   posts-en:
     output: true
     permalink: /en/posts/:year/:month/:day/:title/
-    
+
 # Defaults
 defaults:
   # _gr
