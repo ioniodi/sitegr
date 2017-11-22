@@ -1,41 +1,41 @@
 ---
-ref: courses-with-toc
-title: "Μαθήματα"
+ref: courses
+title: "Προπτυχιακά Μαθήματα"
 ---
 
-[//]: # (assign table.)
+{% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
 
-{% include toc title="ΜΑΘΗΜΑΤΑ" %}
+## A Εξάμηνο
+------------
 
-[//]: # (create table.)
+  {% include courses-sorting.html i = 1 %}
 
-### A ΕΞΑΜΗΝΟ
+## Β Εξάμηνο
+------------
 
- {% include courses-sorting.html i= 1 %}
+  {% include courses-sorting.html i = 2 %}
 
-### Β ΕΞΑΜΗΝΟ
- 
- {% include courses-sorting.html i= 2 %}
- 
-### Γ ΕΞΑΜΗΝΟ
- 
- {% include courses-sorting.html i= 3 %}
- 
-### Δ ΕΞΑΜΗΝΟ
- 
- {% include courses-sorting.html i= 4 %}
- 
-### Ε ΕΞΑΜΗΝΟ
- 
- {% include courses-sorting.html i= 5 %}
- 
-### ΣΤ ΕΞΑΜΗΝΟ
- 
- {% include courses-sorting.html i= 6 %}
- 
-### Ζ ΕΞΑΜΗΝΟ
- 
- {% include courses-sorting.html i= 7 %}
- 
- 
- 
+## Γ Εξάμηνο
+------------
+
+  {% include courses-sorting.html i = 3 %}
+
+## Δ Εξάμηνο
+------------
+
+  {% include courses-sorting.html i = 4 %}
+
+## Ε Εξάμηνο
+------------
+
+  {% include courses-sorting.html i = 5 %}
+
+## ΣΤ Εξάμηνο
+------------
+
+  {% include courses-sorting.html i = 6 %}
+
+## Ζ Εξάμηνο
+------------
+
+  {% include courses-sorting.html i = 7 %}

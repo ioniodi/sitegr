@@ -8,8 +8,6 @@ tel: "+30 26610 87756"
 email: "christos@ionio.gr"
 uri:  "http://www.ionio.gr/~christos"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
-categories:
- - ""
 tags:
  - "Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)"
  - "Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)"

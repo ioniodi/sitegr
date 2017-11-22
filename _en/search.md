@@ -1,6 +1,6 @@
 ---
 ref: search
 layout: archive
-title: Search in Posts
+title: Search 
 search: true 
 ---

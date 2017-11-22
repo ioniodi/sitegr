@@ -3,6 +3,8 @@ ref: quit
 title: "Quantum and UnconventIonal CompuTing Laboratory(QUITLab)"
 excerpt: ""
 uri: "http://quit.di.ionio.gr"
+members:
+ - andronikos-en
 ---
 
 Our current areas of research include:

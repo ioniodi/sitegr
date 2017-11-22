@@ -1,9 +1,9 @@
 ---
-ref: karydis-en
+ref: karydis
 title: "Ioannis Karydis"
 bio: "Temporary Lecturer 407/80 Department of Informatics"
 rank: 6
-author: karydis
+author: karydis-en
 tel: ""
 email: "	karydis@ionio.gr "
 uri:  "https://users.ionio.gr/~karydis/index.html"

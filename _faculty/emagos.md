@@ -1,5 +1,5 @@
 ---
-ref: magos
+ref: emagos
 title: "Εμμανουήλ Μάγκος"
 excerpt: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
 rank: 2
@@ -8,8 +8,6 @@ tel: "+30 26610 87704"
 email: "emagos@ionio.gr"
 uri:  "http://di.ionio.gr/~emagos"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
-categories:
- - "NMSLab"
 tags:
  - "Κρυπτογραφικές Τεχνικές στην Ασφάλεια Υπολογιστών και Δικτύων"
  - "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
