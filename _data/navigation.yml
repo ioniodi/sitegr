@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Προσωπικό"
-    url:
+    url: ""
   - title: "Σπουδές"
-    url:
+    url: ""
   - title: "Εργαστήρια"
     url: "/gr/groups/"
 
 main-en:
   - title: "Faculty"
-    url:
+    url: ""
   - title: "Studies"
-    url:
+    url: ""
   - title: "Laboratories"
     url: "/en/groups/"
 
