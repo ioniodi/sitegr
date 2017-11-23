@@ -4,7 +4,12 @@
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ page.lang | append: '/' | absolute_url }}">{{ site.title[page.lang] }}</a>
         <ul class="visible-links">
-          {% for link in site.data.navigation.main %}
+          {% if page.lang == "en" %}
+            {% assign links = site.data.navigation.main-en %}
+          {% else %}
+            {% assign links = site.data.navigation.main %}
+          {% endif %}
+          {% for link in links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}

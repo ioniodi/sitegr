@@ -1,11 +1,19 @@
 # main links
 main:
-  #- title: "Groups"
-  #  url: /groups/
-  #- title: "Projects"
-  #  url: /projects/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Προσωπικό"
+    url:
+  - title: "Σπουδές"
+    url:
+  - title: "Εργαστήρια"
+    url: "/gr/groups/"
+
+main-en:
+  - title: "Faculty"
+    url:
+  - title: "Studies"
+    url:
+  - title: "Laboratories"
+    url: "/en/groups/"
 
 # sidebar gr
 menu:
