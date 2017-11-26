@@ -1,6 +1,5 @@
 ---
 ref: search
-layout: archive
+layout: search
 title: Search 
-search: true 
 ---

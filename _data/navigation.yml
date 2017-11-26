@@ -6,6 +6,8 @@ main:
     url: ""
   - title: "Εργαστήρια"
     url: "/gr/groups/"
+  - title: "Αναζήτηση"
+    url: "/gr/search/"
 
 main-en:
   - title: "Faculty"
@@ -14,6 +16,8 @@ main-en:
     url: ""
   - title: "Laboratories"
     url: "/en/groups/"
+  - title: "Search"
+    url: "/en/search/"
 
 # sidebar gr
 menu:
