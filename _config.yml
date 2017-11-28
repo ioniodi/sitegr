@@ -241,12 +241,12 @@ collections:
   faculty-en:
     output: true
     permalink: /en/faculty/:path/
-  people:
+  administrative-assistants:
     output: true
-    permalink: /gr/people/:path/
-  people-en:
+    permalink: /gr/administrative-assistants/:path/
+  administrative-assistants-en:
     output: true
-    permalink: /en/people/:path/
+    permalink: /en/administrative-assistants/:path/
   courses:
     output: true
     permalink: /gr/courses/:path/

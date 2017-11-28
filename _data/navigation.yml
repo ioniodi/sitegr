@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Προσωπικό"
-    url: ""
+    url: "/gr/faculty/"
   - title: "Σπουδές"
-    url: ""
+    url: "/gr/courses/"
   - title: "Εργαστήρια"
     url: "/gr/groups/"
   - title: "Αναζήτηση"
@@ -121,3 +121,19 @@ menu-en:
       url: "http://e-class.ionio.gr"
     - title: "WebMail"
       url: "https://webmail.ionio.gr/"
+
+# sidebar for people
+people:
+  - title: "Προσωπικό"
+    children:
+      - title: "Διδακτικό"
+        url: /gr/faculty/
+      - title: "Εργαστηριακό Προσωπικό"
+        url: /gr/administrative-assistants/
+people-en:
+  - title: "People"
+    children:
+      - title: "Faculty"
+        url: /en/faculty/
+      - title: "Administrative Assistants"
+        url: /gr/administrative-assistants/
