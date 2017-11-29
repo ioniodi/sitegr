@@ -5,8 +5,8 @@ excerpt: "Dakos (Olive Fly) is the most severe enemy of olive production, causin
 grant: ""
 partners:
  - Municipality of Saint George, Corfu
-- Department of Informatics, Ionian University
-- Olive Research Center of Corfu
+ - Department of Informatics, Ionian University
+ - Olive Research Center of Corfu
 web: ""
 ---
 
