@@ -1,17 +1,17 @@
-{% if page.ref == "courses" %}
+{% if page.ref == 'courses' %}
   {% if page.lang == 'en' %}
     {% assign courses = site.courses-en  %}
   {% else %}
     {% assign courses = site.courses %}
   {% endif %}
-{% elsif page.ref == "msc-courses" %}
+{% elsif page.ref == 'msc-courses' %}
   {% if page.lang == 'en' %}
     {% assign courses = site.msc-en  %}
   {% else %}
     {% assign courses = site.msc %}
   {% endif %}
 {% endif %}
-{% for post in courses %}
+{% for post in posts %}
   {% if post.semester == include.i %}
     {% include archive-single.html %}
   {% endif %}

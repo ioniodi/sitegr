@@ -1,41 +1,18 @@
-{% if page.lang == 'en' %}
-  {% assign posts = site.faculty-en | sort: "rank" %}
-{% else %}
-  {% assign posts = site.faculty | sort: "rank" %}
-{% endif %}
-
-{% assign counter = 'false' %}
-{% assign counter2 = 'false' %}
-{% assign counter3 = 'false' %}
-
-{% for post in posts %}
-  {% if page.lang =='gr' %} 
-    {% if post.rank == 1 and counter != 'true' %}
-      <h3>Καθηγητές</h3> 
-      {% assign counter = 'true' %}
-    {% endif %}
-    {% if post.rank == 2 and counter2 != 'true' %}
-      <h3>Αναπληρωτές Καθηγητές</h3> 
-      {% assign counter2 = 'true' %}
-    {% endif %}
-    {% if post.rank  == 3 and counter3 != 'true' %}
-      <h3>Επίκουροι Καθηγητές</h3> 
-      {% assign counter3 = 'true' %}
-    {% endif %}
+{% if page.ref == 'faculty' %}
+  {% if page.lang == 'en' %}
+    {% assign posts = site.faculty-en %}
   {% else %}
-    {% if post.rank == 1 and counter != 'true' %}
-      <h3>Professors</h3> 
-      {% assign counter = 'true' %}
-    {% endif %}
-    {% if post.rank == 2 and counter2 != 'true' %}
-      <h3>Assοciate Professors</h3> 
-      {% assign counter2 = 'true' %}
-    {% endif %}
-     {% if post.rank  == 3 and counter3 != 'true' %}
-      <h3>Assistant Professors</h3> 
-      {% assign counter3 = 'true' %}
-     {% endif %}
-    {% endif %}
+    {% assign posts = site.faculty %}
+  {% endif %}
+{% elsif page.ref == 'administrative-assistants' %}
+  {% if page.lang == 'en' %}
+    {% assign posts = site.administrative-assistants-en %}
+  {% else %}
+    {% assign posts = site.administrative-assistants %}
+  {% endif %}
+{% endif %}
+{% for post in posts %}
+  {% if post.rank == include.r %}
     {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
-
