@@ -10,8 +10,8 @@ title: "MSc Courses"
 
 ## 1ˢᵗ Semester
 
-  {% include courses-sorting.html i = 1 %}
+  {% include collection-sort.html i = 1 %}
 
 ## 2ⁿᵈ Semester
 
-  {% include courses-sorting.html i = 2 %}
+  {% include collection-sort.html i = 2 %}

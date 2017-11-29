@@ -1,0 +1,12 @@
+{% if page.lang == 'en' %}
+  {% assign l = page.ref | append: '-en' %}
+  {% assign posts = site.collections | where: 'label', l | first %}
+{% else %}
+  {% assign l = page.ref %}
+  {% assign posts = site.collections | where: 'label', l | first %}
+{% endif %}
+{% for post in posts.docs %}
+  {% if post.semester == include.i or post.rank == include.i %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

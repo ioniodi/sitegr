@@ -4,4 +4,3 @@ sidebar:
  nav: people-en
 title: "Faculty"
 ---
-{% include faculty-sorting.html %}

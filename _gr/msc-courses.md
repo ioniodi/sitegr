@@ -10,8 +10,8 @@ title: "Μαθήματα Μεταπτυχιακού"
 
 ## A Εξάμηνο
 
-{% include courses-sorting.html i = 1 %}
+{% include collection-sort.html i = 1 %}
 
 ## Β Εξάμηνο
 
-{% include courses-sorting.html i = 2 %}
+{% include collection-sort.html i = 2 %}

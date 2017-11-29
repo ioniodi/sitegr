@@ -16,28 +16,28 @@ title: "Προπτυχιακά Μαθήματα"
 
 ## A Εξάμηνο
 
-{% include courses-sorting.html i = 1 %}
+{% include collection-sort.html i = 1 %}
 
 ## Β Εξάμηνο
 
-{% include courses-sorting.html i = 2 %}
+{% include collection-sort.html i = 2 %}
 
 ## Γ Εξάμηνο
 
-{% include courses-sorting.html i = 3 %}
+{% include collection-sort.html i = 3 %}
 
 ## Δ Εξάμηνο
 
-{% include courses-sorting.html i = 4 %}
+{% include collection-sort.html i = 4 %}
 
 ## Ε Εξάμηνο
 
-{% include courses-sorting.html i = 5 %}
+{% include collection-sort.html i = 5 %}
 
 ## ΣΤ Εξάμηνο
 
-{% include courses-sorting.html i = 6 %}
+{% include collection-sort.html i = 6 %}
 
 ## Ζ Εξάμηνο
 
-{% include courses-sorting.html i = 7 %}
+{% include collection-sort.html i = 7 %}
