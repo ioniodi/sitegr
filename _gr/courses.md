@@ -1,6 +1,8 @@
 ---
 ref: courses
 layout: single
+sidebar:
+ nav: courses
 title: "Προπτυχιακά Μαθήματα"
 ---
 

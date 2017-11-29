@@ -11,9 +11,9 @@ main:
 
 main-en:
   - title: "Faculty"
-    url: ""
+    url: "/en/faculty/"
   - title: "Studies"
-    url: ""
+    url: "/en/courses/"
   - title: "Laboratories"
     url: "/en/groups/"
   - title: "Search"
@@ -124,16 +124,60 @@ menu-en:
 
 # sidebar for people
 people:
-  - title: "Προσωπικό"
+  - title: "ΠΡΟΣΩΠΙΚΟ"
     children:
       - title: "Διδακτικό"
         url: /gr/faculty/
       - title: "Εργαστηριακό Προσωπικό"
         url: /gr/administrative-assistants/
 people-en:
-  - title: "People"
+  - title: "PEOPLE"
     children:
       - title: "Faculty"
         url: /en/faculty/
       - title: "Administrative Assistants"
-        url: /gr/administrative-assistants/
+        url: /en/administrative-assistants/
+
+# sidebar for courses
+courses:
+  - title: "ΣΠΟΥΔΕΣ"
+    children:
+      - title: "Προπτυχιακά Μαθήματα"
+        url: /gr/courses/
+      - title: "Μεταπτυχιακά Μαθήματα"
+        url: /gr/msc-courses/
+courses-en:
+  - title: "COURSES"
+    children:
+      - title: "Undergraduate Courses"
+        url: /en/courses/
+      - title: "Postgraduate Courses"
+        url: /en/msc-courses/
+
+# sidebar for labs
+labs:
+  - title: "ΕΡΓΑΣΤΗΡΙΑ"
+    children:
+     - title: "BIHELab"
+       url: "/gr/groups/bihe/"
+     - title: "ISDLab"
+       url: "/gr/groups/isd/"
+     - title: "NMSLab"
+       url: "/gr/groups/nms/"
+     - title: "HILab"
+       url: "/gr/groups/hi/"
+     - title: "CMODLab"
+       url: "/gr/groups/cmod"
+labs-en:
+  - title: "LABORATORIES"
+    children:
+     - title: "BIHELab"
+       url: "/en/groups/bihe/"
+     - title: "ISDLab"
+       url: "/en/groups/isd/"
+     - title: "NMSLab"
+       url: "/en/groups/nms/"
+     - title: "HILab"
+       url: "/en/groups/hi/"
+     - title: "CMODLab"
+       url: "/en/groups/cmod"

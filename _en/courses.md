@@ -1,6 +1,8 @@
 ---
 ref: courses
 layout: single
+sidebar:
+ nav: courses-en
 title: "Undergraduate Courses"
 ---
 
