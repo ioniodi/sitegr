@@ -5,7 +5,8 @@
   {% assign l = page.ref %}
   {% assign posts = site.collections | where: 'label', l | first %}
 {% endif %}
-{% for post in posts.docs %}
+{% assign pages = posts.docs | sort: "title" %}
+{% for post in pages %}
   {% if post.semester == include.i or post.rank == include.i %}
     {% include archive-single.html %}
   {% endif %}

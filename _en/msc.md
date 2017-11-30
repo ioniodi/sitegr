@@ -1,5 +1,5 @@
 ---
-ref: msc-courses
+ref: msc
 layout: single
 sidebar:
  nav: courses-en
