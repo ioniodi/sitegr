@@ -321,7 +321,7 @@ defaults:
     values:
       lang: gr
       sidebar:
-       nav: menu
+       nav: people
       layout: faculty
       author_profile: true
       read_time: false
@@ -335,36 +335,8 @@ defaults:
     values:
       lang: en
       sidebar:
-       nav: menu-en
+       nav: people-en
       layout: faculty
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _people
-  - scope:
-      path: ""
-      type: people
-    values:
-      lang: gr
-      sidebar:
-       nav: menu
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _people-en
-  - scope:
-      path: ""
-      type: people-en
-    values:
-      lang: en
-      sidebar:
-       nav: menu-en
-      layout: single
       author_profile: true
       read_time: false
       comments: # true
@@ -405,7 +377,7 @@ defaults:
     values:
       lang: gr
       sidebar:
-       nav: menu
+       nav: people
       layout: courses
       author_profile: true
       read_time: false
@@ -419,7 +391,7 @@ defaults:
     values:
       lang: en
       sidebar:
-       nav: menu-en
+       nav: people-en
       layout: courses
       author_profile: true
       read_time: false
