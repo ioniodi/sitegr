@@ -14,9 +14,7 @@ tags:
   - "Medium Access Control"
 ---
 
-### education:
+### Education:
   - "Diploma in Computer Engineering and Informatics, University of Patras, Greece"
   - "MSc in Communication and Signal Processing from the Electrical and Electronic Engineering Department, Imperial College, London"
   - "Ph.D. in Topology-Unaware TDMA MAC Policies for Ad Hoc Networks, Informatics and Telecommunications Department, National and Kapodistrian University of Athens, Greece"
-  
-  
