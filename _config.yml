@@ -235,18 +235,12 @@ compress_html:
 
 # Collections
 collections:
-  faculty:
+  people:
     output: true
-    permalink: /gr/faculty/:path/
-  faculty-en:
+    permalink: /gr/:path/
+  people-en:
     output: true
-    permalink: /en/faculty/:path/
-  administrative-assistants:
-    output: true
-    permalink: /gr/administrative-assistants/:path/
-  administrative-assistants-en:
-    output: true
-    permalink: /en/administrative-assistants/:path/
+    permalink: /en/:path/
   courses:
     output: true
     permalink: /gr/courses/:path/
@@ -314,10 +308,10 @@ defaults:
       comments: # true
       share: false
       related: false
-  # _faculty
+  # _people
   - scope:
       path: ""
-      type: faculty
+      type: people
     values:
       lang: gr
       sidebar:
@@ -328,10 +322,10 @@ defaults:
       comments: # true
       share: false
       related: false
-  # _faculty-en
+  # _people-en
   - scope:
       path: ""
-      type: faculty-en
+      type: people-en
     values:
       lang: en
       sidebar:

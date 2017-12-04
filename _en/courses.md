@@ -14,28 +14,28 @@ The duration of the studies in the Department of Informatics is 8 semesters, eac
 
 ## 1ˢᵗ Semester
 
-  {% include collection-sort.html i = 1 %}
+  {% include collection-sort.html i = 1 l = 'courses-en' %}
 
 ## 2ⁿᵈ Semester
 
-  {% include collection-sort.html i = 2 %}
+  {% include collection-sort.html i = 2 l = 'courses-en' %}
 
 ## 3ʳᵈ Semester
 
-  {% include collection-sort.html i = 3 %}
+  {% include collection-sort.html i = 3 l = 'courses-en' %}
 
 ## 4ᵗʰ Semester
 
-  {% include collection-sort.html i = 4 %}
+  {% include collection-sort.html i = 4 l = 'courses-en' %}
 
 ## 5ᵗʰ Semester
 
-  {% include collection-sort.html i = 5 %}
+  {% include collection-sort.html i = 5 l = 'courses-en' %}
 
 ## 6ᵗʰ Semester
 
-  {% include collection-sort.html i = 6 %}
+  {% include collection-sort.html i = 6 l = 'courses-en' %}
 
 ## 7ᵗʰ Semester
 
-  {% include collection-sort.html i = 7 %}
+  {% include collection-sort.html i = 7 l = 'courses-en' %}

@@ -10,12 +10,12 @@ title: "Προσωπικό"
 
 ## Καθηγητές
 
-{% include collection-sort.html i = 1 %}
+{% include collection-sort.html i = 1 l = 'people' %}
 
 ## Αναπληρωτές Καθηγητές
 
-{% include collection-sort.html i = 2 %}
+{% include collection-sort.html i = 2 l = 'people' %}
 
 ## Επίκουροι Καθηγητές
 
-{% include collection-sort.html i = 3 %}
+{% include collection-sort.html i = 3 l = 'people' %}
