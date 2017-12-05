@@ -1,5 +1,7 @@
 ---
 ref: search
 layout: search
-title: Search 
+author_profile: false
+sidebar: false
+title: Search
 ---
