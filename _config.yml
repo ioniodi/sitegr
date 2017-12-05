@@ -343,7 +343,7 @@ defaults:
     values:
       lang: gr
       sidebar:
-       nav: menu
+       nav: courses
       layout: courses
       author_profile: true
       read_time: false
@@ -357,7 +357,7 @@ defaults:
     values:
       lang: en
       sidebar:
-       nav: menu-en
+       nav: courses-en
       layout: courses
       author_profile: true
       read_time: false
@@ -371,7 +371,7 @@ defaults:
     values:
       lang: gr
       sidebar:
-       nav: people
+       nav: courses
       layout: courses
       author_profile: true
       read_time: false
@@ -385,7 +385,7 @@ defaults:
     values:
       lang: en
       sidebar:
-       nav: people-en
+       nav: courses-en
       layout: courses
       author_profile: true
       read_time: false
@@ -399,7 +399,7 @@ defaults:
     values:
       lang: gr
       sidebar:
-       nav: menu
+       nav: labs
       layout: single
       author_profile: true
       read_time: false
@@ -413,7 +413,7 @@ defaults:
     values:
       lang: en
       sidebar:
-       nav: menu-en
+       nav: labs-en
       layout: single
       author_profile: true
       read_time: false
