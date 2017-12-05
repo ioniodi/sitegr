@@ -12,8 +12,7 @@ tags:
  - "Computer-Supported Collaborative Work"
 ---
 
-Education:
+### Education:
   - "Diploma in Electronic and Computer Engineering, Technical University of Crete"
   - "MSc. Marketing and Communication, Athens University of Economics and Business"
   - "Ph.D. in Human-Computer Interaction for Digital Television, Athens University of Economics and Business"
-

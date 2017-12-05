@@ -18,11 +18,10 @@ tags:
  - "e-Services, e-Government and Information Systems"
 ---
 
-### education:
+### Education:
   - "B.Sc. in Informatics, Department of Informatics, Athens University of Economics and Business, Greece"
   - "M.Sc. in Information Systems, Department of Informatics, Athens University of Economics and Business, Greece"
   - "Doctor of Philosophy (Ph.D.), Department of Information and Communications Systems Engineering, University of the Aegean, Greece"
   - "Ph.D. Thesis: Information Security Awareness in Information Systems Security Management"
   - "Postdoc (2011-2013), Brunel Business School, Brunel University West London, UK"
   - "Postdoc (2013-2014), University of Jyväskylä, Department of Computer Science and Information Systems, Finland"
-

@@ -15,7 +15,7 @@ tags:
  - "Modeling and simulation of large scale networks"
 ---
 
-### education:
+### Education:
   - "Degree in Physics, School of Sciences, Department of Physics, Aristotle University of Thessaloniki (AUT)"
   - "M.Sc. in Physics of Materials, Faculty of Engineering of Aristotle University of Thessaloniki (AUT)"
   - "Ph.D. in Mechanics of Materials, Faculty of Engineering of Aristotle University of Thessaloniki (AUT)"
