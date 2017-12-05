@@ -14,7 +14,6 @@ tags:
  - "Pervasive Computing Systems"
 ---
 
-### education:
+### Education:
   - "Diploma of Computer Engineering and Informatics, University of Patras"
   - "Ph.D. in Design and Performance Evaluation of Distributed Memory Parallel Computer Architectures, University of Patras"
-

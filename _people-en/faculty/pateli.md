@@ -15,7 +15,7 @@ tags:
  - "Strategic Management of ICT"
 ---
 
-### education:
+### Education:
   - "Diploma in Informatics, Athens University of Economics and Business"
   - "ΜSc in Electronic Commerce, University of Manchester Institute of Science & Technology"
   - "PhD in “Governance of Strategic Alliances in Technology-based Industries: The Case of Wireless Services”, Department of Management Science and Technology, Athens University of Economics and Business"

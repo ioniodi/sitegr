@@ -14,7 +14,6 @@ tags:
   - "Mathematical modeling in Education with the use of new technologies"
 ---
 
-### education:
+### Education:
   - "Diploma in Mathematics, University of Athens"
   - "Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens"
-

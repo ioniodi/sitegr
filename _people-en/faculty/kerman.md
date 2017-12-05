@@ -15,8 +15,6 @@ tags:
  - "Humanistic Informatics"
 ---
 
-### education:
+### Education:
   - "Diploma from the Electrical and Computer Engineering Department, University of Patras"
   - "PhD in Automatic Learning of Syntactic Dependencies And grammar Development for Modern Greek, Electrical and Computer Engineering Department, University of Patras"
-  
-  
