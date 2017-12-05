@@ -294,6 +294,7 @@ defaults:
       comments: # true
       share: false
       related: false
+      search: false
   # _en
   - scope:
       path: ""
@@ -308,6 +309,7 @@ defaults:
       comments: # true
       share: false
       related: false
+      search: false
   # _people
   - scope:
       path: ""

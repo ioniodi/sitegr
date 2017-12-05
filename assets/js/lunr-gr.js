@@ -508,7 +508,7 @@ var idx = lunr(function () {
 {% assign count = 0 %}
 {% for c in site.collections %}
   {% unless c.label contains 'en' %}
-    {% assign docs = c.docs %}
+    {% assign docs = c.docs | where_exp:'doc','doc.search != false' %}
     {% for doc in docs %}
       idx.add({
         title: {{ doc.title | jsonify }},
@@ -518,7 +518,7 @@ var idx = lunr(function () {
         id: {{ count }}
       });
       {% assign count = count | plus: 1 %}
-      {% endfor %}
+    {% endfor %}
   {% endunless %}
 {% endfor %}
 
@@ -530,7 +530,7 @@ var store = [
       {% if forloop.last %}
         {% assign l = true %}
       {% endif %}
-      {% assign docs = c.docs %}
+      {% assign docs = c.docs | where_exp:'doc','doc.search != false' %}
       {% for doc in docs %}
         {% if doc.header.teaser %}
           {% capture teaser %}{{ doc.header.teaser }}{% endcapture %}
