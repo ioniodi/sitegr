@@ -34,11 +34,31 @@ layout: default
       {% if page.excerpt %}
        <div>{{ page.excerpt }}</div>
       {% endif %}
-      
-
-
 
       <section class="page__content" itemprop="text">
+        <br>
+        <table>
+          <thead>
+            <tr>
+              <th>Code</th>
+              <th>Semester</th>
+              <th>Type</th>
+              <th>Hours</th>
+              <th>Labs</th>
+              <th>ECTS</th>
+              <th>Material</th>
+            </tr>
+          </thead>
+          <tbody>
+              <td align="center">{{ page.code }}</td>
+              <td align="center">{{ page.semester }}</td>
+              <td align="center">{{ page.type }}</td>
+              <td align="center">{{ page.hours }}</td>
+              <td align="center">{{ page.extra }}</td>
+              <td align="center">{{ page.ects }}</td>
+              <td align="center"><a href="{{ page.e-class }}">E-class</a></td>
+          </tbody>
+        </table>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
