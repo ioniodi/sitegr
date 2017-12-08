@@ -30,62 +30,48 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
-      
-      {% if page.excerpt %}
-       <div>{{ page.excerpt }}</div>
-      {% endif %}
-      
+
+
+
       {% if page.lang == 'en' %}
-       
+
         {% if page.rank == 3 %}
           <div>Assistant Professor</div>
         {% endif %}
-       
+
         {% if page.rank == 2 %}
           <div>Associate Professor</div>
         {% endif %}
-       
+
         {% if page.rank == 1 %}
           <div>Professor</div>
         {% endif %}
 
       {% else %}
-      
+
         {% if page.rank == 3 %}
           <div>Επίκουρος Καθηγητής</div>
         {% endif %}
-       
+
         {% if page.rank == 2 %}
           <div>Αναπληρωτής Καθηγητής</div>
         {% endif %}
-       
+
         {% if page.rank == 1 %}
           <div>Καθηγητής</div>
         {% endif %}
       {% endif %}
-      
-           
-      
-      
-      {% if page.tel %}
-      <div>{{ page.tel }}</div>
-      {% endif %}
-    
-      {% if page.email %}
-      <div><a  href="mailto:{{ page.email }}" target="_top">{{page.title}}'s E-mail</a></div>
-      {% endif %}
-      
-      {% if page.uri %}
-      <div><a href="{{ page.uri }}">{{page.title}}'s URI</a></div>
-      {% endif %}
-      
-      {% if page.cv %}
-      <div><a href="{{ page.cv }}">{{page.title}}'s CV</a></div>
-      {% endif %}
+
+
+
+
+
+
+
 <!--       This page's author gets assigned to author variable in include to be used for iteration comparison purposes -->
-      {% assign author = page.author %} 
+      {% assign author = page.author %}
       {% include author-courses.html %}
-      
+
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
@@ -127,4 +113,3 @@ layout: default
     </div>
   {% endif %}
 </div>
-
