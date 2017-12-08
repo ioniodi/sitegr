@@ -31,48 +31,33 @@ layout: default
         </header>
       {% endunless %}
 
-
-
       {% if page.lang == 'en' %}
-
         {% if page.rank == 3 %}
-          <div>Assistant Professor</div>
+          <h2>Assistant Professor</h2>
         {% endif %}
-
         {% if page.rank == 2 %}
-          <div>Associate Professor</div>
+          <h2>Associate Professor</h2>
         {% endif %}
-
         {% if page.rank == 1 %}
-          <div>Professor</div>
+          <h2>Professor</h2>
         {% endif %}
-
       {% else %}
-
         {% if page.rank == 3 %}
-          <div>Επίκουρος Καθηγητής</div>
+          <h2>Επίκουρος Καθηγητής</h2>
         {% endif %}
-
         {% if page.rank == 2 %}
-          <div>Αναπληρωτής Καθηγητής</div>
+          <h2>Αναπληρωτής Καθηγητής</h2>
         {% endif %}
-
         {% if page.rank == 1 %}
-          <div>Καθηγητής</div>
+          <h2>Καθηγητής</h2>
         {% endif %}
       {% endif %}
 
-
-
-
-
-
-
 <!--       This page's author gets assigned to author variable in include to be used for iteration comparison purposes -->
       {% assign author = page.author %}
-      {% include author-courses.html %}
 
       <section class="page__content" itemprop="text">
+        {% include author-pages.html %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -82,16 +67,10 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
     </div>
 
     {% if site.comments.provider and page.comments %}
