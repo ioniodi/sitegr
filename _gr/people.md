@@ -1,5 +1,5 @@
 ---
-ref: faculty
+ref: people
 layout: single
 sidebar:
  nav: people

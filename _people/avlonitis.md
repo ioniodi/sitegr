@@ -4,7 +4,6 @@ title: "Μάρκος Αυλωνίτης"
 excerpt: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
 rank: 3
 author: avlon
-tel: "+30 26610 87702"
 email: "avlon@ionio.gr"
 uri:  "http://www.ionio.gr/~avlon"
 cv: ""

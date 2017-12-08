@@ -1,9 +1,9 @@
 ---
-ref: faculty
+ref: people
 layout: single
 sidebar:
  nav: people-en
-title: "Faculty"
+title: "People"
 ---
 
 {% include toc title = "FACULTY" icon = "users" %}
