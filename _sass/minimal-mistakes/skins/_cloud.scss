@@ -13,8 +13,6 @@ $link-color: mix(#000, $primary-color, 20%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-$form-background-color: transparent;
-$border-color: transparent;
 
 .masthead {
   border-top: 5px solid $primary-color;

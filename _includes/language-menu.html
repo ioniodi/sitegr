@@ -1,9 +1,9 @@
 
 {% assign posts=site.documents | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
-<li><a href="{{site.baseurl}}{{ post.url }}">{{ post.lang }}</a></li>
+<li><a href="{{ post.url | absolute_url }}">{{ post.lang }}</a></li>
 {% endfor %}
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
-<li><a href="{{site.baseurl}}{{ page.url }}">{{ page.lang }}</a></li>
+<li><a href="{{ page.url | absolute_url }}">{{ page.lang }}</a></li>
 {% endfor %}
