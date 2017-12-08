@@ -10,8 +10,8 @@ main:
     url: "/gr/search/"
 
 main-en:
-  - title: "Faculty"
-    url: "/en/faculty/"
+  - title: "People"
+    url: "/en/people/"
   - title: "Studies"
     url: "/en/courses/"
   - title: "Laboratories"
