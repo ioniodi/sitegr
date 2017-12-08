@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Προσωπικό"
-    url: "/gr/faculty/"
+    url: "/gr/people/"
   - title: "Σπουδές"
     url: "/gr/courses/"
   - title: "Εργαστήρια"
