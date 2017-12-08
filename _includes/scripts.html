@@ -11,13 +11,13 @@
   <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 {% endif %}
 
-{% if page.layout == 'search' %}
+{% if site.search == true or page.layout == 'search' %}
   <script src="{{ '/assets/js/lunr.min.js' | absolute_url }}"></script>
   {% if page.lang == 'en' %}
     <script src="{{ '/assets/js/lunr-en.js' | absolute_url }}"></script>
   {% else %}
     <script src="{{ '/assets/js/lunr-gr.js' | absolute_url }}"></script>
-  {% endif %}  
+  {% endif %}
 {% endif %}
 
 {% include analytics.html %}
