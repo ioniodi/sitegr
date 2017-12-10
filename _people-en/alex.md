@@ -3,9 +3,6 @@ ref: alex
 title: "Alexandros Panaretos "
 bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.) ΠΕ Department of Informatics"
 author: alex-en
-tel: "+30 26610 87754"
-email: "alex@ionio.gr"
-uri:  "http://www.ionio.gr/~alex"
 research:
  - "Internet programming"
  - "Databases"

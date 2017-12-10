@@ -4,9 +4,6 @@ title: "Βασίλειος Χρυσικόπουλος"
 excerpt: "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
 rank: 1
 author: vchris
-email: "vchris@ionio.gr"
-uri:  "http://di.ionio.gr"
-cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chrissikopoulos_cv_gr_2015.pdf"
 research:
  - "Ασφάλεια"
  - "Δίκτυα Η/Υ"

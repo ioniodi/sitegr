@@ -4,9 +4,6 @@ title: "Christos Anagnostopoulos"
 excerpt: "Network-Centric Information Systems"
 rank: 3
 author: christos-en
-email: "christos@ionio.gr"
-uri:  "http://www.ionio.gr/~christos"
-cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
 research:
  - "Mobile and Distributed Computing"
  - "Context-aware and Pervasive Computing"

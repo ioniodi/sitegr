@@ -4,9 +4,6 @@ title: "Σπύρος Σιούτας"
 excerpt: "Δομές και Βάσεις Δεδομένων"
 rank: 2
 author: sioutas
-email: "sioutas@ionio.gr"
-uri:  "http://www.ionio.gr/~sioutas"
-cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
 research:
  - "Δομές Δεδομένων και Αλγόριθμοι"
  - "Υπολογιστική Γεωμετρία και Χωρικές Βάσεις Δεδομένων"

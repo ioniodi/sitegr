@@ -4,9 +4,6 @@ title: "Κωνσταντίνος Χωριανόπουλος"
 excerpt: "Τεχνολογίες Λογισμικού"
 rank: 3
 author: choko
-email: "choko@ionio.gr"
-uri:  "http://www.epidro.me"
-cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv_gr_2011.pdf"
 research:
  - "Κοινωνικά και Συνεργατικά Συστήματα"
 ---

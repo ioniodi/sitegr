@@ -4,9 +4,6 @@ title: "Χρήστος Αναγνωστόπουλος"
 excerpt: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
 rank: 3
 author: christos
-email: "christos@ionio.gr"
-uri:  "http://www.ionio.gr/~christos"
-cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
 research:
  - "Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)"
  - "Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)"
