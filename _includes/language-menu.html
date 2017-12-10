@@ -1,9 +1,9 @@
-
-{% assign posts=site.documents | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-<li><a href="{{ post.url | absolute_url }}">{{ post.lang }}</a></li>
-{% endfor %}
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-<li><a href="{{ page.url | absolute_url }}">{{ page.lang }}</a></li>
-{% endfor %}
+{% if page.lang == 'en' %}
+  <li class="masthead__menu-item">
+    <a href="{{ page.url | replace_first: "/en/", "/gr/" | absolute_url }}">GR</a>
+  </li>
+{% else %}
+  <li class="masthead__menu-item">
+    <a href="{{ page.url | replace_first: "/gr/", "/en/" | absolute_url }}">EN</a>
+  </li>
+{% endif %}
