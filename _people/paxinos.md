@@ -9,7 +9,7 @@ email: "g.paxinos@neura.edu.au"
 uri: ""
 cv: ""
 
-tags:
+research:
  - "Neuroscience"
 ---
 

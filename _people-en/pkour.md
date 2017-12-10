@@ -7,7 +7,7 @@ author: pkour-en
 email: "pkour@ionio.gr"
 uri:  "http://www.ionio.gr/~pkour"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/kourouthanassis_cv_en_2011.pdf"
-tags:
+research:
  - "Electronic Business"
  - "Electronic Government"
  - "Information Systems Management"

@@ -7,7 +7,7 @@ author: christos
 email: "christos@ionio.gr"
 uri:  "http://www.ionio.gr/~christos"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
-tags:
+research:
  - "Κινητός και Κατανεμημένος Υπολογισμός (Mobile and Distributed Computing)"
  - "Συστήματα Επίγνωσης Πληροφορίας και Διάχυτος Υπολογισμός (Context-aware and Pervasive Computing)"
  - "Ασύρματα Δίκτυα Αισθητήρων (Wireless Sensor Networks)"

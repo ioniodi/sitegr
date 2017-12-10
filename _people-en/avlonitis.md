@@ -7,7 +7,7 @@ author: avlon-en
 email: "avlon@ionio.gr"
 uri:  "http://www.ionio.gr/~avlon"
 cv: ""
-tags:
+research:
  - "Applied stochastic processes"
  - "Self-organized systems"
  - "Modeling the spread of computer malware"

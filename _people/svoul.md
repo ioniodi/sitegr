@@ -5,7 +5,7 @@ bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π
 author: svoul
 email: "svoul@ionio.gr"
 uri:
-tags:
+research:
 ---
 
 ### education:

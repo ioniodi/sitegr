@@ -6,7 +6,7 @@ author: alex-en
 tel: "+30 26610 87754"
 email: "alex@ionio.gr"
 uri:  "http://www.ionio.gr/~alex"
-tags:
+research:
  - "Internet programming"
  - "Databases"
  - "Content Management Systems"

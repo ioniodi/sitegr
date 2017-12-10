@@ -6,7 +6,7 @@ rank: 3
 author: atsohou
 email: "atsohou@ionio.gr"
 cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
-tags:
+research:
  - "Πολιτικές Ασφάλειας, Αντιλήψεις Επικινδυνότητας και Ενημερότητα Χρηστών"
  - "Ανάλυση Επικινδυνότητας και Διοίκηση Ασφάλειας Πληροφοριών"
  - "Πολιτικές Ασφάλειας για την Ορθή Χρήση του Διαδικτύου"

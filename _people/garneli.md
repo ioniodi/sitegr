@@ -9,11 +9,11 @@ email: ""
 uri: ""
 cv: ""
 
-tags:
+research:
  - "Computing Education"
 ---
 
 ### education:
  - BSc in Informatics, Athens University of Economics and Business
  - MSc in Informatics and Humanistic Studies, Ionian University
- - PhD in Computing Education, Ionian University 
+ - PhD in Computing Education, Ionian University

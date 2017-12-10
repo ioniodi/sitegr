@@ -9,9 +9,9 @@ email: ""
 uri: ""
 cv: ""
 
-tags:
+research:
  - "Bioinformatics"
 ---
 
 ### education:
- - PhD in Bioinformatics, Ionian University 
+ - PhD in Bioinformatics, Ionian University

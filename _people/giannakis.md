@@ -9,7 +9,7 @@ email: " kgiann@ionio.gr"
 uri: "https://users.ionio.gr/~kgiann/"
 cv: ""
 
-tags:
+research:
  - "Theoretical Computer Science"
 ---
 

@@ -9,7 +9,7 @@ email: "patrick.mikalef@ntnu.no"
 uri: ""
 cv: ""
 
-tags:
+research:
  - "IT Strategy"
 ---
 
@@ -17,4 +17,3 @@ tags:
  - Bachelor of Science (BSc),Ionian University, Dept. of Informatics
  - Master of Science in Business Informatics(MSc),Utrecht University
  - PhD in IT Strategy,Ionian University, Dept. of Informatics
- 

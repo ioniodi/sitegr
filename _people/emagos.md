@@ -7,7 +7,7 @@ author: emagos
 email: "emagos@ionio.gr"
 uri:  "http://di.ionio.gr/~emagos"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
-tags:
+research:
  - "Κρυπτογραφικές Τεχνικές στην Ασφάλεια Υπολογιστών και Δικτύων"
  - "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
  - "Ασφάλεια και Ιδιωτικότητα σε Κατανεμημένες Εφαρμογές"

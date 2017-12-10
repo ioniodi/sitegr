@@ -7,7 +7,7 @@ author: mistral
 email: "mistral@ionio.gr"
 uri:  "http://www.ionio.gr/~mistral"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
-tags:
+research:
  - "Κατανεμημένες αρχιτεκτονικές υπολογιστικών συστημάτων υψηλών επιδόσεων -Ενσωματωμένα συστήματα πραγματικού χρόνου"
  - "Αρχιτεκτονικές συστημάτων αυξημένης υπολογιστικής παρουσίας  (pervasive computing systems)"
 ---

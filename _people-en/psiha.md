@@ -9,7 +9,7 @@ email: ""
 uri: ""
 cv: ""
 
-tags:
+research:
  - "Bioinformatics"
 ---
 

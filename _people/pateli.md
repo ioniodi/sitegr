@@ -7,7 +7,7 @@ author: pateli
 email: "pateli@ionio.gr"
 uri:  "http://www.ionio.gr/~pateli"
 cv: "http://di.ionio.gr/wp-content/uploads/2017/03/0317_A.Pateli_CV.pdf"
-tags:
+research:
  - "Διοίκηση Πληροφοριακών Συστημάτων"
  - "Επιχειρηματικά Μοντέλα"
  - "Ψηφιακή Επιχειρηματικότητα"

@@ -7,7 +7,7 @@ author: kerman-en
 email: "kerman@ionio.gr"
 uri:  "https://sites.google.com/site/katialida/"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/kermanidou_cv_gr_2011.pdf"
-tags:
+research:
  - "Machine Learning"
  - "Natural Language Processing"
  - "User Modeling"

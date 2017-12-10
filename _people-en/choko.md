@@ -7,7 +7,7 @@ author: choko-en
 email: "choko@ionio.gr"
 uri:  "http://www.epidro.me"
 cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv_gr_2011.pdf"
-tags:
+research:
  - "Computer-Supported Collaborative Work"
 ---
 

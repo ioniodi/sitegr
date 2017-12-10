@@ -6,7 +6,7 @@ rank: 3
 author: atsohou-en
 email: "atsohou@ionio.gr"
 cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
-tags:
+research:
  - "Information Security Policies, Risk Perceptions and User Awareness"
  - "Information Security Risk Assessment and Management"
  - "Security Policies for Acceptable Internet Use"
