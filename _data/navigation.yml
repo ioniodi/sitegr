@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Προσωπικό"
-    url: "/gr/faculty/"
+    url: "/gr/people/"
   - title: "Σπουδές"
     url: "/gr/courses/"
   - title: "Εργαστήρια"
@@ -24,7 +24,7 @@ menu:
  - title: "ΠΡΟΣΩΠΙΚΟ"
    children:
     - title: "Διδακτικό"
-      url: "/gr/faculty/"
+      url: "/gr/people/"
     - title: #"Διοικητικό"
       url: # "/gr/admin/"
     - title: #"Ειδικό"
@@ -76,7 +76,7 @@ menu-en:
  - title: "STAFF"
    children:
     - title: "Faculty"
-      url: "/en/faculty/"
+      url: "/en/people/"
     - title: #"Administrative"
       url: # "/en/admin/"
     - title: #"Specialized"
