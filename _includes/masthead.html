@@ -11,12 +11,12 @@
           {% endif %}
           {% for link in links %}
             {% if link.url contains 'http' %}
-              {% assign url = link.url %}
+              {% assign domain = '' %}
             {% else %}
-              {% assign url = link.url | absolute_url %}
+              {% assign domain = site.baseurl %}
             {% endif %}
             <li class="masthead__menu-item">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -27,6 +27,7 @@
           </svg>
         </button>
         {% endif %}
+        {% include language-menu.html %}
         <button class="greedy-nav__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
           <div class="navicon"></div>
