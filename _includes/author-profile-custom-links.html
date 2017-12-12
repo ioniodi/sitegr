@@ -5,3 +5,11 @@
     </a>
   </li>
 {% endif %}
+
+{% if author.cv %}
+  <li>
+    <a itemprop="sameAs">
+      <i class="fa fa-fw fa-paperclip" aria-hidden="true"></i> Curriculum Vitae
+    </a href= "{{ author.cv }}" >
+  </li>
+{% endif %}

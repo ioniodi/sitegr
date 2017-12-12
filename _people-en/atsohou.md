@@ -4,8 +4,6 @@ title: "Aggeliki Tsohou"
 excerpt: "Internet Security and Privacy"
 rank: 3
 author: atsohou-en
-email: "atsohou@ionio.gr"
-cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
 research:
  - "Information Security Policies, Risk Perceptions and User Awareness"
  - "Information Security Risk Assessment and Management"

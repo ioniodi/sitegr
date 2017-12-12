@@ -4,8 +4,6 @@ title: "Markos Avlonitis"
 excerpt: "Applied Stohastic Models"
 rank: 3
 author: avlon-en
-email: "avlon@ionio.gr"
-uri:  "http://www.ionio.gr/~avlon"
 cv: ""
 research:
  - "Applied stochastic processes"

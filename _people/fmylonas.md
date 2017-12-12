@@ -4,9 +4,6 @@ title: "Φοίβος Μυλωνάς"
 excerpt: "Αναπαράσταση και Διαχείριση Γνώση"
 rank: 3
 author: fmylonas
-email: "fmylonas@ionio.gr"
-uri:  "	http://image.ntua.gr/~fmylonas"
-cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/mylonas_cv_gr_2016.pdf"
 research:
   - "Υποβοηθούμενη από γνώση Ανάλυση Πολυμεσικού Περιεχομένου"
   - "Ανάκτηση Πολυμεσικής Πληροφορίας"

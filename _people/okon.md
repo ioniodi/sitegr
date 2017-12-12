@@ -4,9 +4,6 @@ title: "Κωνσταντίνος Οικονόμου"
 excerpt: "Δίκτυα Υπολογιστών"
 rank: 2
 author: okon
-email: "okon@ionio.gr"
-uri:  "http://www.ionio.gr/~okon"
-cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf
 research:
  - "Αυτόνομα Δίκτυα"
  - "Ανάλυση Απόδοσης Δικτύων"
