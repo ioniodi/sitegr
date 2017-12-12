@@ -1,0 +1,31 @@
+<table>
+  <thead>
+    {% if page.lang == 'en' %}
+    <tr>
+      <th>Code</th>
+      <th>Semester</th>
+      <th>Type</th>
+      <th>Hours</th>
+      <th>Labs</th>
+      <th>ECTS</th>
+    </tr>
+    {% else %}
+    <tr>
+      <th>Κωδικός</th>
+      <th>Εξάμηνο</th>
+      <th>Τύπος</th>
+      <th>Ώρες</th>
+      <th>Εργαστήρια</th>
+      <th>ECTS</th>
+    </tr>
+    {% endif %}
+  </thead>
+  <tbody>
+      <td align="center">{{ page.code }}</td>
+      <td align="center">{{ page.semester }}</td>
+      <td align="center">{{ page.type }}</td>
+      <td align="center">{{ page.hours }}</td>
+      <td align="center">{{ page.extra }}</td>
+      <td align="center">{{ page.ects }}</td>
+  </tbody>
+</table>
