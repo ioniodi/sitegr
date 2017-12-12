@@ -1,37 +1,49 @@
 ---
 ref: courses
 layout: single
-sidebar:
- nav: courses
-title: "Προπτυχιακά Μαθήματα"
+sidebar: false
+author_profile: false
+title: "Μαθήματα"
 ---
 
 {% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
 
-## A Εξάμηνο
+# ΠΡΟΠΤΥΧΙΑΚΟ
+
+## A ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 1 l = 'courses' %}
 
-## Β Εξάμηνο
+## Β ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 2 l = 'courses' %}
 
-## Γ Εξάμηνο
+## Γ ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 3 l = 'courses' %}
 
-## Δ Εξάμηνο
+## Δ ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 4 l = 'courses' %}
 
-## Ε Εξάμηνο
+## Ε ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 5 l = 'courses' %}
 
-## ΣΤ Εξάμηνο
+## ΣΤ ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 6 l = 'courses' %}
 
-## Ζ Εξάμηνο
+## Ζ ΕΞΑΜΗΝΟ
 
 {% include collection-sort.html i = 7 l = 'courses' %}
+
+# ΜΕΤΑΠΤΥΧΙΑΚΟ
+
+## A ΕΞΑΜΗΝΟ
+
+{% include collection-sort.html i = 1 l = 'msc' %}
+
+## Β ΕΞΑΜΗΝΟ
+
+{% include collection-sort.html i = 2 l = 'msc' %}

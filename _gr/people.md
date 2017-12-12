@@ -1,41 +1,41 @@
 ---
 ref: people
 layout: single
-sidebar:
- nav: people
+sidebar: false
+author_profile: false
 title: "Προσωπικό"
 ---
 
 {% include toc title = "ΔΙΔΑΚΤΙΚΟ" icon = "users" %}
 
-## Καθηγητές
+## ΚΑΘΗΓΗΤΕΣ
 
 {% include collection-sort.html i = 1 l = 'people' %}
 
-## Αναπληρωτές Καθηγητές
+## ΑΝΑΠΛΗΡΩΤΕΣ ΚΑΘΗΓΗΤΕΣ
 
 {% include collection-sort.html i = 2 l = 'people' %}
 
-## Επίκουροι Καθηγητές
+## ΕΠΙΚΟΥΡΟΙ ΚΑΘΗΓΗΤΕΣ
 
 {% include collection-sort.html i = 3 l = 'people' %}
 
-## Ε.ΔΙ.Π.-Ε.Τ.Ε.Π
+## Ε.ΔΙ.Π - Ε.Τ.Ε.Π
 
 {% include collection-sort.html i = 4 l = 'people' %}
 
-## Προσωρινοί Διδάσκοντες
+## ΠΡΟΣΩΡΙΝΟΙ ΔΙΔΑΣΚΟΝΤΕΣ
 
 {% include collection-sort.html i = 5 l = 'people' %}
 
-## Μεταδιδακτορικοί Ερευνητές
+## ΜΕΤΑΔΙΔΑΚΤΟΡΙΚΟΙ ΕΡΕΥΝΗΤΕΣ
 
 {% include collection-sort.html i = 6 l = 'people' %}
 
-## Απόφοιτοι Διδάκτορες
+## ΑΠΟΦΟΙΤΟΙ ΔΙΔΑΚΤΟΡΕΣ
 
 {% include collection-sort.html i = 7 l = 'people' %}
 
-## Επίτιμοι Διδάκτορες
+## ΕΠΙΤΙΜΟΙ ΔΙΔΑΚΤΟΡΕΣ
 
 {% include collection-sort.html i = 8 l = 'people' %}
