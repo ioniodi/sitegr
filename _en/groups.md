@@ -1,7 +1,5 @@
 ---
 ref: groups
-sidebar:
- nav: labs-en
 title: "Groups"
 ---
 

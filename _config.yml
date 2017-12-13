@@ -288,10 +288,9 @@ defaults:
       type: gr
     values:
       lang: gr
-      sidebar:
-       nav: menu
-      layout: archive
-      author_profile: true
+      sidebar: false
+      layout: single
+      author_profile: false
       read_time: false
       comments: # true
       share: false
@@ -303,10 +302,9 @@ defaults:
       type: en
     values:
       lang: en
-      sidebar:
-       nav: menu-en
-      layout: archive
-      author_profile: true
+      sidebar: false
+      layout: single
+      author_profile: false
       read_time: false
       comments: # true
       share: false
@@ -318,9 +316,8 @@ defaults:
       type: people
     values:
       lang: gr
-      sidebar:
-       nav: people
-      layout: faculty
+      sidebar: false
+      layout: people
       author_profile: true
       read_time: false
       comments: # true
@@ -332,9 +329,8 @@ defaults:
       type: people-en
     values:
       lang: en
-      sidebar:
-       nav: people-en
-      layout: faculty
+      sidebar: false
+      layout: people
       author_profile: true
       read_time: false
       comments: # true
@@ -346,8 +342,7 @@ defaults:
       type: courses
     values:
       lang: gr
-      sidebar:
-       nav: courses
+      sidebar: false
       layout: courses
       author_profile: true
       read_time: false
@@ -360,8 +355,7 @@ defaults:
       type: courses-en
     values:
       lang: en
-      sidebar:
-       nav: courses-en
+      sidebar: false
       layout: courses
       author_profile: true
       read_time: false
@@ -374,8 +368,7 @@ defaults:
       type: msc
     values:
       lang: gr
-      sidebar:
-       nav: courses
+      sidebar: false
       layout: courses
       author_profile: true
       read_time: false
@@ -388,8 +381,7 @@ defaults:
       type: msc-en
     values:
       lang: en
-      sidebar:
-       nav: courses-en
+      sidebar: false
       layout: courses
       author_profile: true
       read_time: false
@@ -402,8 +394,7 @@ defaults:
       type: groups
     values:
       lang: gr
-      sidebar:
-       nav: labs
+      sidebar: false
       layout: single
       author_profile: true
       read_time: false
@@ -416,8 +407,7 @@ defaults:
       type: groups-en
     values:
       lang: en
-      sidebar:
-       nav: labs-en
+      sidebar: false
       layout: single
       author_profile: true
       read_time: false
@@ -430,8 +420,7 @@ defaults:
       type: projects
     values:
       lang: gr
-      sidebar:
-       nav: menu
+      sidebar: false
       layout: single
       author_profile: true
       read_time: false
@@ -444,8 +433,7 @@ defaults:
       type: projects-en
     values:
       lang: en
-      sidebar:
-       nav: menu-en
+      sidebar: false
       layout: single
       author_profile: true
       read_time: false
@@ -458,8 +446,7 @@ defaults:
       type: posts
     values:
       lang: gr
-      sidebar:
-       nav: menu
+      sidebar: false
       layout: single
       author_profile: true
       read_time: false
@@ -472,8 +459,7 @@ defaults:
       type: posts-en
     values:
       lang: en
-      sidebar:
-       nav: menu-en
+      sidebar: false
       layout: single
       author_profile: true
       read_time: false

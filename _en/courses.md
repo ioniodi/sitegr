@@ -1,8 +1,5 @@
 ---
 ref: courses
-layout: single
-sidebar: false
-author_profile: false
 title: "Courses"
 ---
 

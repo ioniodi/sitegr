@@ -1,8 +1,5 @@
 ---
 ref: people
-layout: single
-sidebar: false
-author_profile: false
 title: "Προσωπικό"
 ---
 
