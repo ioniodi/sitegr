@@ -1,6 +1,36 @@
-/* ==========================================================================
-   TABLES
-   ========================================================================== */
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.masthead {
+  border-top: 5px solid $primary-color;
+}
+
+.archive__author-avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+  height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 110px;
+    border-radius: 50%;
+  }
+  img:hover{
+      box-shadow: 0 0 10px rgba(#000, 0.25);
+  }
+}
 
 table {
   margin-bottom: 1em;
