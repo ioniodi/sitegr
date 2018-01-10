@@ -14,5 +14,5 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - "Εξόρυξη από Μεγάλα Σύνολα Δεδομένων, Anand Rajaraman, Jeffrey David Ullman"[eudoxus link](https://service.eudoxus.gr/search/#a/id:22768468/0)
-  - " Η ΜΕΘΟΔΟΣ PAGERANK ΤΗΣ GOOGLE ΚΑΙ ΑΛΛΑ ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΤΑΞΗΣ ΙΣΤΟΣΕΛΙΔΩΝ, LANGVILLE AMY, MEYER CARL"[eudoxus link](https://service.eudoxus.gr/search/#a/id:7753/0)
+  - ["Εξόρυξη από Μεγάλα Σύνολα Δεδομένων, Anand Rajaraman, Jeffrey David Ullman"](https://service.eudoxus.gr/search/#a/id:22768468/0)
+  - ["Η ΜΕΘΟΔΟΣ PAGERANK ΤΗΣ GOOGLE ΚΑΙ ΑΛΛΑ ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΤΑΞΗΣ ΙΣΤΟΣΕΛΙΔΩΝ, LANGVILLE AMY, MEYER CARL"](https://service.eudoxus.gr/search/#a/id:7753/0)
