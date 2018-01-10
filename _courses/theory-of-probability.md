@@ -14,8 +14,8 @@ ects: 6
 
 
 Βιβλιογραφία: 
-  - “ΕΙΣΑΓΩΓΗ ΣΤΗ ΘΕΩΡΙΑ ΠΙΘΑΝΟΤΗΤΩΝ”, HOEL P., PORT S., STONE C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-156-8, 2009"[eudoxus link](https://service.eudoxus.gr/search/#a/id:242/0)
-  - “Πιθανότητες, τυχαίες μεταβλητές και στοχαστικές διαδικασίες”, Papoulis Athanasios, Pillai S. Unnikrishna, Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-127-8, 2007"[eudoxus link](https://service.eudoxus.gr/search/#a/id:18549068/0)
+  - [“ΕΙΣΑΓΩΓΗ ΣΤΗ ΘΕΩΡΙΑ ΠΙΘΑΝΟΤΗΤΩΝ”, HOEL P., PORT S., STONE C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-156-8, 2009"](https://service.eudoxus.gr/search/#a/id:242/0)
+  - [“Πιθανότητες, τυχαίες μεταβλητές και στοχαστικές διαδικασίες”, Papoulis Athanasios, Pillai S. Unnikrishna, Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-127-8, 2007"](https://service.eudoxus.gr/search/#a/id:18549068/0)
   
 
 

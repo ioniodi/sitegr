@@ -14,6 +14,6 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - "Το δίκαιο του διαδικτύου (internet), Σιδηρόπουλος Θεόδωρος"[eudoxus link](https://service.eudoxus.gr/search/#a/id:25153/0)
-  - "Το δίκαιο του ηλεκτρονικού εμπορίου, Αλεξανδρίδου Ελίζα Δ."[eudoxus link](https://service.eudoxus.gr/search/#a/id:34586/0)
+  - ["Το δίκαιο του διαδικτύου (internet), Σιδηρόπουλος Θεόδωρος"](https://service.eudoxus.gr/search/#a/id:25153/0)
+  - ["Το δίκαιο του ηλεκτρονικού εμπορίου, Αλεξανδρίδου Ελίζα Δ."](https://service.eudoxus.gr/search/#a/id:34586/0)
   

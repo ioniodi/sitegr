@@ -14,5 +14,5 @@ uri: "https://e-class.ionio.gr/courses/DCS217/"
 
 
 Βιβλιογραφία: 
-  - "“ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ: ΑΡΧΕΣ ΚΑΙ ΥΠΟΔΕΙΓΜΑΤΑ”, ANDREW S. TANENBAUM, MAARTEN VAN STEEN" [eudoxus link](https://service.eudoxus.gr/search/#a/id:13777/0)
-  - "“ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ ΜΕ JAVA”, Ι. Κ. ΚΑΒΟΥΡΑΣ, Ι. Ζ. ΜΗΛΗΣ, Α. Α. ΡΟΥΚΟΥΝΑΚΗ, Γ. Β. ΞΥΛΩΜΕΝΟΣ" [eudoxus link](https://service.eudoxus.gr/search/#a/id:12533080/0)
+  - ["“ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ: ΑΡΧΕΣ ΚΑΙ ΥΠΟΔΕΙΓΜΑΤΑ”, ANDREW S. TANENBAUM, MAARTEN VAN STEEN" ](https://service.eudoxus.gr/search/#a/id:13777/0)
+  - ["“ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ ΜΕ JAVA”, Ι. Κ. ΚΑΒΟΥΡΑΣ, Ι. Ζ. ΜΗΛΗΣ, Α. Α. ΡΟΥΚΟΥΝΑΚΗ, Γ. Β. ΞΥΛΩΜΕΝΟΣ"](https://service.eudoxus.gr/search/#a/id:12533080/0)
