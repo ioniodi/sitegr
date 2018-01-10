@@ -14,6 +14,6 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - " ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΑΣΦΑΛΕΙΑΣ ΔΙΚΤΥΩΝ: ΕΦΑΡΜΟΓΕΣ ΚΑΙ ΠΡΟΤΥΠΑ", WILLIAM STALLINGS [eudoxos link](https://service.eudoxus.gr/search/#a/id:5014/0)
-  - " Ασφάλεια Πληροφοριακών Συστημάτων", Σωκτ. Κάτσικας - Δ. Γκρίτζαλης - Στεφ. Γκρίτζαλης [eudoxus link](https://service.eudoxus.gr/search/#a/id:2165/0)
+  - [" ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΑΣΦΑΛΕΙΑΣ ΔΙΚΤΥΩΝ: ΕΦΑΡΜΟΓΕΣ ΚΑΙ ΠΡΟΤΥΠΑ", WILLIAM STALLINGS](https://service.eudoxus.gr/search/#a/id:5014/0)
+  - [" Ασφάλεια Πληροφοριακών Συστημάτων", Σωκτ. Κάτσικας - Δ. Γκρίτζαλης - Στεφ. Γκρίτζαλης ](https://service.eudoxus.gr/search/#a/id:2165/0)
   
