@@ -1,5 +1,5 @@
 ---
 ref: search
 layout: search
-title: Search 
+title: Search
 ---

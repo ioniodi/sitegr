@@ -1,41 +1,45 @@
 ---
 ref: courses
-layout: single
-sidebar:
- nav: courses-en
-title: "Undergraduate Courses"
+title: "Courses"
 ---
-
-Approximately 100 students enter the Department of Informatics every year after taking the Panhellenic Admission Examinations. Also, 10% of the number of accepted students may consist of students who have graduated from other departments of Greek Universities or equivalent institutions abroad.
-
-The duration of the studies in the Department of Informatics is 8 semesters, each of which lasts 16 weeks: 13 weeks of classes and 3 weeks of examinations.
 
 {% include toc title = "COURSES" icon = "graduation-cap" %}
 
-## 1ˢᵗ Semester
+# Undergraduate
 
-  {% include collection-sort.html i = 1 %}
+## 1ˢᵗ SEMESTER
 
-## 2ⁿᵈ Semester
+  {% include collection-sort.html i = 1 l = 'courses-en' %}
 
-  {% include collection-sort.html i = 2 %}
+## 2ⁿᵈ SEMESTER
 
-## 3ʳᵈ Semester
+  {% include collection-sort.html i = 2 l = 'courses-en' %}
 
-  {% include collection-sort.html i = 3 %}
+## 3ʳᵈ SEMESTER
 
-## 4ᵗʰ Semester
+  {% include collection-sort.html i = 3 l = 'courses-en' %}
 
-  {% include collection-sort.html i = 4 %}
+## 4ᵗʰ SEMESTER
 
-## 5ᵗʰ Semester
+  {% include collection-sort.html i = 4 l = 'courses-en' %}
 
-  {% include collection-sort.html i = 5 %}
+## 5ᵗʰ SEMESTER
 
-## 6ᵗʰ Semester
+  {% include collection-sort.html i = 5 l = 'courses-en' %}
 
-  {% include collection-sort.html i = 6 %}
+## 6ᵗʰ SEMESTER
 
-## 7ᵗʰ Semester
+  {% include collection-sort.html i = 6 l = 'courses-en' %}
 
-  {% include collection-sort.html i = 7 %}
+## 7ᵗʰ SEMESTER
+
+  {% include collection-sort.html i = 7 l = 'courses-en' %}
+
+# Postgraduate
+## 1ˢᵗ SEMESTER
+
+  {% include collection-sort.html i = 1 l = 'msc-en' %}
+
+## 2ⁿᵈ SEMESTER
+
+  {% include collection-sort.html i = 2 l = 'msc-en' %}

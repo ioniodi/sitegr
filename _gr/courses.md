@@ -1,43 +1,46 @@
 ---
 ref: courses
-layout: single
-sidebar:
- nav: courses
-title: "Προπτυχιακά Μαθήματα"
+title: "Μαθήματα"
 ---
-
-Για το ακαδημαϊκό έτος 2015 – 2016 εισήχθησαν στο Τμήμα Πληροφορικής 200 φοιτητές/τριες με το σύστημα των Πανελληνίων Εξετάσεων από το δεύτερο ή το τέταρτο Επιστημονικό Πεδίο (Θετικής ή Τεχνολογικής κατεύθυνσης). Επίσης, στο Τμήμα μπορούν να εισαχθούν, σε ποσοστό 10% επί του αριθμού των εισακτέων, πτυχιούχοι άλλων τμημάτων ελληνικών Α.Ε.Ι. ή ισοτίμων ιδρυμάτων του εξωτερικού.
-
-Η φοίτηση στο Τμήμα Πληροφορικής διαρκεί οκτώ εξάμηνα, το καθένα από τα οποία περιλαμβάνει δεκατρείς εβδομάδες για διδασκαλία και τρεις εβδομάδες για εξετάσεις.
-
-Το Τμήμα Πληροφορικής του Ιονίου Πανεπιστημίου έχει ως αντικείμενο τόσο τη θεωρητική όσο και την εφηρμοσμένη Πληροφορική και προσφέρει συστηματική και υπεύθυνη πανεπιστημιακή διδασκαλία προκειμένου οι απόφοιτοί του να διαθέτουν την επιστημονική γνώση και τις τεχνικές ικανότητες για την περαιτέρω σταδιοδρομία τους.
 
 {% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
 
-## A Εξάμηνο
+# ΠΡΟΠΤΥΧΙΑΚΟ
 
-{% include collection-sort.html i = 1 %}
+## A ΕΞΑΜΗΝΟ
 
-## Β Εξάμηνο
+{% include collection-sort.html i = 1 l = 'courses' %}
 
-{% include collection-sort.html i = 2 %}
+## Β ΕΞΑΜΗΝΟ
 
-## Γ Εξάμηνο
+{% include collection-sort.html i = 2 l = 'courses' %}
 
-{% include collection-sort.html i = 3 %}
+## Γ ΕΞΑΜΗΝΟ
 
-## Δ Εξάμηνο
+{% include collection-sort.html i = 3 l = 'courses' %}
 
-{% include collection-sort.html i = 4 %}
+## Δ ΕΞΑΜΗΝΟ
 
-## Ε Εξάμηνο
+{% include collection-sort.html i = 4 l = 'courses' %}
 
-{% include collection-sort.html i = 5 %}
+## Ε ΕΞΑΜΗΝΟ
 
-## ΣΤ Εξάμηνο
+{% include collection-sort.html i = 5 l = 'courses' %}
 
-{% include collection-sort.html i = 6 %}
+## ΣΤ ΕΞΑΜΗΝΟ
 
-## Ζ Εξάμηνο
+{% include collection-sort.html i = 6 l = 'courses' %}
 
-{% include collection-sort.html i = 7 %}
+## Ζ ΕΞΑΜΗΝΟ
+
+{% include collection-sort.html i = 7 l = 'courses' %}
+
+# ΜΕΤΑΠΤΥΧΙΑΚΟ
+
+## A ΕΞΑΜΗΝΟ
+
+{% include collection-sort.html i = 1 l = 'msc' %}
+
+## Β ΕΞΑΜΗΝΟ
+
+{% include collection-sort.html i = 2 l = 'msc' %}

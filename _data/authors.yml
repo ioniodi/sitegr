@@ -5,6 +5,8 @@ choko-en:
  github: "epidrome"
  bio: "Software Technologies"
  avatar: "/assets/images/choko.jpg"
+ tel: "+30 26610 87707"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv_gr_2011.pdf"
 
 choko:
  name: "Κωνσταντίνος Χωριανόπουλος"
@@ -13,6 +15,8 @@ choko:
  uri: "http://www.epidro.me"
  bio: "Τεχνολογίες Λογισμικού"
  avatar: "/assets/images/choko.jpg"
+ tel: "+30 26610 87707"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chorianopoulos_cv_gr_2011.pdf"
 
 pkour:
  name: "Παναγιώτης Κουρουθανάσης"
@@ -20,6 +24,8 @@ pkour:
  uri: "http://www.ionio.gr/~pkour"
  bio: "Πληροφοριακά Συστήματα και Ηλεκτρονική Διακυβέρνηση"
  avatar: "/assets/images/kourou.jpg"
+ tel: "+30 26610 87701"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/kourouthanassis_cv_en_2011.pdf"
 
 pkour-en:
  name: "Panagiotis Kourouthanassis"
@@ -27,6 +33,8 @@ pkour-en:
  uri: "http://www.ionio.gr/~pkour"
  bio: "Information Systems and E-Goverment"
  avatar: "/assets/images/kourou.jpg"
+ tel: "+30 26610 87701"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/kourouthanassis_cv_en_2011.pdf"
 
 emagos:
  name: "Εμμανουήλ Μάγκος"
@@ -34,13 +42,17 @@ emagos:
  uri: "http://www.ionio.gr/~emagos"
  bio: "Κρυπτογραφία και Ασφάλεια Υπολογιστικών Συστημάτων"
  avatar: "/assets/images/emagos.jpg"
+ tel: "+30 26610 87704"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
 
 emagos-en:
-  name: "Emmanouil Magos"
-  email: "emagos@ionio.gr"
-  uri: "http://www.ionio.gr/~emagos"
-  bio: "Cryptography and Information Systems Security"
-  avatar: "/assets/images/emagos.jpg"
+ name: "Emmanouil Magos"
+ email: "emagos@ionio.gr"
+ uri: "http://www.ionio.gr/~emagos"
+ bio: "Cryptography and Information Systems Security"
+ avatar: "/assets/images/emagos.jpg"
+ tel: "+30 26610 87704"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/magkos_cv_gr_2014.pdf"
 
 andronikos:
  name: "Θεόδωρος Ανδρόνικος"
@@ -48,6 +60,8 @@ andronikos:
  uri: "http://www.ionio.gr/~andronikos"
  bio: "Διαδικτυακός Προγραμματισμός"
  avatar: "/assets/images/andro.jpg"
+ tel: "+30 26610 87712"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/andronikos_cv_gr_2015.pdf"
 
 andronikos-en:
  name: "Theodore Andronikos"
@@ -55,6 +69,8 @@ andronikos-en:
  uri: "http://www.ionio.gr/~andronikos"
  bio: "Internet Programming"
  avatar: "/assets/images/andro.jpg"
+ tel: "+30 26610 87712"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/andronikos_cv_gr_2015.pdf"
 
 okon:
  name: "Κωνσταντίνος Οικονόμου"
@@ -62,6 +78,8 @@ okon:
  uri: "http://www.ionio.gr/~okon"
  bio: "Δίκτυα Υπολογιστών"
  avatar: "/assets/images/okon.jpg"
+ tel: "+30 26610 87708"
+ cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf
 
 okon-en:
  name: "Konstantinos Oikonomou"
@@ -69,6 +87,8 @@ okon-en:
  uri: "http://www.ionio.gr/~okon"
  bio: "Computer Networks"
  avatar: "assets/images/okon.jpg"
+ tel: "+30 26610 87708"
+ cv: http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/oikonomou_cv_gr_2011.pdf
 
 avlon:
  name: "Mάρκος Αυλωνίτης"
@@ -76,6 +96,8 @@ avlon:
  uri: "http://www.ionio.gr/~avlon"
  bio: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
  avatar: "assets/images/avlon.jpg"
+ tel: "+30 26610 87702"
+ uri:  "http://www.ionio.gr/~avlon"
 
 avlon-en:
  name: "Markos Avlonitis"
@@ -83,6 +105,8 @@ avlon-en:
  uri: "http://www.ionio.gr/~avlon"
  bio: "Applied Stohastic Models"
  avatar: "assets/images/avlon.jpg"
+ tel: "+30 26610 87702"
+ uri:  "http://www.ionio.gr/~avlon"
 
 mistral:
  name: "Μιχαήλ Στεφανιδάκης"
@@ -90,6 +114,8 @@ mistral:
  uri: "http://www.ionio.gr/~mistral"
  bio: "Αρχιτεκτονική Υπολογιστικών Συστημάτων"
  avatar: "assets/images/mistral.jpg"
+ tel: "+30 26610 87709"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
 
 mistral-en:
  name: "Michalis Stefanidakis"
@@ -97,6 +123,8 @@ mistral-en:
  uri: "http://www.ionio.gr/~mistral"
  bio: "Computer Systems Architecture"
  avatar: "assets/images/mistral.jpg"
+ tel: "+30 26610 87709"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/stefanidakis_cv_gr_2011.pdf"
 
 christos:
  name: "Χρήστος Αναγνωστόπουλος"
@@ -104,6 +132,8 @@ christos:
  uri: "http://www.ionio.gr/~christos"
  bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
  avatar: "/assets/images/anagnostopoulos.jpg"
+ tel: "+30 26610 87756"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
 
 christos-en:
  name: "Christos Anagnostopoulos"
@@ -111,6 +141,8 @@ christos-en:
  uri: "http://www.ionio.gr/~christos"
  bio: "Network-Centric Information Systems"
  avatar: "/assets/images/anagnostopoulos.jpg"
+ tel: "+30 26610 87756"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2011/09/anagnostopoulos_cv_gr_2011.pdf"
 
 vlamos:
  name: "Παναγιώτης Βλάμος"
@@ -118,6 +150,8 @@ vlamos:
  uri: "http://www.ionio.gr/~vlamos"
  bio: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
  avatar: "/assets/images/vlamos.jpg"
+ tel: "+30 26610 87710"
+ cv: "http://di.ionio.gr/wp-content/uploads/2017/03/Vlamos-Panayiotis-CV-2016.pdf"
 
 vlamos-en:
  name: "Panagiotis Vlamos"
@@ -125,6 +159,8 @@ vlamos-en:
  uri: "http://www.ionio.gr/~vlamos"
  bio: "Mathematics in Application Modelling"
  avatar: "/assets/images/vlamos.jpg"
+ tel: "+30 26610 87710"
+ cv: "http://di.ionio.gr/wp-content/uploads/2017/03/Vlamos-Panayiotis-CV-2016.pdf"
 
 pateli:
  name: "Αδαμαντία Πατέλη"
@@ -132,6 +168,8 @@ pateli:
  uri: "http://www.ionio.gr/~pateli"
  bio: "Διοίκηση Πληροφοριακών Συστημάτων και Καινοτομίας"
  avatar: "/assets/images/pateli.jpg"
+ tel: "+30 26610 87714"
+ cv: "http://di.ionio.gr/wp-content/uploads/2017/03/0317_A.Pateli_CV.pdf"
 
 pateli-en:
  name: "Adamantia Pateli"
@@ -139,6 +177,8 @@ pateli-en:
  uri: "http://www.ionio.gr/~pateli"
  bio: "Management of Information Systems and Innovation"
  avatar: "/assets/images/pateli.jpg"
+ tel: "+30 26610 87714"
+ cv: "http://di.ionio.gr/wp-content/uploads/2017/03/0317_A.Pateli_CV.pdf"
 
 dtsouma:
  name: "Δημήτριος Τσουμάκος"
@@ -146,6 +186,8 @@ dtsouma:
  uri: "http://www.cslab.ece.ntua.gr/~dtsouma/"
  bio: "Διαχείριση Δεδομένων στον Παγκόσμιο Ιστό"
  avatar: "/assets/images/dtsouma.jpg"
+ tel: "+30 26610 87756"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/tsoumakos_cv_gr_2011.pdf"
 
 dtsouma-en:
  name: "Dimitrios Tsoumakos"
@@ -153,6 +195,8 @@ dtsouma-en:
  uri: "http://www.cslab.ece.ntua.gr/~dtsouma/"
  bio: "Data Management on the Web"
  avatar: "/assets/images/dtsouma.jpg"
+ tel: "+30 26610 87756"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/tsoumakos_cv_gr_2011.pdf"
 
 fmylonas:
  name: "Φοίβος Μυλωνάς"
@@ -160,6 +204,9 @@ fmylonas:
  uri: "http://www.ionio.gr/~fmylonas"
  bio: "Αναπαράσταση και Διαχείριση Γνώσης"
  avatar: "/assets/images/fmylonas.jpg"
+ tel: "+30 26610 87756"
+ email: "fmylonas@ionio.gr"
+ uri:  "	http://image.ntua.gr/~fmylonas"
 
 fmylonas-en:
  name: "Phivos Mylonas"
@@ -167,6 +214,9 @@ fmylonas-en:
  uri: "http://www.ionio.gr/~fmylonas"
  bio: "Representation and Knowledge Management"
  avatar: "/assets/images/fmylonas.jpg"
+ tel: "+30 26610 87756"
+ email: "fmylonas@ionio.gr"
+ uri:  "	http://image.ntua.gr/~fmylonas"
 
 atsohou:
  name: "Αγγελική Τσώχου"
@@ -174,6 +224,8 @@ atsohou:
  uri:
  bio: "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
  avatar: "/assets/images/atsohou.jpg"
+ tel: "+30 26610 87738"
+ cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
 
 atsohou-en:
  name: "Aggeliki Tsohou"
@@ -181,6 +233,8 @@ atsohou-en:
  uri:
  bio: "Internet Security and Privacy"
  avatar: "/assets/images/atsohou.jpg"
+ tel: "+30 26610 87738"
+ cv: "http://di.ionio.gr/wp-content/uploads/2017/02/Tsohou-CV-and-Memo-GR.pdf"
 
 kerman:
  name: "Κάτια Λήδα Κερμανίδου"
@@ -188,6 +242,8 @@ kerman:
  uri: "http://www.ionio.gr/~kerman"
  bio: "Τεχνητή Νοημοσύνη με έμφαση στη Γλωσσική Τεχνολογία"
  avatar: "/assets/images/kerman.jpg"
+ tel: "+30 26610 87703"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/kermanidou_cv_gr_2011.pdf"
 
 kerman-en:
  name: "Katia Lida Kermanidis"
@@ -195,6 +251,8 @@ kerman-en:
  uri: "http://www.ionio.gr/~kerman"
  bio: "Artificial Intelligence in Language Technology"
  avatar: "/assets/images/kerman.jpg"
+ tel: "+30 26610 87703"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/kermanidou_cv_gr_2011.pdf"
 
 sioutas:
  name: "Σπύρος Σιούτας"
@@ -202,6 +260,8 @@ sioutas:
  uri: "http://www.ionio.gr/~sioutas"
  bio: "Δομές και Βάσεις Δεδομένων"
  avatar: "/assets/images/sioutas.jpg"
+ tel: "+30 26610 87706"
+ cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
 
 sioutas-en:
  name:  "Spyros Sioutas"
@@ -209,13 +269,17 @@ sioutas-en:
  uri: "http://www.ionio.gr/~sioutas"
  bio: "Data Structures & Databases"
  avatar: "/assets/images/sioutas.jpg"
+ tel: "+30 26610 87706"
+ cv: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Sioutas-Sept-2016-GR.pdf"
 
 vchris:
  name: "Βασίλειος Χρυσικόπουλος"
  email:  "vchris@ionio.gr"
- uri: 
+ uri:
  bio:  "Πληροφορική – Δίκτυα – Ασφάλεια Πληροφοριών"
  avatar: "/assets/images/vchris.jpg"
+ tel: "+30 26610 87110"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chrissikopoulos_cv_gr_2015.pdf"
 
 vchris-en:
  name: "Vassilis Chrissikopoulos"
@@ -223,27 +287,32 @@ vchris-en:
  uri: ""
  bio:  "IT – Networks – Information Security"
  avatar: "/assets/images/vchris.jpg"
-
+ tel: "+30 26610 87110"
+ cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/chrissikopoulos_cv_gr_2015.pdf"
+ 
 alex:
  name: "Αλέξανδρος Πανάρετος"
  email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
- 
+ tel: "+30 26610 87754"
+
  alex-en:
  name: "Alexandros Panaretos"
  email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
- 
+ tel: "+30 26610 87754"
+
 svoul:
  name: "Σπύρος Βούλγαρης"
  email: "svoul@ionio.gr"
  uri: ""
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
+ tel: "+30 26610 87753"
 
 svoul-en:
  name: "Spiros Voulagris"
@@ -251,7 +320,8 @@ svoul-en:
  uri: ""
  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
  avatar: "/assets/images/nophoto.jpg"
- 
+ tel: "+30 26610 87753"
+
 karydis:
  name: "Ιωάννης Καρύδης"
  email: "karydis@ionio.gr"
@@ -279,7 +349,7 @@ paxinos-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/paxinos.jpg"
- 
+
 wegner:
  name: "Bernd Wegner"
  email: ""
@@ -293,4 +363,3 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
-

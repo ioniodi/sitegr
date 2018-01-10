@@ -1,23 +1,19 @@
 # main links
 main:
   - title: "Προσωπικό"
-    url: "/gr/faculty/"
+    url: "/gr/people/"
   - title: "Σπουδές"
     url: "/gr/courses/"
   - title: "Εργαστήρια"
     url: "/gr/groups/"
-  - title: "Αναζήτηση"
-    url: "/gr/search/"
 
 main-en:
-  - title: "Faculty"
-    url: "/en/faculty/"
+  - title: "People"
+    url: "/en/people/"
   - title: "Studies"
     url: "/en/courses/"
   - title: "Laboratories"
     url: "/en/groups/"
-  - title: "Search"
-    url: "/en/search/"
 
 # sidebar gr
 menu:
@@ -28,7 +24,7 @@ menu:
  - title: "ΠΡΟΣΩΠΙΚΟ"
    children:
     - title: "Διδακτικό"
-      url: "/gr/faculty/"
+      url: "/gr/people/"
     - title: #"Διοικητικό"
       url: # "/gr/admin/"
     - title: #"Ειδικό"
@@ -80,7 +76,7 @@ menu-en:
  - title: "STAFF"
    children:
     - title: "Faculty"
-      url: "/en/faculty/"
+      url: "/en/people/"
     - title: #"Administrative"
       url: # "/en/admin/"
     - title: #"Specialized"
