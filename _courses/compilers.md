@@ -14,6 +14,6 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - " Μεταγλωττιστές, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman" [eudoxus link](https://service.eudoxus.gr/search/#a/id:12713790/0)
-  - " Μεταγλωττιστές, Παπασπύρου Νικόλαος Σ.,Σκορδαλάκης Εμμανουήλ Σ." [eudoxus link](https://service.eudoxus.gr/search/#a/id:45346/0)
+  - ["Μεταγλωττιστές, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman"](https://service.eudoxus.gr/search/#a/id:12713790/0)
+  - ["Μεταγλωττιστές, Παπασπύρου Νικόλαος Σ.,Σκορδαλάκης Εμμανουήλ Σ."](https://service.eudoxus.gr/search/#a/id:45346/0)
   
