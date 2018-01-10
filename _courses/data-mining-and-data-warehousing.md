@@ -14,6 +14,6 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - "Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin" [eudoxus link](https://service.eudoxus.gr/search/#a/id:18549105/0)
-  - "Εισαγωγή στην Εξόρυξη Δεδομένων και τις Αποθήκες Δεδομένων, Αλ. Νανόπουλος - Γ. Μανωλόπουλος "[eudoxus link](https://service.eudoxus.gr/search/#a/id:3079/0)
+  - ["Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin" ](https://service.eudoxus.gr/search/#a/id:18549105/0)
+  - ["Εισαγωγή στην Εξόρυξη Δεδομένων και τις Αποθήκες Δεδομένων, Αλ. Νανόπουλος - Γ. Μανωλόπουλος "](https://service.eudoxus.gr/search/#a/id:3079/0)
   
