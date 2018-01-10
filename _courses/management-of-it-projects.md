@@ -14,6 +14,6 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - "Διαχείριση έργων πληροφορικής, Κιουντούζης Ευάγγελος Α."[eudoxus link](https://service.eudoxus.gr/search/#a/id:22698/0)
-  - "Διαχείριση έργου - project management, Burke Rory"[eudoxus link](https://service.eudoxus.gr/search/#a/id:11499/0)
+  - ["Διαχείριση έργων πληροφορικής, Κιουντούζης Ευάγγελος Α."](https://service.eudoxus.gr/search/#a/id:22698/0)
+  - ["Διαχείριση έργου - project management, Burke Rory"](https://service.eudoxus.gr/search/#a/id:11499/0)
   
