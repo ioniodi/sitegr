@@ -1,6 +1,9 @@
 ---
 ref: nms
 title: "Networks, Multimedia and Security Systems Laboratory (NMSLab)"
+header:
+  teaser: /assets/images/NMSlab.png
+  og_image: /assets/images/NMSlab.png
 excerpt: "The Networks, Multimedia and Security Systems Laboratory (NMSLab) supports both educational and research needs of the Department of Informatics, as well as other departments of the Ionian University, related to computer networks, multimedia and security."
 uri: "http://nmslab.di.ionio.gr"
 members:
