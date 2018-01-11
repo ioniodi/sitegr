@@ -1,6 +1,9 @@
 ---
 ref: hi
 title: "Humanistic and Social Informatics Lab (HILab)"
+header:
+  teaser: /assets/images/default.png
+  og_image: /assets/images/default.png
 excerpt: "Humanistic and Social Informatics Lab focuses on the one hand on the application of ICT to the extraction, representation and processing of humanistic and social data that is derived from the respective scientific and artistic areas, like Psychology, Linguistics, History, Archaeology, Philosophy, Anthropology, Social Studies, Music and Arts."
 uri: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
 members:

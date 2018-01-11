@@ -1,6 +1,9 @@
 ---
 ref: quit
 title: "Quantum and UnconventIonal CompuTing Laboratory(QUITLab)"
+header:
+  teaser: /assets/images/QUIT.jpg
+  og_image: /assets/images/QUIT.jpg
 excerpt: ""
 uri: "http://quit.di.ionio.gr"
 members:
