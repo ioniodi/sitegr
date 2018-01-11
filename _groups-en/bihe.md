@@ -1,6 +1,9 @@
 ---
 ref: bihe
 title: "Bioinformatics and Human Electrophysiology Lab (BiHELab)"
+header:
+  teaser: /assets/images/bihelab.png
+  og_image: /assets/images/bihelab.png
 excerpt: "The Bioinformatics and Human Electrophysiology Lab focus on recent advances in geriatrics and neurodegeneration, ranging from basic science to clinical and pharmaceutical developments. BiHELab’s goal is to help bridge the translational gap from data to models and from models to drug discovery and personalized therapy by fostering collaborations and developing original quantitative approaches to biological and clinical problems."
 uri: "http://bihelab.di.ionio.gr"
 members:
