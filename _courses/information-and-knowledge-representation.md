@@ -14,5 +14,5 @@ ects: 4
 
 
 Βιβλιογραφία: 
-  - "Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό, Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία"[eudoxus link](https://service.eudoxus.gr/search/#a/id:31391/0)
-  - "Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin"[eudoxus link](https://service.eudoxus.gr/search/#a/id:18549105/0)
+  - ["Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό, Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία"](https://service.eudoxus.gr/search/#a/id:31391/0)
+  - ["Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin"](https://service.eudoxus.gr/search/#a/id:18549105/0)

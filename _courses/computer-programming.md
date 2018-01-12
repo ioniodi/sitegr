@@ -14,7 +14,7 @@ ects: 6
 
 
 Βιβλιογραφία: 
-  - “C Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011"[eudoxus link](https://service.eudoxus.gr/search/#a/id:50659221/0)
-  - “ΜΑΘΕΤΕ ΤΗ C++ ΑΠΟ ΤΟ ΜΗΔΕΝ”,  HERBERT SCHILDT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-731-0, 2004"[eudoxus link](https://service.eudoxus.gr/search/#a/id:13787/0)
+  - [“C Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011"](https://service.eudoxus.gr/search/#a/id:50659221/0)
+  - [“ΜΑΘΕΤΕ ΤΗ C++ ΑΠΟ ΤΟ ΜΗΔΕΝ”,  HERBERT SCHILDT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-731-0, 2004"](https://service.eudoxus.gr/search/#a/id:13787/0)
   
 

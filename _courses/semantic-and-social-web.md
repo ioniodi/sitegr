@@ -14,7 +14,7 @@ ects: 5
 
 
 Βιβλιογραφία: 
-  - "ΕΙΣΑΓΩΓΗ ΣΤΟ ΣΗΜΑΣΙΟΛΟΓΙΚΟ ΙΣΤΟ, GRIGORIS ANTONIOU, FRANK VAN HARMELEN"[eudoxus link](https://service.eudoxus.gr/search/#a/id:13705/0)
-  - "Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό, Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία"[eudoxus link](https://service.eudoxus.gr/search/#a/id:31391/0)
+  - ["ΕΙΣΑΓΩΓΗ ΣΤΟ ΣΗΜΑΣΙΟΛΟΓΙΚΟ ΙΣΤΟ, GRIGORIS ANTONIOU, FRANK VAN HARMELEN"](https://service.eudoxus.gr/search/#a/id:13705/0)
+  - ["Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό, Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία"](https://service.eudoxus.gr/search/#a/id:31391/0)
   
   

@@ -1,6 +1,9 @@
 ---
 ref: cmod
 title: Computational Modeling Lab (CMODLab)
+header:
+  teaser: /assets/images/default.png
+  og_image: /assets/images/default.png
 excerpt: "Apart from the educational focus, one of the main activities of the Department of Informatics of the Ionian University is research. More specifically, the department’s research activities are orientated towards the development of novel applications in the research areas of Information Systems and Humanistic Informatics."
 uri: "http://cmodlab.di.ionio.gr"
 members:

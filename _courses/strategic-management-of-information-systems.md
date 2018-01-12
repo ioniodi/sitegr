@@ -14,7 +14,7 @@ ects: 5
 
 
 Βιβλιογραφία: 
-  - "ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΔΙΟΙΚΗΣΗΣ, KENNETH C. LAUDON, JANE P. LAUDON"[eudoxus link](https://service.eudoxus.gr/search/#a/id:41962586/0)
-  - "ΚΑΙΝΟΤΟΜΙΑ, ΣΤΡΑΤΗΓΙΚΗ, ΑΝΑΠΤΥΞΗ ΚΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, Γεώργιος Δουκίδης"[eudoxus link](https://service.eudoxus.gr/search/#a/id:14035/0)
+  - ["ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΔΙΟΙΚΗΣΗΣ, KENNETH C. LAUDON, JANE P. LAUDON"](https://service.eudoxus.gr/search/#a/id:41962586/0)
+  - ["ΚΑΙΝΟΤΟΜΙΑ, ΣΤΡΑΤΗΓΙΚΗ, ΑΝΑΠΤΥΞΗ ΚΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ, Γεώργιος Δουκίδης"](https://service.eudoxus.gr/search/#a/id:14035/0)
   
   

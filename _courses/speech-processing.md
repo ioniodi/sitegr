@@ -14,7 +14,7 @@ ects: 5
 
 
 Βιβλιογραφία: 
-  - "Ψηφιακή επεξεργασία σήματος, Antoniou A."[eudoxus link](https://service.eudoxus.gr/search/#a/id:18549117/0)
-  - "Ψηφιακή Επεξεργασία Φωνής: Θεωρία και Εφαρμογές, Rabiner L."[eudoxus link](https://service.eudoxus.gr/search/#a/id:13256964/0)
+  - ["Ψηφιακή επεξεργασία σήματος, Antoniou A."](https://service.eudoxus.gr/search/#a/id:18549117/0)
+  - ["Ψηφιακή Επεξεργασία Φωνής: Θεωρία και Εφαρμογές, Rabiner L."](https://service.eudoxus.gr/search/#a/id:13256964/0)
   
   
