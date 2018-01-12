@@ -1,0 +1,36 @@
+{% if post.author and site.data.authors[post.author] %}
+  {% assign author = site.data.authors[post.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if author.avatar %}
+      <div class="archive__author-avatar" style="text-align: center;">
+        <a href="{{ post.url | absolute_url }}" rel="permalink">
+              <img src=
+                {% if post.avatar contains "://" %}
+                  "{{ author.avatar }}"
+                {% else %}
+                  "{{ author.avatar | absolute_url }}"
+                {% endif %}
+                alt="" itemprop="image">
+        </a>
+    {% endif %}
+        <h5>
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </h5>
+      </div>
+  </article>
+</div>
