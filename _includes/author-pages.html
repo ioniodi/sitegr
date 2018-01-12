@@ -1,16 +1,9 @@
-{% if page.lang == 'en' %}
-  {% assign courses = site.courses-en %}
-  {% assign groups = site.groups-en %}
-  {% assign c = 'Courses' %}
-  {% assign g = 'Laboratories' %}
-  {% assign r = 'Research Interests' %}
-{% else %}
-  {% assign courses = site.courses %}
-  {% assign groups = site.groups %}
-  {% assign c = 'Μαθήματα' %}
-  {% assign g = 'Εργαστήρια' %}
-  {% assign r = 'Ερευνητικά Ενδιαφέροντα' %}
-{% endif %}
+{% assign courses = site.courses %}
+{% assign groups = site.groups %}
+{% assign c = 'Μαθήματα' %}
+{% assign g = 'Εργαστήρια' %}
+{% assign r = 'Ερευνητικά Ενδιαφέροντα' %}
+
 
 <h2>{{ c }}</h2>
 

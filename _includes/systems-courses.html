@@ -1,9 +1,4 @@
-
-{% if page.lang == 'en' %}
-  {% assign posts = site.courses-en  %}
-{% else %}
-    {% assign posts = site.courses %}
-{% endif %}
+{% assign posts = site.courses %}
 
 {% for post in posts %}
   {% if post.type == "Κατεύθυνση Π.Σ." %}

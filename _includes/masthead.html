@@ -2,13 +2,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ page.lang | append: '/index' | absolute_url }}">{{ site.title[page.lang] }}</a>
+        <a class="site-title" href="{{ '/index' | absolute_url }}">{{ site.title }}</a>
         <ul class="visible-links">
-          {% if page.lang == 'en' %}
-            {% assign links = site.data.navigation.main-en %}
-          {% else %}
-            {% assign links = site.data.navigation.main %}
-          {% endif %}
+          {% assign links = site.data.navigation.main %}
           {% for link in links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

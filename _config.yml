@@ -4,19 +4,19 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+
+remote_theme             : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
-theme                    : "minimal-mistakes-jekyll"
+
 # Site Settings
-locale                   : "en"
-title:
-  en: "Department of Informatics"
-  gr: "Τμήμα Πληροφορικής"
+locale                   : "gr"
+title                    : "Τμήμα Πληροφορικής"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/site-gem"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://ioniodi.github.io"
+baseurl                  : "/gr"
+repository               : "ioniodi/site-gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -239,69 +239,33 @@ compress_html:
 collections:
   people:
     output: true
-    permalink: /gr/people/:path/
-  people-en:
-    output: true
-    permalink: /en/people/:path/
+    permalink: /people/:path/
   courses:
     output: true
-    permalink: /gr/courses/:path/
-  courses-en:
-    output: true
-    permalink: /en/courses/:path/
+    permalink: /courses/:path/
   msc:
     output: true
-    permalink: /gr/msc/:path/
-  msc-en:
-    output: true
-    permalink: /en/msc/:path/
+    permalink: /msc/:path/
   groups:
     output: true
-    permalink: /gr/groups/:path/
-  groups-en:
-    output: true
-    permalink: /en/groups/:path/
+    permalink: /groups/:path/
   projects:
     output: true
-    permalink: /gr/projects/:path/
-  projects-en:
+    permalink: /projects/:path/
+  pages:
     output: true
-    permalink: /en/projects/:path/
-  gr:
-    output: true
-    permalink: /gr/:path/
-  en:
-    output: true
-    permalink: /en/:path/
+    permalink: /:path/
   posts:
     output: true
-    permalink: /gr/posts/:year/:month/:day/:title/
-  posts-en:
-    output: true
-    permalink: /en/posts/:year/:month/:day/:title/
+    permalink: /posts/:year/:month/:day/:title/
 
 # Defaults
 defaults:
-  # _gr
+  # _pages
   - scope:
       path: ""
-      type: gr
+      type: pages
     values:
-      lang: gr
-      sidebar: false
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-      search: false
-  # _en
-  - scope:
-      path: ""
-      type: en
-    values:
-      lang: en
       sidebar: false
       layout: single
       author_profile: false
@@ -315,20 +279,6 @@ defaults:
       path: ""
       type: people
     values:
-      lang: gr
-      sidebar: false
-      layout: people
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _people-en
-  - scope:
-      path: ""
-      type: people-en
-    values:
-      lang: en
       sidebar: false
       layout: people
       author_profile: true
@@ -341,20 +291,6 @@ defaults:
       path: ""
       type: courses
     values:
-      lang: gr
-      sidebar: false
-      layout: courses
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _courses-en
-  - scope:
-      path: ""
-      type: courses-en
-    values:
-      lang: en
       sidebar: false
       layout: courses
       author_profile: true
@@ -367,20 +303,6 @@ defaults:
       path: ""
       type: msc
     values:
-      lang: gr
-      sidebar: false
-      layout: courses
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _msc-en
-  - scope:
-      path: ""
-      type: msc-en
-    values:
-      lang: en
       sidebar: false
       layout: courses
       author_profile: true
@@ -393,20 +315,6 @@ defaults:
       path: ""
       type: groups
     values:
-      lang: gr
-      sidebar: false
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-   # _groups-en
-  - scope:
-      path: ""
-      type: groups-en
-    values:
-      lang: en
       sidebar: false
       layout: single
       author_profile: true
@@ -419,20 +327,6 @@ defaults:
       path: ""
       type: projects
     values:
-      lang: gr
-      sidebar: false
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-   # _projects-en
-  - scope:
-      path: ""
-      type: projects-en
-    values:
-      lang: en
       sidebar: false
       layout: single
       author_profile: true
@@ -445,20 +339,6 @@ defaults:
       path: ""
       type: posts
     values:
-      lang: gr
-      sidebar: false
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true
- # _posts-en
-  - scope:
-      path: ""
-      type: posts-en
-    values:
-      lang: en
       sidebar: false
       layout: single
       author_profile: true
