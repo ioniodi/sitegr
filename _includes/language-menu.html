@@ -1,10 +1,10 @@
 {% assign lang = site.locale | slice: 0,2 %}
 {% if lang == 'en' %}
   <li class="masthead__menu-item">
-    <a href="{{ site.url }}/gr{{ page.url }}">GR</a>
+    <a href="{{ site.url }}/site-gr{{ page.url }}">GR</a>
   </li>
 {% else %}
   <li class="masthead__menu-item">
-    <a href="{{ site.url }}/en{{ page.url }}">EN</a>
+    <a href="{{ site.url }}/site-en{{ page.url }}">EN</a>
   </li>
 {% endif %}
