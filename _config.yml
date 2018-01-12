@@ -15,8 +15,8 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://ioniodi.github.io"
-baseurl                  : "/gr"
-repository               : "ioniodi/site-gr"
+baseurl                  : "/site-gr"
+repository               : "/site-gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
