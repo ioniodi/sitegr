@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/NMSlab.png
   og_image: /assets/images/NMSlab.png
 excerpt: "Το Εργαστήριο Δικτύων, Πολυμέσων και Ασφάλειας Συστημάτων (NMSLab) υποστηρίζει τις εκπαιδευτικές και ερευνητικές ανάγκες του Τμήματος Πληροφορικής, καθώς και άλλων Τμημάτων του Ιονίου Πανεπιστημίου, σχετικά με τις γνωστικές περιοχές δίκτυα υπολογιστών, πολυμέσα και ασφάλεια πληροφοριών."
-uri: "http://nmslab.di.ionio.gr"
+link: "http://nmslab.di.ionio.gr"
 members:
  - atsohou
  - emagos

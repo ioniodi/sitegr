@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/default.png
   og_image: /assets/images/default.png
 excerpt: "Η Πληροφορική στις Ανθρωπιστικές και Κοινωνικές Επιστήμες εστιάζει αφ’ ενός στην εφαρμογή των ΤΠΕ στην εξαγωγή, αναπαράσταση και επεξεργασία ανθρωπιστικών και κοινωνικών δεδομένων, όπως αυτά προέρχονται από αντίστοιχες επιστήμες και τέχνες, όπως η Ψυχολογία, η Γλωσσολογία, η Ιστορία, η Αρχαιολογία, η Φιλοσοφία, η Ανθρωπολογία, η Κοινωνιολογία, η Μουσική, οι Καλές και οι Εφαρμοσμένες Τέχνες."
-uri: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
+link: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
 members:
  - choko
  - fmylonas

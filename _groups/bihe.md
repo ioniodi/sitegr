@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/bihelab.png
   og_image: /assets/images/bihelab.png
 excerpt: "Το εργαστήριο Βιοπληροφορικής και Ανθρώπινης Ηλεκτροφυσιολογίας καλύπτει τις ερευνητικές δραστηριότητες του Τμήματος Πληροφορικής του Ιονίου Πανεπιστημίου, σχετικά με τις νευρολογικές διαταραχές και τη συσχέτιση τους με τις υποκυτταρικές μετρήσεις βιοενέργειας."
-uri: "http://bihelab.di.ionio.gr"
+link: "http://bihelab.di.ionio.gr"
 members:
  - vlamos
  - paxinos

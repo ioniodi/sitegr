@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/QUIT.jpg
   og_image: /assets/images/QUIT.jpg
 excerpt: ""
-uri: "http://quit.di.ionio.gr"
+link: "http://quit.di.ionio.gr"
 members:
  - andronikos
 ---
