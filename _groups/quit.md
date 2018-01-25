@@ -4,7 +4,6 @@ title: "Εργαστήριο Κβαντικών και μή Συμβατικών
 header:
   teaser: /assets/images/QUIT.jpg
   og_image: /assets/images/QUIT.jpg
-excerpt: ""
 link: "http://quit.di.ionio.gr"
 members:
  - andronikos
