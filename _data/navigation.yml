@@ -6,3 +6,6 @@ main:
     url: "/courses/"
   - title: "Εργαστήρια"
     url: "/groups/"
+  - title: "Ανακοινώσεις"
+    url: "/posts/"
+
