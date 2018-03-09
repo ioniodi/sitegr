@@ -1,4 +1,0 @@
-{% assign posts = site.collections | where:'label',include.collection | first %}
-{% for post in posts.docs %}
- {% include archive-single.html %}
-{% endfor %}

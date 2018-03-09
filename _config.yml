@@ -5,15 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : mmistakes/minimal-mistakes
+remote_theme             : ioniodi/minimal-ionio
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
 
 # Site Settings
 locale                   : "gr"
 title                    : "Τμήμα Πληροφορικής"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : ""
+description              : ""
 url                      : "https://ioniodi.github.io"
 baseurl                  : "/site-gr"
 repository               : "ioniodi/site-gr"
