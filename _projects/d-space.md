@@ -1,6 +1,7 @@
 ---
 ref: d-space
 title: "Discovery Space(D-Space)"
+excerpt: "Το έργο Discovery Space (D-Space) παρέχει τη δυνατότητα πρόσβασης και από κοινού χρήσης εργαλείων και εκπαιδευτικών πηγών όχι μόνο σε σχολεία αλλά και σε ερευνητικά και επιστημονικά κέντρα."
 partners:
  - "Ιόνιο Πανεπιστήμιο"
 web: "www.discoveryspace.net"
