@@ -1,5 +1,5 @@
 ---
-ref: geonext
+ref: adriatin
 title: “An Adriatic Network for Advancing Research Development and Innovation towards the Creation of new Policies for Sustainable Competiveness and Technological Capacity of SMEs”
 excerpt: "Το πρόγραμμα έχει θέσει τους ακόλουθους στόχους:
     -Την ανάπτυξη διασυνοριακών ομάδων (clusters) ΜΜΕ και ερευνητικών κέντρων, οι οποίες θα αλληλεπιδρούν μεταξύ τους και με πελάτες και προμηθευτές και θα μοιράζονται μια δεξαμενή τεχνογνωσίας, οικονομικών υπηρεσιών, καθώς και εγκαταστάσεις εκπαίδευσης και έρευνας και ανάπτυξης.
