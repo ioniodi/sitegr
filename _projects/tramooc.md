@@ -6,7 +6,7 @@ partners:
 - "HUMBOLDT-UNIVERSITAET ZU BERLIN"
 - "DUBLIN CITY UNIVERSITY"
 - "THE UNIVERSITY OF EDINBURGH"
-- "IONIAN UNIVERSITY"
+- "Ιόνιο Πανεπιστήμιο"
 - "STICHTING KATHOLIEKE UNIVERSITEIT"
 - "EASN Technology Innovation Services BVBA"
 - "Deluxe Media Europe Ltd"
