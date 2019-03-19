@@ -7,7 +7,7 @@ tags:
 tags:
  - conference
 ---
-![](/assets/images/siggramata.jpg)
+![][/assets/images/siggramata.jpg]
 
 Η ΔΙΑΝΟΜΗ συγγραμμάτων για το εαρινό εξάμηνο θα ξεκινήσει την Πέμπτη 16 Μαρτίου 2017 και θα ολοκληρωθεί την Παρασκευή 19 Μαΐου 2017.
 
