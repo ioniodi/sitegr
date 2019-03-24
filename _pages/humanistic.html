@@ -3,7 +3,7 @@ ref: humanistic
 title: "Ανθρωπιστικές Επιστήμες"
 ---
 
-{% assign posts = site.courses %}
+{% assign posts = site-gr.courses %}
 {% for post in posts %}
   {% if post.type == "Κατεύθυνση Α.Ε." %}
     {% include archive-single.html %}
