@@ -48,7 +48,7 @@ touch .nojekyll
 git init
 ```
 ```
-git remote add origin https://github.com/geocfu/site-gr
+git remote add origin [url]
 ```
 ```
 git checkout -b gh-pages
