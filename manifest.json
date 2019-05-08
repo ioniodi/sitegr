@@ -1,0 +1,28 @@
+{"dir" : "ltr",
+    "lang" : "gr",
+    "name" : "Τμήμα Πληροφορικής",
+    "scope" : "/site-gr/",
+    "display" : "standalone",
+    "start_url" : "https://ioniodi.github.io/site-gr/",
+    "short_name" : "",
+    "theme_color" : "#ffffff",
+    "description" : "Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των: Ανθρωπιστικών-Κοινωνικών Επιστημών  Πληροφοριακών Συστημάτων ",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://ioniodi.github.io/site-gr/site-gr/assets/images/favicon.ico",
+            "sizes": "48x48 32x32 16x16"
+        },
+        {
+            "src": "https://ioniodi.github.io/site-gr/assets/images/favicon-32x32.png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://ioniodi.github.io/site-gr/assets/images/favicon-16x16.png",
+            "sizes": "16x16"
+        }
+    ]}
