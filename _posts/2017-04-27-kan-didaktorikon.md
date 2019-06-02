@@ -6,4 +6,4 @@ tags:
 tags:
  - conference
 ---
-[Κανονισμός Διδακτορικών Σπουδών](http://di.ionio.gr/wp-content/uploads/2018/04/ΚανονισμόςΔιδακτορικώνΣπουδών-2018.pdf)
+
