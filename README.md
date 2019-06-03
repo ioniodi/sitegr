@@ -4,13 +4,13 @@
 Η εργασία αυτή είναι κατάλληλη για όσους γνωρίζουν ήδη ή επιθυμούν να μάθουν μόνοι τους σε γρήγορους ρυθμούς τις βασικές τεχνολογίες του Web (HTML, CSS, Javascript), καθώς και το περιβάλλον προγραμματισμού στατικών ιστοσελίδων [Jekyll](https://jekyllrb.com/docs/quickstart/). Εκτός από την εξοικείωση με την συνεργατική ανάπτυξη εφαρμογών στην πλατφόρμα του GitHub, θα μάθουμε να δουλεύουμε με εργαλεία όπως το linux, git σε command line. Στην εργασία αυτή θα δημιουργήσουμε συνεργατικά ένα νέο ιστότοπο για το τμήμα Πληροφορικής. Για τον σκοπό αυτό θα πρέπει να δημιουργήσετε ένα αντίγραφο του [αποθετηρίου](https://github.com/ioniodi/site-gr) και να ακολουθήσετε τα βήματα που αντιστοιχούν στα ανοιχτά issues αυτής της εργασίας.
 
 ## Προσαρμοσμένο git workflow
-Το [jekyll PWA plugin](https://github.com/lavas-project/jekyll-pwa) δεν είναι white-listed από το GitHub, οπότε να μπορέσουμε να κάνουμε serve από το GitHub Pages θα πρέπει να  ακολουθούμε το παρακάτω workflow.
+Το [jekyll PWA plugin](https://github.com/lavas-project/jekyll-pwa) δεν είναι white-listed από το GitHub, οπότε για να μπορέσουμε να κάνουμε serve από το GitHub Pages, θα πρέπει να ακολουθούμε το παρακάτω workflow.
 ### Το workflow έχει ως εξής:
 ```
 git init
 ```
 ```
-git remote add origin [url]
+git remote add origin https://github.com/ioniodi/site-gr
 ```
 ```
 git pull origin master
@@ -33,7 +33,7 @@ git checkout master
 git add -A
 ```
 ```
-git commit -m "[commit-message-goes-here]"
+git commit -m "commit-message-goes-here"
 ```
 ```
 git push origin master
@@ -48,7 +48,7 @@ touch .nojekyll
 git init
 ```
 ```
-git remote add origin [url]
+git remote add origin https://github.com/ioniodi/site-gr
 ```
 ```
 git checkout -b gh-pages
@@ -57,7 +57,7 @@ git checkout -b gh-pages
 git add -A
 ```
 ```
-git commit -m "[commit-message-goes-here]"
+git commit -m "commit-message-goes-here"
 ```
 ```
 git push origin gh-pages
