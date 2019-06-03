@@ -347,7 +347,7 @@ defaults:
       share: true
       related: true
 pwa:
-  sw_src_filepath: service-worker.js # Optional
+  sw_src_filepath: _site/assets/js/service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
   dest_js_directory: assets/js # Required
   precache_recent_posts_num: 5 # Optional
