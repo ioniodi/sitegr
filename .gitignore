@@ -1,3 +1,8 @@
+site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
 *.gem
 *.sublime-project
 *.sublime-workspace
