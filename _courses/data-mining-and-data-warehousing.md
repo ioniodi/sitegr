@@ -8,7 +8,7 @@ uri: "https://e-class.ionio.gr/courses/DCS172/"
 code: ΗΥ380
 type: "Επιλογής"
 hours: 4
-extra: 
+extra: 2Ε
 ects: 4
 ---
 
@@ -16,4 +16,5 @@ ects: 4
 Βιβλιογραφία: 
   - ["Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin" ](https://service.eudoxus.gr/search/#a/id:18549105/0)
   - ["Εισαγωγή στην Εξόρυξη Δεδομένων και τις Αποθήκες Δεδομένων, Αλ. Νανόπουλος - Γ. Μανωλόπουλος "](https://service.eudoxus.gr/search/#a/id:3079/0)
-  
+  -["DATA MINING, Margaret H. Dunham"](https://service.eudoxus.gr/search/#a/id:395/0)
+  -"Data Mining: Practical Machine Learning Tools and Techniques,3rd Edition. Witten Ian, Frank Eibe, Hall Mark. Morgan Kaufmann"
