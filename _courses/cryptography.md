@@ -8,7 +8,7 @@ uri: "https://opencourses.ionio.gr/courses/DDI140/"
 code: ΜΘ500
 type: "Επιλογής"
 hours: 4
-extra: 
+extra: "-"
 ects: 4
 ---
 

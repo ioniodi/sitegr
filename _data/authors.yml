@@ -363,3 +363,35 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
+
+riggas:
+  name: "Δημήτριος Ρίγγας"
+  email: ""
+  uri: ""
+  bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής Ιονίου Πανεπιστημίου"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+
+riggas-en:
+  name: "Dimitrios Riggas"
+  email: ""
+  uri: ""
+  bio: "Academic Scholar Ionian University Department of Informatics"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+
+doukakis:
+  name: "Σπυρίδων Δουκάκης"
+  email: ""
+  uri: ""
+  bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+
+doukakis-en:
+  name: "Spiridon Doukakis"
+  email: ""
+  uri: ""
+  bio: "Academic Scholar Department of Informatics"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
