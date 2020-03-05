@@ -14,7 +14,7 @@ ects: 6
 
 
 Βιβλιογραφία: 
-  - [““ΕΙΣΑΓΩΓΗ ΣΤΟΥΣ ΑΛΓΟΡΙΘΜΟΥΣ ΤΟΜΟΣ Ι”, CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-225-1, 2009"](https://service.eudoxus.gr/search/#a/id:59359780/0)
-  - ["“Αλγόριθμοι”, Rawlins Gregory J. E., Εκδόσεις Κριτική, ISBN 978-960-218-350-2, 2004"](https://service.eudoxus.gr/search/#a/id:11463/0)
+  - [“ΕΙΣΑΓΩΓΗ ΣΤΟΥΣ ΑΛΓΟΡΙΘΜΟΥΣ ΤΟΜΟΣ Ι", CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-225-1, 2009](https://service.eudoxus.gr/search/#a/id:59359780/0)
+  - [“Αλγόριθμοι", Rawlins Gregory J. E., Εκδόσεις Κριτική, ISBN 978-960-218-350-2, 2004](https://service.eudoxus.gr/search/#a/id:11463/0)
   
   
