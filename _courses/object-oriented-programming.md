@@ -14,7 +14,7 @@ ects: 6
 
 
 Βιβλιογραφία: 
-  - [““Java προγραμματισμός”, 10η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ ΣΙΑ ΕΕ, ISBN 978-960-512-6810, 2015"](https://service.eudoxus.gr/search/#a/id:50659320/0)
-  - ["“Java Eισαγωγή στη σύγχρονη τεχνολογία”, Greanier Todd, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-460-2, 2005"](https://service.eudoxus.gr/search/#a/id:12253/0)
+  - [“Java προγραμματισμός”, 10η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ ΣΙΑ ΕΕ, ISBN 978-960-512-6810, 2015](https://service.eudoxus.gr/search/#a/id:50659320/0)
+  - [“Java Eισαγωγή στη σύγχρονη τεχνολογία”, Greanier Todd, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-460-2, 2005](https://service.eudoxus.gr/search/#a/id:12253/0)
 
 
