@@ -238,6 +238,7 @@ compress_html:
     envs: development
 
 # Collections
+collections_dir: all_collections
 collections:
   people:
     output: true
