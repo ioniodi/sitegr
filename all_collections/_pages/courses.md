@@ -35,6 +35,10 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 7 l = 'courses' %}
 
+## Η ΕΞΑΜΗΝΟ
+
+{% include collection-sort.html i = 8 l = 'courses' %}
+
 # ΜΕΤΑΠΤΥΧΙΑΚΟ
 
 ## A ΕΞΑΜΗΝΟ
