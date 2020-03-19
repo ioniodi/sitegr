@@ -412,3 +412,16 @@ exarchos:
  tel: "+30 26610 87702"
  cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
 
+hristope:
+  name: "Eleni Christopoulou"
+  email: "hristope@ionio.gr"
+  uri: ""
+  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
+  avatar: "/assets/images/hristope.jpg"
+
+hristope-en:
+  name: "Ελένη Χριστοπούλου"
+  email: "hristope@ionio.gr"
+  uri: ""
+  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
+  avatar: "/assets/images/hristope.jpg"
