@@ -363,6 +363,7 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
+<<<<<<< HEAD
 
 riggas:
   name: "Δημήτριος Ρίγγας"
@@ -395,3 +396,22 @@ doukakis-en:
   bio: "Academic Scholar Department of Informatics"
   avatar: "/assets/images/nophoto.jpg"
   tel: ""
+=======
+ 
+exarchos-en:
+ name: "Τhemistoklis Εxarchos"
+ email: "themis.exarchos@ionio.gr"
+ bio: "Data Mining in healthcare decision support systems"
+ avatar: "/assets/images/exarchos.png"
+ tel: "+30 26610 87702"
+ cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
+
+exarchos:
+ name: "Θεμιστοκλής Έξαρχος"
+ email: "themis.exarchos@ionio.gr"
+ bio: "Μοντελοποίηση Δεδομένων και Συστήματα Υποστήριξης Αποφάσεων."
+ avatar: "/assets/images/exarchos.png"
+ tel: "+30 26610 87702"
+ cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
+
+>>>>>>> master
