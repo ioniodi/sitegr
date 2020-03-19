@@ -363,7 +363,6 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
-<<<<<<< HEAD
 
 riggas:
   name: "Δημήτριος Ρίγγας"
@@ -396,7 +395,6 @@ doukakis-en:
   bio: "Academic Scholar Department of Informatics"
   avatar: "/assets/images/nophoto.jpg"
   tel: ""
-=======
  
 exarchos-en:
  name: "Τhemistoklis Εxarchos"
@@ -414,4 +412,3 @@ exarchos:
  tel: "+30 26610 87702"
  cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
 
->>>>>>> master
