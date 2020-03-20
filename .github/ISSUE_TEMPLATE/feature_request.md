@@ -1,3 +1,12 @@
+---
+name: New issue
+about: Create a new issue to take up a task
+title: ''
+labels: 'pending'
+assignees: ''
+
+---
+
 ### Δήλωση Θέματος
 - Τίτλος επιλεγμένου θέματος
 - Σύντομη περιγραφή των επικείμενων αλλαγών
