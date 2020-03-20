@@ -1,20 +1,10 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+### Δήλωση Θέματος
+- Τίτλος επιλεγμένου θέματος
+- Σύντομη περιγραφή των επικείμενων αλλαγών
+- Δυσκολία Θέματος: Πολύ εύκολο, Εύκολο, Δύσκολο, Πολύ Δύσκολο
 
----
+### Απορίες σχετικά με το θέμα (αν υπάρχουν)
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Υπενθυμίσεις
+- [ ] Έχω ελέγξει ότι το περιέχομενο των αλλαγών μου δεν το έχει δηλώσει κάποιος άλλος
+- [ ] Πριν προχωρήσω σε pull request έχω πάρει το "πράσινο φως"
