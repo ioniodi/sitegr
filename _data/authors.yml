@@ -363,3 +363,65 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
+
+riggas:
+  name: "Δημήτριος Ρίγγας"
+  email: ""
+  uri: ""
+  bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής Ιονίου Πανεπιστημίου"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+
+riggas-en:
+  name: "Dimitrios Riggas"
+  email: ""
+  uri: ""
+  bio: "Academic Scholar Ionian University Department of Informatics"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+
+doukakis:
+  name: "Σπυρίδων Δουκάκης"
+  email: ""
+  uri: ""
+  bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+
+doukakis-en:
+  name: "Spiridon Doukakis"
+  email: ""
+  uri: ""
+  bio: "Academic Scholar Department of Informatics"
+  avatar: "/assets/images/nophoto.jpg"
+  tel: ""
+ 
+exarchos-en:
+ name: "Τhemistoklis Εxarchos"
+ email: "themis.exarchos@ionio.gr"
+ bio: "Data Mining in healthcare decision support systems"
+ avatar: "/assets/images/exarchos.png"
+ tel: "+30 26610 87702"
+ cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
+
+exarchos:
+ name: "Θεμιστοκλής Έξαρχος"
+ email: "themis.exarchos@ionio.gr"
+ bio: "Μοντελοποίηση Δεδομένων και Συστήματα Υποστήριξης Αποφάσεων."
+ avatar: "/assets/images/exarchos.png"
+ tel: "+30 26610 87702"
+ cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
+
+hristope:
+  name: "Eleni Christopoulou"
+  email: "hristope@ionio.gr"
+  uri: ""
+  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
+  avatar: "/assets/images/hristope.jpg"
+
+hristope-en:
+  name: "Ελένη Χριστοπούλου"
+  email: "hristope@ionio.gr"
+  uri: ""
+  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
+  avatar: "/assets/images/hristope.jpg"
