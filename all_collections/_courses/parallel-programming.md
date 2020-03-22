@@ -6,7 +6,7 @@ excerpt: "Δομικά στοιχεία ενός υπολογιστικού συ
 uri: "https://e-class.ionio.gr/courses/DCS246/"
 code: 
 semester: 8
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2E
 ects: 4

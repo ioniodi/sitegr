@@ -7,7 +7,7 @@ uri: "https://e-class.ionio.gr/courses/DCS132/"
 code: ΗΥ210
 code: 
 semester: 4
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 2Φ
 ects: 6

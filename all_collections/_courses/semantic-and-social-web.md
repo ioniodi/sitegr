@@ -6,7 +6,7 @@ excerpt: "Ιστορικά στοιχεία. Μοντέλα και δομές π
 uri: "https://opencourses.ionio.gr/courses/DDI129/"
 code: ΗΥ750
 semester: 8
-type: "Κατεύθυνση Α.Ε."
+type: "H"
 hours: 4
 extra: 2Ε
 ects: 5

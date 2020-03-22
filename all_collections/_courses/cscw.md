@@ -6,7 +6,7 @@ excerpt: "Συνεργατικός Υπολογισμός. Συστήματα CS
 uri: "http://e-class.ionio.gr/courses/DCS235/"
 code: ΗΥ665
 semester: 4
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 
 ects: 4
