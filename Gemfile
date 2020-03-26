@@ -14,6 +14,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "jekyll-leaflet"
 end
 
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
