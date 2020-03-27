@@ -6,7 +6,7 @@ excerpt: "Στρατηγικός Σχεδιασμός Πληροφορικής. 
 uri: "https://opencourses.ionio.gr/courses/DDI152/"
 code: ΗΥ355
 semester: 8
-type: "Κατεύθυνση Π.Σ."
+type: "I"
 hours: 4
 extra: 
 ects: 5

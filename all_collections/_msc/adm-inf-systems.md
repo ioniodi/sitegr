@@ -8,7 +8,7 @@ excerpt: "Α. Αξιοποίηση της πληροφορικής από του
 semester: 1
 uri: "https://e-class.ionio.gr/courses/DCS202/"
 code: DCS202
-type: "Υποχρεωτικό"
+type: "M"
 hours: 3
 extra:
 ects: 6

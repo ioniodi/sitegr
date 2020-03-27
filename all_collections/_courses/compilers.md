@@ -6,7 +6,7 @@ excerpt: "Εισαγωγή στη μεταγλώττιση των προγραμ
 uri: "https://opencourses.ionio.gr/courses/DDI154/"
 code: ΗΥ150
 semester: 6
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2E
 ects: 4

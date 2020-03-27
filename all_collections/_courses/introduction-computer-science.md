@@ -6,7 +6,7 @@ excerpt: "Η πληροφορική ως επιστήμη. Παρουσίαση 
 uri: "https://e-class.ionio.gr/courses/DCS116/"
 code: ΗΥ010
 semester: 1
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 
 ects: 6

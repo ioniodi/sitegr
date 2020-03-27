@@ -6,7 +6,7 @@ excerpt: "Διαδικαστικός και δηλωτικός προγραμμ�
 uri: "https://e-class.ionio.gr/courses/DCS246/"
 code: ΗΥ160
 semester: 7 
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2E
 ects: 4

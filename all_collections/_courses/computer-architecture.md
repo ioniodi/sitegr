@@ -6,7 +6,7 @@ excerpt: "Εισαγωγή στην αρχιτεκτονική υπολογισ�
 uri: "https://opencourses.ionio.gr/courses/DDI110/"
 code: ΗΥ500
 semester: 3
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 2E
 ects: 6

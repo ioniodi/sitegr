@@ -6,7 +6,7 @@ excerpt: "Εννοιολογικό πλαίσιο διοίκησης ασφάλ�
 uri: "https://opencourses.ionio.gr/courses/DDI126/"
 code: ΗΥ360
 semester: 8
-type: "Κατεύθυνση Π.Σ."
+type: "I"
 hours: 4
 extra:
 ects: 5
