@@ -6,7 +6,7 @@ excerpt: "Βασικά Σύνολα. Πραγματικοί Αριθμοί – �
 uri: "https://opencourses.ionio.gr/courses/DDI131/"
 code: ΜΘ100
 semester: 1
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 
 ects: 6

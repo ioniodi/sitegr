@@ -6,7 +6,7 @@ excerpt: "Μοντελοποίηση του μηχανισμού παραγωγ�
 uri: "https://e-class.ionio.gr/courses/DCS161/"
 code: ΗΥ730
 semester: 8
-type: "Κατεύθυνση Α.Ε."
+type: "H"
 hours: 4
 extra: 2Ε
 ects: 5

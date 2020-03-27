@@ -6,7 +6,7 @@ excerpt: "Η έννοια του αλγορίθμου και της πολυπλ
 uri: "https://e-class.ionio.gr/courses/DCS237/"
 code: ΗΥ020
 semester: 4
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 2Ε
 ects: 6

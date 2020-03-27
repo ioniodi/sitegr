@@ -6,7 +6,7 @@ excerpt: "Εισαγωγικά θέματα. Ζητήματα ασφάλειας
 uri: "https://opencourses.ionio.gr/courses/DDI135/"
 code: DDI135
 semester: 6
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2Ε
 ects: 4
