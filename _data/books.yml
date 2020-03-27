@@ -1,0 +1,119 @@
+# Semester-code of cours-number of book
+
+1-MU110-1:
+ name: "ΜΙΑ ΕΙΣΑΓΩΓΗ ΣΤΗ ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ ΤΟΜΟΣ Ι"
+ authors: "ΒΑΡΣΟΣ, ΔΕΡΙΖΙΩΤΗΣ, ΕΜΜΑΝΟΥΗΛ, ΜΑΛΙΑΚΑΣ, ΜΕΛΑΣ, ΤΑΛΕΛΛΗ"
+ publisher: "σοφία"
+ ISBN : "978-960-6706-09-7"
+ year : "2008"
+ url : "https://service.eudoxus.gr/search/#a/id:3046/0"
+ version : "1η έκδοση"
+
+
+1-MU110-2:
+ name: "ΜΙΑ ΕΙΣΑΓΩΓΗ ΣΤΗ ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ"
+ authors: "ΒΑΡΣΟΣ ΔΗΜΗΤΡΗΣ, ΔΕΡΙΖΙΩΤΗΣ ΔΗΜΗΤΡΗΣ, ΕΜΜΑΝΟΥΗΛ ΓΙΑΝΝΗΣ, ΜΑΛΙΑΚΑΣ ΜΗΧΑΛΗΣ, ΜΕΛΑΣ ΑΝΤΩΝΗΣ, ΤΑΛΕΛΛΗ ΟΛΥΜΠΙΑ"
+ publisher: "σοφία"
+ ISBN : "978-960-6706-36-3"
+ year : "2012"
+ url : "https://service.eudoxus.gr/search/#a/id:22768417/0"
+ version : "1η έκδοση"
+
+
+1-HY010-1:
+ name: "Εισαγωγή στη σύγχρονη επιστήμη των υπολογιστών"
+ authors: "Lister Andrew M."
+ publisher: "Δίαυλος"
+ ISBN : "978-960-7140-65-4"
+ year : "2000"
+ url : "https://service.eudoxus.gr/search/#a/id:12171/0"
+ version : "5η έκδοση"
+
+
+1-HY010-2:
+ name: "ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΕΠΙΣΤΗΜΗ ΤΩΝ ΥΠΟΛΟΓΙΣΤΩΝ"
+ authors: "BEHROUZ FOROUZAN"
+ publisher: "ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ"
+ ISBN : "978-960-461-660-2"
+ year : "2015"
+ url : "https://service.eudoxus.gr/search/#a/id:50656335/0"
+ version : "3η έκδοση"
+
+
+1-HY100-1:
+ name: "C Προγραμματισμός"
+ authors: "Abbey Deitel,Harvey Deitel"
+ publisher: "Μ. Γκιούρδας"
+ ISBN : "978-960-512-6414"
+ year : "2014"
+ url : "https://service.eudoxus.gr/search/#a/id:41960258/0"
+ version : "7η έκδοση"
+
+
+1-HY100-2:
+ name: "C Προγραμματισμός"
+ authors: "Γ. Σ. Τσελίκης, Ν. Δ. Τσελίκας"
+ publisher: "Γ. Σ. Τσελίκης, Ν. Δ. Τσελίκας"
+ ISBN : "978-960-512-6414"
+ year : "2016"
+ url : "https://service.eudoxus.gr/search/#a/id:59375636/0"
+ version : "3η έκδοση"
+
+
+1-MU100-1:
+ name: "Απειροστικός λογισμός, Τόμος Ι"
+ authors: "Παναγιωτόπουλος Αντώνιος Χ., Σαπουνάκης Αριστείδης"
+ publisher: "Γ. Σ. Τσελίκης, Ν. Δ. Τσελίκας"
+ ISBN : "-"
+ year : "1989"
+ url : "https://service.eudoxus.gr/search/#a/id:23070/0"
+ version : "1η έκδοση"
+
+
+1-MU100-2:
+ name: "Απειροστικός λογισμός, Τόμος ΙΙ"
+ authors: "Παναγιωτόπουλος Αντώνιος Χ., Σαπουνάκης Αριστείδης"
+ publisher: "Γ. Σ. Τσελίκης, Ν. Δ. Τσελίκας"
+ ISBN : "-"
+ year : "1990"
+ url : "https://service.eudoxus.gr/search/#a/id:23071/0"
+ version : "1η έκδοση"
+
+
+1-MU100-3:
+ name: "ΑΠΕΙΡΟΣΤΙΚΟΣ ΛΟΓΙΣΜΟΣ ΤΟΜΟΣ Ι"
+ authors: "FINNEY R.L., WEIR M.D., GIORDANO F.R."
+ publisher: "ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ"
+ ISBN : "978-960-524-183-4"
+ year : "2009"
+ url : "https://service.eudoxus.gr/search/#a/id:25/0"
+ version : "1η έκδοση"
+
+
+1-MU100-4:
+ name: "ΑΠΕΙΡΟΣΤΙΚΟΣ ΛΟΓΙΣΜΟΣ ΤΟΜΟΣ ΙΙ"
+ authors: "FINNEY R.L., WEIR M.D., GIORDANO F.R."
+ publisher: "ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ"
+ ISBN : "978-960-524-184-1"
+ year : "2009"
+ url : "https://service.eudoxus.gr/search/#a/id:184/0"
+ version : "1η έκδοση"
+
+
+1-DCS271-1:
+ name: "ΤΕΧΝΟΛΟΓΙΕΣ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΑΣ & ΚΟΙΝΩΝΙΑ"
+ authors: "Ιωάννης Σ. Κουμπούρος"
+ publisher: "Εκδόσεις Νέων Τεχνολογιών"
+ ISBN : "978-960-6759-73-4"
+ year : "2011"
+ url : "https://service.eudoxus.gr/search/#a/id:12996509/0"
+ version : "1η έκδοση"
+
+1-DCS271-2:
+ name: "Υπηρεσίες προστιθέμενης αξίας στο διαδίκτυο"
+ authors: " Μήλιου Αμαλία Ν.,Πομπόρτσης Ανδρέας Σ."
+ publisher: "Εκδόσεις Νέων Τεχνολογιών"
+ ISBN : "960-418-021-9"
+ year : "2004"
+ url : "https://service.eudoxus.gr/search/#a/id:18548907/0"
+ version : "1η έκδοση"
