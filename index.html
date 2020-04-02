@@ -5,14 +5,14 @@ title: "Ιόνιο Πανεπιστήμιο"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash1.jpg
-  cta_label: "<i class='fa fa-download'></i> Οδηγός Σπουδών 2019-2020"
-  cta_url: "http://di.ionio.gr/wp-content/uploads/2019/10/DI-PROSPECTUS-2019-2020.pdf"
+  cta_label: "<i class='fa fa-download'></i> Οδηγός Σπουδών 2016-2017"
+  cta_url: "http://di.ionio.gr/wp-content/uploads/2016/09/OS_2016-2017-final.pdf"
   caption:
 excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/humanistic">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/systems">Πληροφοριακών Συστημάτων </a></small><br /><br />'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "news"
-    title: "Ανακοινώσεις"
+    title: 
     excerpt: "Ενημερωθείτε για τα τελευταία νέα του τμήματος Πληροφορικής."
     url: "/posts/"
     btn_label: "Learn More"
@@ -35,6 +35,26 @@ intro:
 ---
 
 
+
+
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+<div class="feature__wrapper">
+
+  {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+
+  {% include dynamic.html id="posts" category="Posts" index=random %}
+
+  {% assign random = site.time | date: "%s%N" | modulo: site.projects.size %}
+
+  {% include dynamic.html id="projects" category="Projects" index=random %}
+
+  {% assign random = site.time | date: "%s%N" | modulo: site.groups.size %}
+
+  {% include dynamic.html id="groups" category="Groups" index=random %}
+
+
+<div>
+
+
+
