@@ -13,7 +13,7 @@ excerpt: "Εισαγωγή στη Δικτυωτή Ανάλυση (Έργο, δ�
 "
 uri: "https://e-class.ionio.gr/courses/NOC141/"
 code: ΔΟ500
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 
 ects: 4

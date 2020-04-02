@@ -6,7 +6,7 @@ excerpt: "Ιστορία και εξέλιξη του ψυχαγωγικού λ�
 uri: "https://opencourses.ionio.gr/courses/DDI107/"
 code: ΗΥ700
 semester: 7
-type: "Κατεύθυνση Α.Ε."
+type: "H"
 hours: 4
 extra: 2Ε
 ects: 5

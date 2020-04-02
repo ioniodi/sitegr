@@ -7,40 +7,126 @@ title: "Μαθήματα"
 
 # ΠΡΟΠΤΥΧΙΑΚΟ
 
-## A ΕΞΑΜΗΝΟ
+## <b>A' ΕΞΑΜΗΝΟ</b>
 
-{% include collection-sort.html i = 1 l = 'courses' %}
+## Υποχρεωτικά Μαθήματα
 
-## Β ΕΞΑΜΗΝΟ
+{% include collection-sort.html i = 1 l = 'courses' c_type = "M" %}
 
-{% include collection-sort.html i = 2 l = 'courses' %}
 
-## Γ ΕΞΑΜΗΝΟ
+## <b>Β' ΕΞΑΜΗΝΟ</b>
 
-{% include collection-sort.html i = 3 l = 'courses' %}
+## Υποχρεωτικά Μαθήματα
 
-## Δ ΕΞΑΜΗΝΟ
+{% include collection-sort.html i = 2 l = 'courses' c_type = "M" %}
 
-{% include collection-sort.html i = 4 l = 'courses' %}
+## Μαθήματα Επιλογής
 
-## Ε ΕΞΑΜΗΝΟ
+{% include collection-sort.html i = 2 l = 'courses' c_type = "Ο" %}
 
-{% include collection-sort.html i = 5 l = 'courses' %}
+## <b>Γ' ΕΞΑΜΗΝΟ</b>
 
-## ΣΤ ΕΞΑΜΗΝΟ
+## Υποχρεωτικά Μαθήματα
 
-{% include collection-sort.html i = 6 l = 'courses' %}
+{% include collection-sort.html i = 3 l = 'courses' c_type = "M" %}
 
-## Ζ ΕΞΑΜΗΝΟ
+## Μαθήματα Επιλογής
 
-{% include collection-sort.html i = 7 l = 'courses' %}
+{% include collection-sort.html i = 3 l = 'courses' c_type = "Ο" %}
+
+## <b>Δ' ΕΞΑΜΗΝΟ</b>
+
+## Υποχρεωτικά Μαθήματα
+
+{% include collection-sort.html i = 4 l = 'courses' c_type = "M" %}
+
+## Μαθήματα Επιλογής
+
+{% include collection-sort.html i = 4 l = 'courses' c_type = "Ο" %}
+
+## <b>Ε' ΕΞΑΜΗΝΟ</b>
+
+## Υποχρεωτικά Μαθήματα
+
+{% include collection-sort.html i = 5 l = 'courses' c_type = "M" %}
+
+## Μαθήματα Κατεύθυνσης Π.Σ.
+
+{% include collection-sort.html i = 5 l = 'courses' c_type = "I" %}
+
+## Μαθήματα Κατεύθυνσης Α.Ε.
+
+{% include collection-sort.html i = 5 l = 'courses' c_type = "H" %}
+
+## Μαθήματα Επιλογής
+
+{% include collection-sort.html i = 5 l = 'courses' c_type = "Ο" %}
+
+## <b>ΣΤ' ΕΞΑΜΗΝΟ</b>
+
+## Υποχρεωτικά Μαθήματα
+
+{% include collection-sort.html i = 6 l = 'courses' c_type = "M" %}
+
+## Μαθήματα Κατεύθυνσης Π.Σ.
+
+{% include collection-sort.html i = 6 l = 'courses' c_type = "I" %}
+
+## Μαθήματα Κατεύθυνσης Α.Ε.
+
+{% include collection-sort.html i = 6 l = 'courses' c_type = "H" %}
+
+## Μαθήματα Επιλογής
+
+{% include collection-sort.html i = 6 l = 'courses' c_type = "Ο" %}
+
+## <b>Ζ' ΕΞΑΜΗΝΟ</b>
+
+## Υποχρεωτικά Μαθήματα
+
+{% include collection-sort.html i = 7 l = 'courses' c_type = "M" %}
+
+## Μαθήματα Κατεύθυνσης Π.Σ.
+
+{% include collection-sort.html i = 7 l = 'courses' c_type = "I" %}
+
+## Μαθήματα Κατεύθυνσης Α.Ε.
+
+{% include collection-sort.html i = 7 l = 'courses' c_type = "H" %}
+
+## Μαθήματα Επιλογής
+
+{% include collection-sort.html i = 7 l = 'courses' c_type = "Ο" %}
+
+## <b>Η' ΕΞΑΜΗΝΟ</b>
+
+## Υποχρεωτικά Μαθήματα
+
+{% include collection-sort.html i = 8 l = 'courses' c_type = "M" %}
+
+## Μαθήματα Κατεύθυνσης Π.Σ.
+
+{% include collection-sort.html i = 8 l = 'courses' c_type = "I" %}
+
+## Μαθήματα Κατεύθυνσης Α.Ε.
+
+{% include collection-sort.html i = 8 l = 'courses' c_type = "H" %}
+
+## Μαθήματα Επιλογής
+
+{% include collection-sort.html i = 8 l = 'courses' c_type = "Ο" %}
 
 # ΜΕΤΑΠΤΥΧΙΑΚΟ
 
-## A ΕΞΑΜΗΝΟ
+## <b>A' ΕΞΑΜΗΝΟ</b>
 
-{% include collection-sort.html i = 1 l = 'msc' %}
+## Μαθήματα Επιλογής
 
-## Β ΕΞΑΜΗΝΟ
+{% include collection-sort.html i = 1 l = 'msc' c_type = "Ο" %}
 
-{% include collection-sort.html i = 2 l = 'msc' %}
+## <b>Β' ΕΞΑΜΗΝΟ</b>
+
+## Μαθήματα Επιλογής
+
+{% include collection-sort.html i = 2 l = 'msc' c_type = "Ο" %}
+
