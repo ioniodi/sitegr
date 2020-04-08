@@ -6,7 +6,7 @@ excerpt: "Tεχνολογία των έξυπνων περιβαλλόντων. 
 uri: "https://e-class.ionio.gr/courses/DCS287/"
 code: 
 semester: 8
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2Ε
 ects: 4

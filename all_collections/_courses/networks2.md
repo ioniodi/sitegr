@@ -6,7 +6,7 @@ excerpt: "Σχεδιασμός και ανάπτυξη δικτύων υψηλώ
 uri: "https://e-class.ionio.gr/courses/DCS166/"
 code: ΗΥ221
 semester: 5
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 2Ε
 ects: 6

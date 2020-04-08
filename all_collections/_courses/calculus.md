@@ -6,16 +6,10 @@ excerpt: "Βασικά Σύνολα. Πραγματικοί Αριθμοί – �
 uri: "https://opencourses.ionio.gr/courses/DDI131/"
 code: ΜΘ100
 semester: 1
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 
 ects: 6
+books: [1-MU100-1, 1-MU100-2, 1-MU100-3, 1-MU100-4]
 ---
 
-
-Βιβλιογραφία: 
-  - ["Απειροστικός λογισμός", Παναγιωτόπουλος Αντώνιος Χ., Σαπουνάκης Αριστείδης, Εκδόσεις Σταμούλη, 1989](https://service.eudoxus.gr/search/#a/id:23070/0)
-  - ["Απειροστικός λογισμός", Παναγιωτόπουλος Αντώνιος Χ., Σαπουνάκης Αριστείδης, Εκδόσεις Σταμούλη, 1990](https://service.eudoxus.gr/search/#a/id:23071/0)
-  - ["Απειροστικός λογισμός Τόμος Ι", Finney R.L., Weir M.D., Giordano F.R., Εκδόσεις ITE-Πανεπιστημιακες Εκδοσεις Κρητης, ISBN 978-960-524-183-4, 2009](https://service.eudoxus.gr/search/#a/id:25/0)
-  - ["Απειροστικός λογισμός Τόμος ΙI", Finney R.L., Weir M.D., Giordano F.R., Εκδόσεις ITE-Πανεπιστημιακες Εκδοσεις Κρητης, ISBN 978-960-524-184-1, 2009](https://service.eudoxus.gr/search/#a/id:184/0)
-  

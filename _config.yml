@@ -333,7 +333,7 @@ defaults:
       type: projects
     values:
       sidebar: false
-      layout: single
+      layout: projects
       author_profile: true
       read_time: false
       comments: # true

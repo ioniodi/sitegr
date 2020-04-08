@@ -6,15 +6,12 @@ excerpt: "Η πληροφορική ως επιστήμη. Παρουσίαση 
 uri: "https://e-class.ionio.gr/courses/DCS116/"
 code: ΗΥ010
 semester: 1
-type: "Υποχρεωτικό"
+type: "M"
 hours: 4
 extra: 
 ects: 6
+books: [1-HY010-1,1-HY010-2]
 ---
 
-
-Βιβλιογραφία: 
-  - ["Εισαγωγή στη σύγχρονη επιστήμη των υπολογιστών", Lister Andrew M., Εκδόσεις Δίαυλος, ISBN 978-960-7140-65-4, 2000](https://service.eudoxus.gr/search/#a/id:12171/0)
-  - ["Εισαγωγή στην επιστήμη των Υπολογιστών", Behrouz Forouzan, Firouz Mosharraf, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-366-3, 2010](https://service.eudoxus.gr/search/#a/id:50656335/0)
 
 

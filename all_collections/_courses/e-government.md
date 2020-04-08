@@ -6,7 +6,7 @@ excerpt: "Εισαγωγή στην Ηλεκτρονική Διακυβέρνη�
 uri: "https://opencourses.ionio.gr/courses/DDI136/"
 code: ΔΟ600
 semester: 8
-type: "Επιλογής"
+type: "Ο"
 hours: 4
 extra: 2Ε
 ects: 4
