@@ -14,6 +14,7 @@ permalink: "/communication"
 ## <i class="far fa-envelope" style="color: orange; font-size: x-large;"></i> Ηλεκτρονική Διεύθυνση e-mail
 #### cs@ionio.gr
 
+## <i class="far fa-map" style="color: orange; font-size: x-large;"></i> Ο Χάρτης της Πόλης
 
 {% leaflet_map {"center": [39.620693, 19.914733],
                 "zoom" : 14,
