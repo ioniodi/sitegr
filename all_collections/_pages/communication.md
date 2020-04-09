@@ -34,15 +34,15 @@ permalink: "/communication"
 %}
 {% leaflet_marker { "latitude": 39.620857,
                     "longitude": 19.915050,
-                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτήριο Γαληνός"}
+                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτίριο Γαληνός"}
 %}
 {% leaflet_marker { "latitude": 39.620833,
                     "longitude": 19.914585,
-                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτήριο Γραμματειών"}
+                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτίριο Γραμματειών"}
 %}
 {% leaflet_marker { "latitude": 39.620603,
                     "longitude": 19.914945,
-                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτήριο Αρεταίος"}
+                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτίριο Αρεταίος"}
 %}
 {% leaflet_marker { "latitude": 39.620679,
                     "longitude": 19.915451,
