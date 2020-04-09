@@ -20,10 +20,6 @@ permalink: "/communication"
                 "zoom" : 14,
                 "providerBasemap": "OpenStreetMap.Mapnik" }
 %}
-{% leaflet_marker { "latitude": 39.620693,
-                    "longitude": 19.914733,
-                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής"}
-%}
 {% leaflet_marker { "latitude": 39.621100,
                     "longitude": 19.923863,
                     "popupContent" : "Ιόνιος Ακαδημία, NOC"}
@@ -38,7 +34,7 @@ permalink: "/communication"
 %}
 {% leaflet_marker { "latitude": 39.620857,
                     "longitude": 19.915050,
-                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτήριο Αρεταίος"}
+                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτήριο Γαληνός"}
 %}
 {% leaflet_marker { "latitude": 39.620833,
                     "longitude": 19.914585,
