@@ -1,0 +1,81 @@
+categories:
+  - name: Προσωπικό
+    url: /people/
+    base_url: /people/
+    links:
+      - name: Πρύτανης Ιονίου Πανεπιστημίου 
+        url: "vchris/"
+        external: false
+      - name: Πρόεδρος του Τμήματος Πληροφορικής
+        url: "vlamos/"
+        external: false
+      - name: Κοσμήτορας της Σχολής Ε. Π. Π.
+        url: "okon/"
+        external: false
+  - name: Μαθήματα Προπτυχιακό (Π)
+    url: /courses/#προπτυχιακο
+    base_url: /courses/
+    links:
+      - name: Α' Εξάμηνο (Π)
+        url: "#a-εξαμηνο"
+        external: false
+      - name: Β' Εξάμηνο (Π)
+        url: "#β-εξαμηνο"
+        external: false
+      - name: Γ' Εξάμηνο (Π)
+        url: "#γ-εξαμηνο"
+        external: false
+      - name: Δ' Εξάμηνο (Π)
+        url: "#δ-εξαμηνο"
+        external: false
+      - name: Ε' Εξάμηνο (Π)
+        url: "#ε-εξαμηνο"
+        external: false
+      - name: ΣΤ' Εξάμηνο (Π)
+        url: "#στ-εξαμηνο"
+        external: false
+      - name: Ζ' Εξάμηνο (Π)
+        url: "#ζ-εξαμηνο"
+        external: false
+      - name: Η' Εξάμηνο (Π)
+        url: "#η-εξαμηνο"
+        external: false
+  - name: Εργαστήρια
+    url: /groups/
+    base_url: /groups/
+    links:
+      - name: BIHELab
+        url: http://bihelab.di.ionio.gr/
+        external: true
+      - name: CMODLab
+        url: http://cmodlab.di.ionio.gr
+        external: true
+      - name: HILab
+        url: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
+        external: true
+      - name: ISDLab
+        url: http://isdlab.di.ionio.gr
+        external: true
+      - name: NMSLab
+        url: http://nmslab.di.ionio.gr
+        external: true
+      - name: QUITLab
+        url: http://quit.di.ionio.gr
+        external: true
+  - name: Χρησιμοί Σύνδεσμοι
+    base_url:
+    links:
+      - name: Ionio Open eClass
+        url: https://opencourses.ionio.gr/
+        external: true
+      - name: WebMail
+        url: https://webmail.ionio.gr/
+        external: true
+      - name: Gram-Web
+        url: http://gram-web.ionio.gr/unistudent/login.asp
+        external: true
+      - name: Dreamspark 
+        url: https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=1e1f8b5d-849b-e011-969d-0030487d8897&vsro=8&JSEnabled=1
+        external: true
+      - name: Eudoxus
+        url: https://service.eudoxus.gr/
