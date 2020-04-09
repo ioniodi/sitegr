@@ -3,11 +3,14 @@ categories:
     url: /people/
     base_url: /people/
     links:
-      - name: Βασίλειος Χρυσικόπουλος
+      - name: Πρύτανης Ιονίου Πανεπιστημίου 
         url: "vchris/"
         external: false
-      - name: Παναγιώτης Βλάμος
+      - name: Πρόεδρος του Τμήματος Πληροφορικής
         url: "vlamos/"
+        external: false
+      - name: Κοσμήτορας της Σχολής Ε. Π. Π.
+        url: "okon/"
         external: false
   - name: Μαθήματα Προπτυχιακό (Π)
     url: /courses/#προπτυχιακο
