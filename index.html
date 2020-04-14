@@ -10,23 +10,11 @@ header:
   caption:
 excerpt: 'Η δράση του Τμήματος Πληροφορικής είναι προσανατολισμένη σε καινοτόμες εφαρμογές στις κατευθύνσεις των:<br /> <small><a href="/humanistic">Ανθρωπιστικών-Κοινωνικών Επιστημών </a></small><br /> <small><a href="/systems">Πληροφοριακών Συστημάτων </a></small><br /><br />'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "news"
-    title: "Ανακοινώσεις"
-    excerpt: "Ενημερωθείτε για τα τελευταία νέα του τμήματος Πληροφορικής."
-    url: "/posts/"
+  - url: "/posts/"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "projects"
-    title: "Ερευνητικά Προγράμματα"
-    excerpt: "Δείτε όλα τα ερευνητικά προγράμματα του τμήματος Πληροφορικής."
-    url: "/projects/"
+  - url: "/projects/"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "labs"
-    title: "Εργαστήρια"
-    excerpt: "Τα εργαστήρια του τμήματος παρέχουν έρευνα και διδασκαλία στην περιοχή της Πληροφορικής"
-    url: "/groups/"
+  - url: "/groups/"
     btn_label: "Learn More"
 github:
   - excerpt: ''
@@ -35,6 +23,28 @@ intro:
 ---
 
 
+
+
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+<div class="feature__wrapper">
+
+  {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+
+  {% include dynamic.html id="posts" category="Posts" index=random %}
+
+  {% assign random = site.time | date: "%s%N" | modulo: site.projects.size %}
+
+  {% include dynamic.html id="projects" category="Projects" index=random %}
+
+  {% assign random = site.time | date: "%s%N" | modulo: site.groups.size %}
+
+  {% include dynamic.html id="groups" category="Groups" index=random %}
+
+  {% include feature_row %}
+
+
+<div>
+
+
+
