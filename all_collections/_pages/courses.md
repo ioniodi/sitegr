@@ -120,13 +120,13 @@ title: "Μαθήματα"
 
 ## <b>A' ΕΞΑΜΗΝΟ</b>
 
-## Υποχρεωτικά Μαθήματα
+## Μαθήματα Επιλογής
 
-{% include collection-sort.html i = 1 l = 'msc' c_type = "M" %}
+{% include collection-sort.html i = 1 l = 'msc' c_type = "Ο" %}
 
 ## <b>Β' ΕΞΑΜΗΝΟ</b>
 
-## Υποχρεωτικά Μαθήματα
+## Μαθήματα Επιλογής
 
-{% include collection-sort.html i = 2 l = 'msc' c_type = "M" %}
+{% include collection-sort.html i = 2 l = 'msc' c_type = "Ο" %}
 
