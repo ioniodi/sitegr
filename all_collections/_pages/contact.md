@@ -1,7 +1,7 @@
 ---
 ref: contact
 title: "Γραμματεία Τμήματος Πληροφορικής"
-permalink: "/contact"
+permalink: "/contact/"
 ---
 
 
