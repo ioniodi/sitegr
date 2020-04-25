@@ -46,12 +46,23 @@ excerpt: "<br>***Η Σελίδα δεν Βρέθηκε***<br>Δεν μπορέσ
   {%- endfor -%}]
   
 	var searched = String(window.location.pathname).replace('/','').toLowerCase();
-
+  var toShow_arr = [];
+  var toShow_num = 5;
 	for(var i=0;i<store.length;i++){
   		if (store[i].url.includes(searched) || store[i].excerpt.toLowerCase().includes(searched) || store[i].title.toLowerCase().includes(searched)){
-  			var newElement = '<a href="' + String(store[i].url) + '">' + store[i].title + '<\/a><p>' + store[i].excerpt + '<\/p>';
-  			document.getElementById('res').innerHTML += newElement;
+  			toShow_arr.append(store[i]);
   		}
-
   	}
+    if(toShow_arr.length<5){
+      for(var i=0;i<toShow_arr.length;i++){
+        var newElement = '<a href="' + String(toShow_arr[i].url) + '">' + toShow_arr[i].title + '<\/a><p>' + toShow_arr[i].excerpt + '<\/p>';
+        document.getElementById('res').innerHTML += newElement;
+      }
+    } else {
+      for(var i=0;i<toShow_num;i++){
+        var newElement = '<a href="' + String(toShow_arr[i].url) + '">' + toShow_arr[i].title + '<\/a><p>' + toShow_arr[i].excerpt + '<\/p>';
+        document.getElementById('res').innerHTML += newElement;
+      }
+    }
+    
 </script>
