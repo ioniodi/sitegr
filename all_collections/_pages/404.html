@@ -50,7 +50,7 @@ excerpt: "<br>***Η Σελίδα δεν Βρέθηκε***<br>Δεν μπορέσ
   var toShow_num = 5;
 	for(var i=0;i<store.length;i++){
   		if (store[i].url.includes(searched) || store[i].excerpt.toLowerCase().includes(searched) || store[i].title.toLowerCase().includes(searched)){
-  			toShow_arr.append(store[i]);
+  			toShow_arr.push(store[i]);
   		}
   	}
     if(toShow_arr.length<5){
