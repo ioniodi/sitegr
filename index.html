@@ -14,20 +14,12 @@ feature_row:
     btn_label: "Learn More"
   - url: "/projects/"
     btn_label: "Learn More"
-  - url: "/groups/"
-    btn_label: "Learn More"
 github:
   - excerpt: ''
 intro:
   - excerpt: ''
 ---
 
-
-
-
-{% include feature_row id="intro" type="center" %}
-
-<div class="feature__wrapper">
 
   {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
 
@@ -37,14 +29,6 @@ intro:
 
   {% include dynamic.html id="projects" category="Projects" index=random %}
 
-  {% assign random = site.time | date: "%s%N" | modulo: site.groups.size %}
-
-  {% include dynamic.html id="groups" category="Groups" index=random %}
+  {% include twitter-module.html %}
 
   {% include feature_row %}
-
-
-<div>
-
-
-
