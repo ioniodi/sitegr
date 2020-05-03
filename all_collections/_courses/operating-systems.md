@@ -10,11 +10,8 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+books:
+  - isbn_978_960_418_481_1
+  - isbn_978_960_461_084_6
 ---
-
-
-Βιβλιογραφία: 
-  - [““Λειτουργικά Συστήματα Αρχές Σχεδίασης”, William Stallings, 8η Έκδοση, Εκδόσεις Τζιόλα"](https://service.eudoxus.gr/search/#a/id:41959458/0)
-  - ["“ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΣΕ UNIX”,MARC J. ROCHKIND, ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ"](https://service.eudoxus.gr/search/#a/id:13863/0)
-  
 

@@ -10,11 +10,8 @@ type: "H"
 hours: 4
 extra: 2Ε
 ects: 5
+books:
+  - isbn_978_960_418_188_9
+  - isbn_9789604891535
 ---
 
-
-Βιβλιογραφία: 
-  - ["Ψηφιακή επεξεργασία σήματος, Antoniou A."](https://service.eudoxus.gr/search/#a/id:18549117/0)
-  - ["Ψηφιακή Επεξεργασία Φωνής: Θεωρία και Εφαρμογές, Rabiner L."](https://service.eudoxus.gr/search/#a/id:13256964/0)
-  
-  
