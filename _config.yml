@@ -191,6 +191,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-leaflet
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -228,6 +230,12 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
+scholar:
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  details_permalink: /:details_dir/:key:extension
 
 
 # HTML Compression

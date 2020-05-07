@@ -10,9 +10,8 @@ hours: 4
 extra: 2Ε
 ects: 4
 uri: "https://opencourses.ionio.gr/courses/DDI180/"
+books:
+  - isbn_960_209_924_0
+  - isbn_978_960_461_463_9
 ---
 
-
-Βιβλιογραφία: 
-  - ["“ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ: ΑΡΧΕΣ ΚΑΙ ΥΠΟΔΕΙΓΜΑΤΑ”, ANDREW S. TANENBAUM, MAARTEN VAN STEEN" ](https://service.eudoxus.gr/search/#a/id:13777/0)
-  - ["“ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ ΜΕ JAVA”, Ι. Κ. ΚΑΒΟΥΡΑΣ, Ι. Ζ. ΜΗΛΗΣ, Α. Α. ΡΟΥΚΟΥΝΑΚΗ, Γ. Β. ΞΥΛΩΜΕΝΟΣ"](https://service.eudoxus.gr/search/#a/id:12533080/0)

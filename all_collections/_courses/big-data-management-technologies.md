@@ -10,9 +10,8 @@ type: "Ο"
 hours: 4
 extra: 
 ects: 4
+books:
+  - isbn_978_960_6759_83_3
+  - isbn_978_960_524_313_5
 ---
 
-
-Βιβλιογραφία: 
-  - ["Εξόρυξη από Μεγάλα Σύνολα Δεδομένων, Anand Rajaraman, Jeffrey David Ullman"](https://service.eudoxus.gr/search/#a/id:22768468/0)
-  - ["Η ΜΕΘΟΔΟΣ PAGERANK ΤΗΣ GOOGLE ΚΑΙ ΑΛΛΑ ΣΥΣΤΗΜΑΤΑ ΚΑΤΑΤΑΞΗΣ ΙΣΤΟΣΕΛΙΔΩΝ, LANGVILLE AMY, MEYER CARL"](https://service.eudoxus.gr/search/#a/id:7753/0)

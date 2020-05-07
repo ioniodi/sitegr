@@ -17,10 +17,8 @@ type: "Ο"
 hours: 4
 extra: 
 ects: 4
+books:
+  - isbn_960_351_235_4
+  - isbn_978_960_218_289_5
 ---
 
-
-Βιβλιογραφία: 
-  - ["Διαχείριση έργων πληροφορικής, Κιουντούζης Ευάγγελος Α."](https://service.eudoxus.gr/search/#a/id:22698/0)
-  - ["Διαχείριση έργου - project management, Burke Rory"](https://service.eudoxus.gr/search/#a/id:11499/0)
-  

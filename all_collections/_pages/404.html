@@ -1,28 +1,42 @@
 ---
-layout: splash
-title: "ERROR 404"
+layout: single
+title: "Η Σελίδα Δεν Βρέθηκε"
 sitemap: false
 permalink: /404.html
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/corfu-old-town-xlarge.jpg
-  caption: "Photo credit: [**Telegrath**](http://www.telegraph.co.uk/travel/destinations/europe/greece/corfu/articles/corfu-attractions/)"
-excerpt: "<br>***Η Σελίδα δεν Βρέθηκε***<br>Δεν μπορέσαμε να βρούμε τη σελίδα που ψάχνετε, προσπαθήστε να την αναζητήσετε παρακάτω:"
 ---
 
-<center>
+Δεν μπορέσαμε να βρούμε τη σελίδα που ψάχνετε, προσπαθήστε να την αναζητήσετε παρακάτω:  
+<hr>
+<div id="res"></div>
 
-<a href="https://ioniodi.github.io/site-bilingual/en/home/" target="_blank">Department of Informatics, Ionian University</a>
 
+
+<script type="text/javascript" src="/assets/js/lunr/lunr-store.js"></script>
 <script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'gr';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+	var searched = String(window.location.pathname).replace('/','').toLowerCase();
 
-</center>
+  var toShow_arr = [];
+  
+  var toShow_num = 5;
+	
+  for(var i=0;i<store.length;i++){
+  		if (store[i].url.includes(searched) || store[i].excerpt.toLowerCase().includes(searched) || store[i].title.toLowerCase().includes(searched)){
+  			toShow_arr.push(store[i]);
+  		}
+  	}
 
-{% include feature_row id="intro" type="center" %}
+    if(toShow_arr.length<1){
+      document.getElementById('res').innerHTML += "<input type='text' id='search' class='search-input' tabindex='-1' placeholder='{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}' /><div id='results' class='results'></div>";
+    }
+    else if(toShow_arr.length<5){
+      for(var i=0;i<toShow_arr.length;i++){
+        var newElement = '<a href="' + String(toShow_arr[i].url) + '">' + toShow_arr[i].title + '<\/a><p>' + toShow_arr[i].excerpt + '<\/p>';
+        document.getElementById('res').innerHTML += newElement;
+      }
+    } else {
+      for(var i=0;i<toShow_num;i++){
+        var newElement = '<a href="' + String(toShow_arr[i].url) + '">' + toShow_arr[i].title + '<\/a><p>' + toShow_arr[i].excerpt + '<\/p>';
+        document.getElementById('res').innerHTML += newElement;
+      }
+    }
+</script>

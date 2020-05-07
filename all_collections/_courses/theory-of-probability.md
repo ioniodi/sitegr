@@ -10,12 +10,8 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+books:
+  - isbn_978_960_524_156_8
+  - isbn_978_960_418_127_8
 ---
-
-
-Βιβλιογραφία: 
-  - [“ΕΙΣΑΓΩΓΗ ΣΤΗ ΘΕΩΡΙΑ ΠΙΘΑΝΟΤΗΤΩΝ”, HOEL P., PORT S., STONE C., Εκδόσεις ΙΤΕ-ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ, ISBN 978-960-524-156-8, 2009](https://service.eudoxus.gr/search/#a/id:242/0)
-  - [“Πιθανότητες, τυχαίες μεταβλητές και στοχαστικές διαδικασίες”, Papoulis Athanasios, Pillai S. Unnikrishna, Εκδόσεις ΤΖΙΟΛΑ, ISBN 978-960-418-127-8, 2007](https://service.eudoxus.gr/search/#a/id:18549068/0)
-  
-
 
