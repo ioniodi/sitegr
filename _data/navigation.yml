@@ -10,4 +10,6 @@ main:
     url: "/posts/"
   - title: "Επικοινωνία"
     url: "/contact/"
+  - title: "Ωρολόγιο Πρόγραμμα"
+    url: "/timetable/"
 
