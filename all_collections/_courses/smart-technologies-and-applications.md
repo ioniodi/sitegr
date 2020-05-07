@@ -10,9 +10,9 @@ type: "Ο"
 hours: 4
 extra: 2Ε
 ects: 4
+books:
+
 ---
 
-
-Βιβλιογραφία: 
-  - "Ανάπτυξη Εφαρμογών με το Adruino", Π. Παπάζογλου, Σ. Λιωνής, 1η έκδοση, Εκδόσεις Α. Τζιόλα & Υιοι Α.Ε., 2014.
-  - "Research and application on the smart home based on component technologies and Internet of Things.", Li, B., & Yu, J. (2011).Procedia Engineering, 15, 2087-2092.
+- νάπτυξη Εφαρμογών με το Adruino", Π. Παπάζογλου, Σ. Λιωνής, 1η έκδοση, Εκδόσεις Α. Τζιόλα & Υιοι Α.Ε., 2014.
+- esearch and application on the smart home based on component technologies and Internet of Things.", Li, B., & Yu, J. (2011).Procedia Engineering, 15, 2087-2092.

@@ -1,0 +1,29 @@
+---
+layout: single
+book_sidebar: true
+---
+<p><small>{{ page.entry.abstract }}</small></p>
+
+<table>
+    <thead>
+        <tr>
+            <th>ISBN</th>
+            <th>Έκδοση</th>
+            <th>Σελίδες</th>
+            <th>Εκδότης</th>
+            <th>Έτος Τρέχ. Έκδοσης</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="white-space: nowrap;">{{ page.entry.isbn }}</td>
+            <td>{{ page.entry.edition }}</td>
+            <td>{{ page.entry.num_pages }}</td>
+            <td>{{ page.entry.publisher }}</td>
+            <td>{{ page.entry.year }}</td>
+        </tr>
+    </tbody>
+</table>
+
+
+{{content}}

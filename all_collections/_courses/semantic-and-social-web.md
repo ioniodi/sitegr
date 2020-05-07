@@ -10,9 +10,8 @@ type: "H"
 hours: 4
 extra: 2Ε
 ects: 5
+books:
+  - isbn_9780387710013
+  - isbn_978_960_603_393_3
 ---
 
-
-Βιβλιογραφία: 
-  - ["Social Networks and the Semantic Web", Mika, Peter](https://service.eudoxus.gr/search/#a/id:179415/0)
-  - ["ΑΝΟΙΚΤΑ ΣΥΝΔΕΔΕΜΕΝΑ ΔΕΔΟΜΕΝΑ ΚΑΙ ΕΦΑΡΜΟΓΕΣ", Μ.ΣΤΕΦΑΝΙΔΑΚΗΣ, Ι.ΠΑΠΑΔΑΚΗΣ, Θ.ΑΝΔΡΟΝΙΚΟΣ](https://service.eudoxus.gr/search/#a/id:320100/0)

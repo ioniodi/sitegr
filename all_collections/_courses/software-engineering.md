@@ -10,9 +10,8 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+books:
+  - isbn_978_960_461_135_5
+  - isbn_960_209_845_7
 ---
 
-
-Βιβλιογραφία: 
-  - [““Ο ΠΡΑΚΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ”, ANDREW HUNT, DAVID THOMAS, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-135-5, 2008"](https://service.eudoxus.gr/search/#a/id:13815/0)
-  - ["“ΑΝΑΓΝΩΣΗ ΚΩΔΙΚΑ”, ΔΙΟΜΗΔΗΣ ΣΠΙΝΕΛΛΗΣ, Εκδόσεις Κλειδάριθμος, ISBN 960-209-845-7, 2005"](https://service.eudoxus.gr/search/#a/id:13588/0)

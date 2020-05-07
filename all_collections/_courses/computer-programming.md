@@ -10,11 +10,8 @@ type: "M"
 hours: 4
 extra: 2E
 ects: 6
+books:
+  - isbn_978_960_512_6803
+  - isbn_960_209_731_0
 ---
-
-
-Βιβλιογραφία: 
-  - [“C Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011](https://service.eudoxus.gr/search/#a/id:50659221/0)
-  - [“ΜΑΘΕΤΕ ΤΗ C++ ΑΠΟ ΤΟ ΜΗΔΕΝ”,  HERBERT SCHILDT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-731-0, 2004](https://service.eudoxus.gr/search/#a/id:13787/0)
-  
 

@@ -231,6 +231,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+scholar:
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+  details_permalink: /:details_dir/:key:extension
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
