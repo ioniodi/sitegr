@@ -3,7 +3,7 @@ backend:
   repo: ioniodi/site-gr
   branch: master
 
-media_folder: "_images/uploads"
+media_folder: "assets/images/uploads/"
 public_folder: "uploads"
 
 collections:
