@@ -3,10 +3,4 @@ ref: systems
 title: "Πληροφοριακών Συστημάτων" 
 ---
 
-{% assign posts = site.courses %}
-{% for post in posts %}
-  {% if post.type == "I" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
+{% include information-systems-courses.html %}

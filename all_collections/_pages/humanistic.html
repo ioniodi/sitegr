@@ -4,9 +4,4 @@ title: "Ανθρωπιστικές Επιστήμες"
 permalink: "/humanistic"
 ---
 
-{% assign posts = site.courses %}
-{% for post in posts %}
-  {% if post.type == "H" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+{% include humanistic-courses.html %}
