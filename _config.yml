@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : ioniodi/minimal-ionio
+remote_theme             : korinaal/minimal-ionio@transfer-files
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
 
 # Site Settings
@@ -214,22 +214,22 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: google
-  path: https://scholar.google.gr/scholar?hl=en&as_sdt=0%2C5&q
+  type: jekyll-archives
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 scholar:
   details_dir: bibliography
