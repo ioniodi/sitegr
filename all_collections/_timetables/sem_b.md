@@ -62,7 +62,7 @@ timetable:
     location: "Αμφιθέατρο 2"
 
   - day: "Πέμπτη"
-    time: 12
+    time: 13
     course: discrete-mathematics
     person: "Γ. Κατωμέρης"
     location: "Εργαστήριο Γαληνός"
