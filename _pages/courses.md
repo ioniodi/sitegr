@@ -1,6 +1,7 @@
 ---
 ref: courses
 title: "Μαθήματα"
+permalink: "/courses/"
 ---
 
 {% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
