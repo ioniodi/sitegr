@@ -1,4 +1,8 @@
-under_sem_b:
+---
+title: "Προπτυχιακό Β' Εξάμηνο"
+ref: undergraduate_b
+semester: '2'
+timetable:
   - day: "Δευτέρα"
     time: 9
     course: theory-of-propability 
@@ -58,7 +62,7 @@ under_sem_b:
     location: "Αμφιθέατρο 2"
 
   - day: "Πέμπτη"
-    time: 13
+    time: 12
     course: discrete-mathematics
     person: "Γ. Κατωμέρης"
     location: "Εργαστήριο Γαληνός"
@@ -98,71 +102,5 @@ under_sem_b:
     course: data-structures
     person: "Α. Σωτηροπούλου"
     location: "Εργαστήριο Γαληνός"
+---
 
-under_sem_d:
-  - day: "Δευτέρα"
-    time: 9
-    course: theory-of-propability 
-    author: alex
-    location: "Εργαστήριο Γαληνός"
-  - day: "Δευτέρα"
-    time: 11
-    course: theory-of-propability
-    author: avlon
-    location: "Αμφιθέατρο 2"
-  - day: "Δευτέρα"
-    time: 15
-    course: data-structures
-    person: "Α. Σωτηροπούλου"
-    location: "Εργαστήριο Γαληνός"
-  - day: "Δευτέρα"
-    time: 17
-    course: data-structures
-    person: "Β. Καρυώτης"
-    location: "Αμφιθέατρο 1"
-
-
-# semesterb:
-#   - day: "Δευτέρα"
-#     lectures:
-#       - course: "Προσομοίωση και Μοντελοποίηση"
-#         time: 9
-#         author: "alex"
-#         location: "Εργαστήριο Γαληνός"
-#       - course: "Προσομοίωση και Μοντελοποίηση"
-#         time: 11
-#         author: "avlonitis"
-#         location: "Αμφιθέατρο 2"
-#   - day: "Τετάρτη"
-#     lectures:
-#       - course: "Προσομοίωση και Μοντελοποίηση"
-#         time: 11
-#         author: "alex"
-#         location: "Εργαστήριο Γαληνός"
-#   - day: "Παρασκευή"
-#     lectures:  
-#       - course: "Προσομοίωση και Μοντελοποίηση"
-#         time: 11
-#         author: "avlonitis"
-#         location: "Αμφιθέατρο 2"
-
-        
-
-  # - course: "Προσομοίωση και Μοντελοποίηση"
-  #   lectures:
-  #     - day: 1
-  #       time: 9
-  #       author: 'alex'
-  #       location: 'Εργαστήριο Γαληνός'
-  #     - day: 1
-  #       time: 11
-  #       author: 'avlonitis'
-  #       location: 'Αμφιθέατρο 2'
-  #     - day: 3
-  #       time: 11
-  #       author: 'alex'
-  #       location: 'Εργαστήριο Γαληνός'
-  #     - day: 5
-  #       time: 11
-  #       author: 'avlonitis'
-  #       location: 'Αμφιθέατρο 2'

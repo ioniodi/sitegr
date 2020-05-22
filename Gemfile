@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem "jekyll","~>4.0.0"
 gem "jekyll-remote-theme"
-
+gem "minimal-ionio-jekyll", :path => '../theme/' 
 group :jekyll_plugins do
   gem 'jekyll-pwa-plugin'
   gem "jekyll-paginate"
