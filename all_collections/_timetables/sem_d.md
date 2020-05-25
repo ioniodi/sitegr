@@ -16,12 +16,12 @@ timetable:
   - day: "Δευτέρα"
     time: 15
     course: data-structures
-    person: "Α. Σωτηροπούλου"
+    author: "Α. Σωτηροπούλου"
     location: "Εργαστήριο Γαληνός"
   - day: "Δευτέρα"
     time: 17
     course: data-structures
-    person: "Β. Καρυώτης"
+    author: "Β. Καρυώτης"
     location: "Αμφιθέατρο 1"
     
   - day: "Τρίτη"
@@ -64,7 +64,7 @@ timetable:
   - day: "Πέμπτη"
     time: 13
     course: discrete-mathematics
-    person: "Γ. Κατωμέρης"
+    author: "Γ. Κατωμέρης"
     location: "Εργαστήριο Γαληνός"
   - day: "Πέμπτη"
     time: 15
@@ -90,17 +90,17 @@ timetable:
   - day: "Παρασκευή"
     time: 13
     course: discrete-mathematics
-    person: "Γ. Κατωμέρης"
+    author: "Γ. Κατωμέρης"
     location: "Εργαστήριο Γαληνός"
   - day: "Παρασκευή"
     time: 15
     course: "Αγγλικά ΙΙ"
-    person: "Σ. Κοζομπόλης"
+    author: "Σ. Κοζομπόλης"
     location: "Αίθουσα 1"
   - day: "Παρασκευή"
     time: 17
     course: data-structures
-    person: "Α. Σωτηροπούλου"
+    author: "Α. Σωτηροπούλου"
     location: "Εργαστήριο Γαληνός"
 ---
 
