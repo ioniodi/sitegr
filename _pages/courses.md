@@ -1,20 +1,21 @@
 ---
 ref: courses
 title: "Μαθήματα"
+permalink: "/courses/"
 ---
 
 {% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
 
 # ΠΡΟΠΤΥΧΙΑΚΟ
 
-## <b>A' ΕΞΑΜΗΝΟ</b>
+## **A' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
 {% include collection-sort.html i = 1 l = 'courses' c_type = "M" %}
 
 
-## <b>Β' ΕΞΑΜΗΝΟ</b>
+## **Β' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -24,7 +25,7 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 2 l = 'courses' c_type = "Ο" %}
 
-## <b>Γ' ΕΞΑΜΗΝΟ</b>
+## **Γ' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -34,7 +35,7 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 3 l = 'courses' c_type = "Ο" %}
 
-## <b>Δ' ΕΞΑΜΗΝΟ</b>
+## **Δ' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -44,7 +45,7 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 4 l = 'courses' c_type = "Ο" %}
 
-## <b>Ε' ΕΞΑΜΗΝΟ</b>
+## **Ε' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -62,7 +63,7 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 5 l = 'courses' c_type = "Ο" %}
 
-## <b>ΣΤ' ΕΞΑΜΗΝΟ</b>
+## **ΣΤ' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -80,7 +81,7 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 6 l = 'courses' c_type = "Ο" %}
 
-## <b>Ζ' ΕΞΑΜΗΝΟ</b>
+## **Ζ' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -98,7 +99,7 @@ title: "Μαθήματα"
 
 {% include collection-sort.html i = 7 l = 'courses' c_type = "Ο" %}
 
-## <b>Η' ΕΞΑΜΗΝΟ</b>
+## **Η' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 
@@ -118,13 +119,13 @@ title: "Μαθήματα"
 
 # ΜΕΤΑΠΤΥΧΙΑΚΟ
 
-## <b>A' ΕΞΑΜΗΝΟ</b>
+## **A' ΕΞΑΜΗΝΟ**
 
 ## Μαθήματα Επιλογής
 
 {% include collection-sort.html i = 1 l = 'msc' c_type = "Ο" %}
 
-## <b>Β' ΕΞΑΜΗΝΟ</b>
+## **Β' ΕΞΑΜΗΝΟ**
 
 ## Μαθήματα Επιλογής
 
