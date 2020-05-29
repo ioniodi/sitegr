@@ -10,15 +10,12 @@ type: "I"
 hours: 4
 extra: 
 ects: 5
+books:
+  - isbn_978_960_461_623_7
+  - isbn_978_960_08_0528_4
+  - isbn_978_960_512_6407
+  - isbn_978_960_218_886_6
+  - isbn_978_960_461_364_9
+  - isbn_978_960_03_4351_9
 ---
 
-
-Βιβλιογραφία: 
-  - ["ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΔΙΟΙΚΗΣΗΣ", KENNETH C. LAUDON, JANE P. LAUDON](https://service.eudoxus.gr/search/#a/id:41962586/0)
-  - ["ΚΑΙΝΟΤΟΜΙΑ, ΣΤΡΑΤΗΓΙΚΗ, ΑΝΑΠΤΥΞΗ ΚΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ", Γεώργιος Δουκίδης](https://service.eudoxus.gr/search/#a/id:14035/0)
-  - ["Πληροφοριακά Συστήματα Διοίκησης", Kelly Rainer, Hugh Watson](https://service.eudoxus.gr/search/#a/id:22768983/0)
-  - ["Πληροφοριακά Συστήματα Διοίκησης", Wallace Patricia](https://service.eudoxus.gr/search/#a/id:32997790/0)
-  - ["Διαχείριση Πληροφοριακών Συστημάτων: Στρατηγική και Οργάνωση", David Boddy, Albert Boonstra, Graham Kennedy, 3η έκδοση](https://service.eudoxus.gr/search/#a/id:21368/0)
-  - ["Οδηγός στρατηγικής στη δικτυακή οικονομία", Varian, H.R., Shapiro, C.](https://service.eudoxus.gr/search/#a/id:16989/0)
-  
-  

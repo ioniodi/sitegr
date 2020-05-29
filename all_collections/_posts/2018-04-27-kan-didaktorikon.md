@@ -3,7 +3,6 @@ ref: kan-didaktorikon
 title: "Κανονισμός Διδακτορικών Σπουδών"
 excerpt: "Κανονισμός Διδακτορικών Σπουδών"
 tags:
-tags:
  - conference
 ---
 

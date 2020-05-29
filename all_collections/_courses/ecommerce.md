@@ -10,11 +10,8 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+books:
+  - isbn_960_512_543_9
+  - isbn_978_960_461_171_3
 ---
-
-
-Βιβλιογραφία: 
-  - ["Ηλεκτρονικό εμπόριο 2008", Turban E., King D., McKay J., Marshall P., Lee J., Viehland D., Volonino L., Cheung Ch., Lai L., Pollard C., Εκδόσεις Α. Γκιούρδα, ISBN 960-512-543-9, 2008" ](https://service.eudoxus.gr/search/#a/id:12307/0)
-  - ["ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ ΚΑΙ ΗΛΕΚΤΡΟΝΙΚΟ ΕΜΠΟΡΙΟ", DAVE CHAFFEY, Εκδόσεις Κλειδάριθμος, ISBN 978-960-461-171-3, 2008"](https://service.eudoxus.gr/search/#a/id:13774/0)
-  
 

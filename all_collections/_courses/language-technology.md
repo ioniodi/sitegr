@@ -10,11 +10,10 @@ type: "H"
 hours: 4
 extra: 2Ε
 ects: 5
+books:
+  - isbn_960_03_2718_1
+  - isbn_978_960_231_132_5
+  - isbn_9780135041963
 ---
 
-
-Βιβλιογραφία: 
-  - ["“Η μηχανική μετάφραση και η ελληνική γλώσσα”, Σταύρου Μ., Τζεβελέκου Μ., Ινστιτούτο Επεξεργασίας του Λόγου, Εκδόσεις Καστανιώτη, ISBN 960-03-2718-1, 2001"](https://service.eudoxus.gr/search/#a/id:16929/0)
-  - ["“Επίπεδα γλωσσικής ανάλυσης”, Παυλίδου Θ. Σ., Εκδόσεις ΙΝΣΤΙΤΟΥΤΟ ΝΕΟΕΛΛΗΝΙΚΩΝ ΣΠΟΥΔΩΝ, ISBN 978-960-231-132-5, 2008"](https://service.eudoxus.gr/search/#a/id:3252/0)
-  - ["“Speech and Language Processing”, Jurafsky D., Martin J., Pearson Prentice Hall, ISBN 978-0131873216, 2008"](https://service.eudoxus.gr/search/#a/id:54330/0)
-  - "“Statistical Natural Language Processing”, Manning C., Schuetze H., MIT Press, ISBN 978-0262133609, 1999"
+- Statistical Natural Language Processing”, Manning C., Schuetze H., MIT Press, ISBN 978-0262133609, 1999"

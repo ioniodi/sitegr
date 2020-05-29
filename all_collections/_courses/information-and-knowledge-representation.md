@@ -10,9 +10,8 @@ type: "Ο"
 hours: 4
 extra: 
 ects: 4
+books:
+  - isbn_978_960_402_116_8
+  - isbn_978_960_418_162_9
 ---
 
-
-Βιβλιογραφία: 
-  - ["Εξόρυξη γνώσης από βάσεις δεδομένων και τον παγκόσμιο ιστό, Βαζιργιάννης Μιχάλης, Χαλκίδη Μαρία"](https://service.eudoxus.gr/search/#a/id:31391/0)
-  - ["Εισαγωγή στην εξόρυξη δεδομένων, Tan Pang - Ning,Steinbach Michael,Kumar Vipin"](https://service.eudoxus.gr/search/#a/id:18549105/0)

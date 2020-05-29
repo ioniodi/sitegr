@@ -10,12 +10,10 @@ type: "M"
 hours: 4
 extra: 2Ε
 ects: 6
+books:
+  - isbn_960_209_873_2
+  - isbn_978_960_8396_64_7
+  - isbn_960_8105_77_3
 ---
 
-
-Βιβλιογραφία: 
-  - [““ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ: ΜΙΑ ΣΥΓΧΡΟΝΗ ΠΡΟΣΕΓΓΙΣΗ”, Russell S., Norvig P. ΕΚΔΟΣΕΙΣ ΚΛΕΙΔΑΡΙΘΜΟΣ ΕΠΕ, ISBN 960-209-873-2, 2005" ](https://service.eudoxus.gr/search/#a/id:13909/0)
-  - ["“Τεχνητή Nοημοσύνη”, 3η έκδοση, Βλαχάβας Ι., Κεφάλας Π., Βασιλειάδης Ν., Κόκκορας Φ., Σακελλαρίου Η., Εκδόσεις Γκιούρδας Β., ISBN 978-960-8396-64-7, 2006"](https://service.eudoxus.gr/search/#a/id:12867416/0)
-  - ["“Εισαγωγή στην Τεχνητή Νοημοσύνη και στα Συστήματα Πολλαπλών Πρακτόρων”, Ματσατσίνης N., Σπανουδάκης N., Σαμαράς A., Εκδόσεις Νέων Τεχνολογιών, ISBN 960-8105-77-3, 2006"](https://service.eudoxus.gr/search/#a/id:2178/0)
-  - "“Artificial Intelligence: The Basics”, Warwick K., Routledge, ISBN 978-0415564823, 2011"
-  
+- Artificial Intelligence: The Basics”, Warwick K., Routledge, ISBN 978-0415564823, 2011"

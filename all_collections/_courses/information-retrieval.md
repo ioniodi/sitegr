@@ -10,9 +10,8 @@ type: "H"
 hours: 4
 extra: 2Ε
 ects: 5
+books:
+  - isbn_978_960_461_456_1
+  - isbn_978_960_418_460_6
 ---
 
-
-Βιβλιογραφία: 
-  - ["ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΩΝ", CHRISTOPHER D. MANNING, PRABHAKAR RAGHAVAN, HINRICH](https://service.eudoxus.gr/search/#a/id:12532681/0)
-  - ["Ανάκτηση Πληροφορίας", 2η Έκδοση, Baeza-Yates Ricardo, Ribeiro-Neto Berthier](https://service.eudoxus.gr/search/#a/id:41954965/0)
