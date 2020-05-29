@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  repo: ioniodi/site-gr
+  branch: master
+
+media_folder: "assets/images/uploads/"
+public_folder: "uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "all_collections/_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Reference", name: "ref", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: projects
+    label: "Projects"
+    folder: "all_collections/_projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Reference", name: "ref", widget: "string"}
+      - {label: "Title" , name: "title", widget: "string"}
+      - {label: "Excerpt",name: "excerpt", widget: "string"}
+      - {label: "Partners", name: "partners", widget: "list", required: false}
+      - {label: "Web url", name: "web", widget: "string", required:  false}
+      - {label: "Body", name: "body", widget: "markdown"}
