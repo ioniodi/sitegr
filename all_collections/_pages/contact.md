@@ -22,17 +22,17 @@ permalink: "/contact/"
                 "zoom" : 14,
                 "providerBasemap": "OpenStreetMap.Mapnik" }
 %}
-<!-- {% leaflet_marker { "latitude": 39.621100,
-                    "longitude": 19.923863,
-                    "popupContent" : "<a href="maps://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=[39.620693],[19.914733]">Ιόνιος Ακαδημία, NOC </a>"}
-%} -->
-{% leaflet_marker { "latitude": 39.621100,
-                    "longitude": 19.923863,
-                    "popupContent" : "Ιόνιος Ακαδημία, NOC"}
-%}
-{% leaflet_marker { "latitude": 39.625709,
-                    "longitude": 19.924304,
-                    "popupContent" : "Ιόνιο Πανεπιστήμιο, Ανάκτορα, Γραφεία Καθηγητών"}
+{% leaflet_geojson {
+        "type": "Feature",
+        "properties": {
+             "popupContent": "Ιόνιος Ακαδημία - NOC",
+             "href":"maps://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=[39.620693],[19.914733]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [39.625709, 19.924304]
+        } 
+    }
 %}
 {% leaflet_marker { "latitude": 39.623434,
                     "longitude": 19.915203,
