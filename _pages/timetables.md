@@ -1,6 +1,7 @@
 ---
 ref: timetables
 title: "Ωρολόγιο πρόγραμμα"
+permalink: "/timetables/"
 days: 
   - "Δευτέρα"
   - "Τρίτη"
