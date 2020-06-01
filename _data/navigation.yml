@@ -8,6 +8,4 @@ main:
     url: "/groups/"
   - title: "Ανακοινώσεις"
     url: "/posts/"
-  - title: "Επικοινωνία"
-    url: "/contact/"
 

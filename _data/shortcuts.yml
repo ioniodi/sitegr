@@ -79,3 +79,5 @@ categories:
         external: true
       - name: Eudoxus
         url: https://service.eudoxus.gr/
+      - name: Contact
+        url: /contact/
