@@ -413,14 +413,14 @@ exarchos:
  cv: "http://di.ionio.gr/wp-content/uploads/2018/03/cv-Themis-Exarchos-en.pdf"
 
 hristope:
-  name: "Eleni Christopoulou"
+  name: "Ελένη Χριστοπούλου"
   email: "hristope@ionio.gr"
   uri: ""
   bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
   avatar: "/assets/images/hristope.jpg"
 
 hristope-en:
-  name: "Ελένη Χριστοπούλου"
+  name: "Eleni Christopoulou"
   email: "hristope@ionio.gr"
   uri: ""
   bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"

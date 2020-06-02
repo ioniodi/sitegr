@@ -254,6 +254,9 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
+  timetables:
+    output: true
+    permalink: /timetables/:path/
   msc:
     output: true
     permalink: /msc/:path/
@@ -357,6 +360,18 @@ defaults:
       comments: # true
       share: true
       related: true
+ # _timetables
+  - scope:
+      path: ""
+      type: timetables
+    values:
+      sidebar: false
+      layout: timetables
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: false
 pwa:
   sw_src_filepath: _site/assets/js/service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
