@@ -80,7 +80,7 @@ timetable:
     time: 19
     course: computer-programming
     author: andronikos
-    location: "Αμφηθέατρο 1"
+    location: "Αμφιθέατρο 1"
   
   - day: "Παρασκευή"
     time: 11
