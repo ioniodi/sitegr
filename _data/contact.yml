@@ -6,18 +6,16 @@ address:
 contact_info:
   email:
     - "cs@ionio.gr"
-  fax:
-    - 2661087766
   tel: [2661087760,
         2661087761,
         2661087763,
         2661087766]
 
-leaflet_map_1:
+map_1:
   center: [39.620693, 19.914733]
   zoom: 14,
   providerBasemap: "OpenStreetMap.Mapnik"
-  leaflet_markers:
+  markers:
     - latitude: 39.623434
       longitude: 19.915203
       popupContent: Αμφιθέατρα Διδασκαλίας - Τμήμα Ιστορίας
