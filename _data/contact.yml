@@ -1,0 +1,39 @@
+address:
+  building: "Κτήριο Γραμματειών (Κτήριο 3)"
+  street: "Πλατεία Τσιριγώτη 7 (πρώην Πλατεία Ψυχιατρείου)"
+  zip: "Κέρκυρα, 49100"
+
+contact_info:
+  email:
+    - "cs@ionio.gr"
+  tel: [2661087760,
+        2661087761,
+        2661087763,
+        2661087766]
+
+map_1:
+  center: [39.620693, 19.914733]
+  zoom: 14,
+  providerBasemap: "OpenStreetMap.Mapnik"
+  markers:
+    - latitude: 39.623434
+      longitude: 19.915203
+      popupContent: Αμφιθέατρα Διδασκαλίας - Τμήμα Ιστορίας
+    - latitude: 39.625709
+      longitude: 19.924304
+      popupContent: Γραφεία Καθηγητών
+    - latitude: 39.621049
+      longitude: 19.923906
+      popupContent: Ιόνιος Ακαδημία - Τμήμα Δικτύων & Τηλεπικοινωνιών
+    - latitude: 39.620603
+      longitude: 19.914945
+      popupContent: Κτήριο Αρεταίος
+    - latitude: 39.620857
+      longitude: 19.915050
+      popupContent: Κτήριο Γαληνός
+    - latitude: 39.620833
+      longitude: 19.914585
+      popupContent: Κτήριο Γραμματειών
+    - latitude: 39.620679
+      longitude: 19.915451
+      popupContent: Φοιτητικό Εστιατόριο
