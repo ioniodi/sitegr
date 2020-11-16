@@ -8,6 +8,6 @@ uri: "https://e-class.ionio.gr/courses/DDI217/"
 code: ΗΥ-770
 type: "O"
 hours: 4
+extra: 2Ε
 ects: 4
-extra: 2E
 ---
