@@ -1,7 +1,7 @@
 ---
 ref: karyotis
 title: "Βασίλειος Καρυώτης"
-excerpt: "Ασφάλεια και Ιδιωτικότητα στο Διαδίκτυο"
+excerpt: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
 rank: 
 author: karyotis
 research:
