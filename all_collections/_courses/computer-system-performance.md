@@ -9,4 +9,5 @@ code: ΗΥ-770
 type: "O"
 hours: 4
 ects: 4
+extra: 2E
 ---
