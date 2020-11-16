@@ -432,7 +432,7 @@ mmarag:
   email: "mmarag@ionio.gr"
   uri: ""
   bio: "Δομές και Βάσεις Δεδομένων"
-  avatar: "/assets/images/Maragkoudakis.jpg"
+  avatar: "/assets/images/mmarag.jpg"
   tel: "+30 26610 87763"
   
   
@@ -441,7 +441,7 @@ mmarag-en:
   email: "mmarag@ionio.gr"
   uri: ""
   bio: "Structures and Databases"
-  avatar: "/assets/images/Maragkoudakis.jpg"
+  avatar: "/assets/images/mmarag.jpg"
   tel: "+30 26610 87763"
   
 
@@ -450,7 +450,7 @@ karyotis:
   email: "karyotis@ionio.gr"
   uri: "https://scholar.google.gr/citations?user=tZAZEFUAAAAJ&hl=en"
   bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
-  avatar: "/assets/images/Karyotis.jpg"
+  avatar: "/assets/images/karyotis.jpg"
   tel: ""
   
   
@@ -459,5 +459,5 @@ karyotis-en:
   email: "karyotis@ionio.gr"
   uri: "https://scholar.google.gr/citations?user=tZAZEFUAAAAJ&hl=en"
   bio: "Network-based Information Systems"
-  avatar: "/assets/images/Karyotis.jpg"
+  avatar: "/assets/images/karyotis.jpg"
   tel: ""
