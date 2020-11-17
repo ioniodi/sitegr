@@ -426,7 +426,39 @@ hristope-en:
   bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
   avatar: "/assets/images/hristope.jpg"
   
+mmarag:
+  name: "Εμμανουήλ Μαραγκουδάκης"
+  email: "mmarag@ionio.gr"
+  uri: ""
+  bio: "Δομές και Βάσεις Δεδομένων"
+  avatar: "/assets/images/mmarag.jpg"
+  tel: "+30 26610 87763"
   
+  
+mmarag-en:
+  name: "Emanouil Maragkoudakis"
+  email: "mmarag@ionio.gr"
+  uri: ""
+  bio: "Structures and Databases"
+  avatar: "/assets/images/mmarag.jpg"
+  tel: "+30 26610 87763"
+  
+karyotis:
+  name: "Βασίλειος Καρυώτης"
+  email: "karyotis@ionio.gr"
+  uri: "https://scholar.google.gr/citations?user=tZAZEFUAAAAJ&hl=en"
+  bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
+  avatar: "/assets/images/karyotis.jpg"
+  tel: ""
+    
+karyotis-en:
+  name: "Vasileios Karyotis"
+  email: "karyotis@ionio.gr"
+  uri: "https://scholar.google.gr/citations?user=tZAZEFUAAAAJ&hl=en"
+  bio: "Network-based Information Systems"
+  avatar: "/assets/images/karyotis.jpg"
+  tel: ""
+
 dadoyan:
   name: "Νταντογιάν Χριστόφορος"
   email: "dadoyan@ionio.gr"
