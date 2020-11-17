@@ -425,3 +425,22 @@ hristope-en:
   uri: ""
   bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
   avatar: "/assets/images/hristope.jpg"
+  
+  
+dadoyan:
+  name: "Νταντογιάν Χριστόφορος"
+  email: "dadoyan@ionio.gr"
+  uri: "https://di.ionio.gr/en/department/staff/614-ntantogian/"
+  bio: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
+  avatar: "/assets/images/dadoyan.jpg"
+  tel: "+30 26610 87702"
+  cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
+
+dadoyan-en:
+  name: "Ntantogian Christoforos"
+  email: "dadoyan@ionio.gr"
+  uri: "https://di.ionio.gr/en/department/staff/614-ntantogian/"
+  bio: "Computer and Network Security"
+  avatar: "/assets/images/dadoyan.jpg"
+  tel: "+30 26610 87702"
+  cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
