@@ -2,7 +2,6 @@
 ref: pappas
 title: "Ηλίας Παππάς"
 bio: "Απόφοιτος Διδάκτορας"
-rank: 7
 author: pappas
 tel: ""
 email: ""
