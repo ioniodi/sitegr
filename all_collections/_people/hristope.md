@@ -2,7 +2,7 @@
 ref: hristope
 title: "Ελένη Χριστοπούλου"
 bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
-rank: 9
+rank: 5
 author: hristope
 tel: ""
 email: "hristope@ionio.gr"
