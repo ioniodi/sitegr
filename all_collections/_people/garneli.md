@@ -2,7 +2,6 @@
 ref: garneli
 title: "Βαρβάρα Γαρνέλη"
 bio: "Απόφοιτος Διδάκτορας"
-rank: 7
 author: garneli
 tel: ""
 email: ""
