@@ -2,7 +2,7 @@
 ref: karyotis
 title: "Βασίλειος Καρυώτης"
 excerpt: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
-rank: 
+rank: 2
 author: karyotis
 research:
  - "Network Science: complex network analysis & dynamic network processes"
