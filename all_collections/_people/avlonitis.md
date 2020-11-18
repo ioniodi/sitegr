@@ -2,7 +2,7 @@
 ref: avlon
 title: "Μάρκος Αυλωνίτης"
 excerpt: "Εφαρμοσμένα Στοχαστικά Μοντέλα"
-rank: 3
+rank: 2
 author: avlon
 email: "avlon@ionio.gr"
 uri:  "http://www.ionio.gr/~avlon"
