@@ -2,6 +2,7 @@
 ref: svoul
 title: "Σπύρος Βούλγαρης"
 bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+rank: 5
 author: svoul
 email: "svoul@ionio.gr"
 uri:
