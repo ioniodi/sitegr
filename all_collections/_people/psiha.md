@@ -2,7 +2,6 @@
 ref: psiha
 title: "Μαρία Ψύχα"
 bio: "Απόφοιτος Διδάκτορας"
-rank: 7
 author: psiha
 tel: ""
 email: ""
