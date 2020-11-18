@@ -2,7 +2,7 @@
 ref: wegner
 title: "Bernd Wegner"
 bio: "Επίτιμος Διδάκτορας"
-rank: 8
+rank: 4
 author: wegner
 tel: ""
 email: ""
