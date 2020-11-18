@@ -2,7 +2,7 @@
 ref: mmarag
 title: "Εμμανουήλ Μαραγκουδάκης"
 excerpt: "Δομές και Βάσεις Δεδομένων"
-rank: 
+rank: 1
 author: mmarag
 research:
  - "Επιστήμη των Δεδομένων"
