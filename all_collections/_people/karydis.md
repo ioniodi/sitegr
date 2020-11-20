@@ -2,7 +2,7 @@
 ref: karydis
 title: "Ιωάννης Καρύδης"
 bio: "Προσωρινός Διδάσκων 407/80 Τμήματος Πληροφορικής"
-rank: 6
+rank: 3
 author: karydis
 tel: ""
 email: "	karydis@ionio.gr "

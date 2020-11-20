@@ -2,6 +2,7 @@
 ref: alex
 title: "Αλέξανδρος Πανάρετος"
 bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+rank: 5
 author: alex
 email: "alex@ionio.gr"
 uri:  "http://www.ionio.gr/~alex"
