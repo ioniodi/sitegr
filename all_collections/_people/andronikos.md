@@ -2,7 +2,7 @@
 ref: andronikos
 title: "Θεόδωρος Ανδρόνικος"
 excerpt: "Διαδικτυακός Προγραμματισμός"
-rank: 3
+rank: 2
 author: andronikos
 research:
  - "Διαδικτυακός προγραμματισμός"

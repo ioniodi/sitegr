@@ -2,7 +2,6 @@
 ref: giannakis
 title: "Κωνσταντίνος Γιαννάκης"
 bio: "Απόφοιτος Διδάκτορας"
-rank: 7
 author: giannakis
 tel: ""
 email: " kgiann@ionio.gr"

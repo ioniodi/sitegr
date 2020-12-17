@@ -2,7 +2,7 @@
 ref: kerman
 title: "Κάτια Λήδα Κερμανίδου"
 excerpt: "Τεχνητή Νοημοσύνη με έμφαση στη Γλωσσική Τεχνολογία"
-rank: 3
+rank: 2
 author: kerman
 research:
   - "Μηχανική Μάθηση"

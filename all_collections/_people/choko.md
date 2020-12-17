@@ -2,7 +2,7 @@
 ref: choko
 title: "Κωνσταντίνος Χωριανόπουλος"
 excerpt: "Τεχνολογίες Λογισμικού"
-rank: 3
+rank: 2
 author: choko
 research:
  - "Κοινωνικά και Συνεργατικά Συστήματα"
