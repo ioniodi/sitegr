@@ -4,7 +4,7 @@ title: "ECTS"
 permalink: "/ects-calculator/"
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-{% include ects-calculator.html %}
+<script src="assets/js/ects.js"></script>
 <p><span id ="ects_span">0</span> <span>ects in total</span></p>
 <p><span>Απομένουν:  </span><span id="ects_span_240"></span></p>
 
