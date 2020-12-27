@@ -24,11 +24,15 @@ permalink: "/ects-calculator/"
 <label for="PS_checkbox">PS</label>
 
 
-<input onclick="autoCheck(mandatory1,this)" type="checkbox" id="mandatory1_checkbox" name="mandatory1_checkbox">
-<label for="mandatory1_checkbox">Όλα τα υποχρεωτικά - Ά εξάμηνο</label>
+
 <div markdown="1"> 
 ## **A' ΕΞΑΜΗΝΟ**
+</div>
 
+<input onclick="autoCheck(mandatory1,this)" type="checkbox" id="mandatory1_checkbox" name="mandatory1_checkbox">
+<label for="mandatory1_checkbox">Όλα τα υποχρεωτικά - Ά εξάμηνο</label>
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
 
@@ -36,133 +40,201 @@ permalink: "/ects-calculator/"
 
 <input onclick="autoCheck(mandatory2,this)" type="checkbox" id="mandatory2_checkbox" name="mandatory2_checkbox">
 <label for="mandatory2_checkbox">Όλα τα υποχρεωτικά - Β εξάμηνο</label>
+
 <div markdown="1"> 
 ## **Β' ΕΞΑΜΗΝΟ**
+</div>
 
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 2 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 2 l = 'courses' c_type = "Ο" %}
 
 
-<input onclick="autoCheck(mandatory3,this)" type="checkbox" id="mandatory3_checkbox" name="mandatory3_checkbox">
-<label for="mandatory3_checkbox">Όλα τα υποχρεωτικά - Γ εξάμηνο</label>
+
 <div markdown="1"> 
 ## **Γ' ΕΞΑΜΗΝΟ**
+</div>
 
+<input onclick="autoCheck(mandatory3,this)" type="checkbox" id="mandatory3_checkbox" name="mandatory3_checkbox">
+<label for="mandatory3_checkbox">Όλα τα υποχρεωτικά - Γ εξάμηνο</label>
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 3 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 3 l = 'courses' c_type = "Ο" %}
 
 
-<input onclick="autoCheck(mandatory4,this)" type="checkbox" id="mandatory4_checkbox" name="mandatory4_checkbox">
-<label for="mandatory4_checkbox">Όλα τα υποχρεωτικά - Δ εξάμηνο</label>
+
 <div markdown="1"> 
 ## **Δ' ΕΞΑΜΗΝΟ**
+</div>
 
+<input onclick="autoCheck(mandatory4,this)" type="checkbox" id="mandatory4_checkbox" name="mandatory4_checkbox">
+<label for="mandatory4_checkbox">Όλα τα υποχρεωτικά - Δ εξάμηνο</label>
+
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 4 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 4 l = 'courses' c_type = "Ο" %}
 
 
-<input onclick="autoCheck(mandatory5,this)" type="checkbox" id="mandatory5_checkbox" name="mandatory5_checkbox">
-<label for="mandatory5_checkbox">Όλα τα υποχρεωτικά - Δ εξάμηνο</label>
+
 <div markdown="1"> 
 ## **Ε' ΕΞΑΜΗΝΟ**
+</div>
 
+<input onclick="autoCheck(mandatory5,this)" type="checkbox" id="mandatory5_checkbox" name="mandatory5_checkbox">
+<label for="mandatory5_checkbox">Όλα τα υποχρεωτικά - Δ εξάμηνο</label>
+
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 5 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Π.Σ.
 </div>
+
 {% include ects-collection-sort.html i = 5 l = 'courses' c_type = "I" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Α.Ε.
 </div>
+
 {% include ects-collection-sort.html i = 5 l = 'courses' c_type = "H" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 5 l = 'courses' c_type = "Ο" %}
 
 
-<input onclick="autoCheck(mandatory6,this)" type="checkbox" id="mandatory6_checkbox" name="mandatory6_checkbox">
-<label for="mandatory6_checkbox">Όλα τα υποχρεωτικά - ΣΤ εξάμηνο</label>
+
 <div markdown="1"> 
 ## **ΣΤ' ΕΞΑΜΗΝΟ**
+</div>
 
+<input onclick="autoCheck(mandatory6,this)" type="checkbox" id="mandatory6_checkbox" name="mandatory6_checkbox">
+<label for="mandatory6_checkbox">Όλα τα υποχρεωτικά - ΣΤ εξάμηνο</label>
+
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 6 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Π.Σ.
 </div>
+
 {% include ects-collection-sort.html i = 6 l = 'courses' c_type = "I" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Α.Ε.
 </div>
+
 {% include ects-collection-sort.html i = 6 l = 'courses' c_type = "H" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 6 l = 'courses' c_type = "Ο" %}
 
 
 
-<input onclick="autoCheck(mandatory7,this)" type="checkbox" id="mandatory7_checkbox" name="mandatory7_checkbox">
-<label for="mandatory7_checkbox">Όλα τα υποχρεωτικά - Ζ εξάμηνο</label>
+
 <div markdown="1"> 
 ## **Ζ' ΕΞΑΜΗΝΟ**
+</div>
 
+<input onclick="autoCheck(mandatory7,this)" type="checkbox" id="mandatory7_checkbox" name="mandatory7_checkbox">
+<label for="mandatory7_checkbox">Όλα τα υποχρεωτικά - Ζ εξάμηνο</label>
+
+
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 7 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Π.Σ.
 </div>
+
 {% include ects-collection-sort.html i = 7 l = 'courses' c_type = "I" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Α.Ε.
 </div>
+
 {% include ects-collection-sort.html i = 7 l = 'courses' c_type = "H" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 7 l = 'courses' c_type = "Ο" %}
 
 
 
-<input onclick="autoCheck(mandatory8,this)" type="checkbox" id="mandatory8_checkbox" name="mandatory8_checkbox">
-<label for="mandatory8_checkbox">Όλα τα υποχρεωτικά - 8 εξάμηνο</label>
+
 <div markdown="1"> 
 ## **Η' ΕΞΑΜΗΝΟ**
+</div>
+<input onclick="autoCheck(mandatory8,this)" type="checkbox" id="mandatory8_checkbox" name="mandatory8_checkbox">
+<label for="mandatory8_checkbox">Όλα τα υποχρεωτικά - 8 εξάμηνο</label>
 
+<div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 8 l = 'courses' c_type = "M" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Π.Σ.
 </div>
+
 {% include ects-collection-sort.html i = 8 l = 'courses' c_type = "I" %}
+
 <div markdown="1"> 
 ## Μαθήματα Κατεύθυνσης Α.Ε.
 </div>
+
 {% include ects-collection-sort.html i = 8 l = 'courses' c_type = "H" %}
+
 <div markdown="1"> 
 ## Μαθήματα Επιλογής
 </div>
+
 {% include ects-collection-sort.html i = 8 l = 'courses' c_type = "Ο" %}
 
 </div>
