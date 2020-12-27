@@ -14,6 +14,7 @@ permalink: "/ects-calculator/"
 <div markdown="1"> 
 # ΠΡΟΠΤΥΧΙΑΚΟ 
 </div>
+
 <input onclick="autoCheck(mandatory_all,this)" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox">
 <label for="mandatory_checkbox">Όλα τα υποχρεωτικά Μαθήματα</label>
 
@@ -38,13 +39,14 @@ permalink: "/ects-calculator/"
 
 {% include ects-collection-sort.html i = 1 l = 'courses' c_type = "M" %}
 
-<input onclick="autoCheck(mandatory2,this)" type="checkbox" id="mandatory2_checkbox" name="mandatory2_checkbox">
-<label for="mandatory2_checkbox">Όλα τα υποχρεωτικά - Β εξάμηνο</label>
+
 
 <div markdown="1"> 
 ## **Β' ΕΞΑΜΗΝΟ**
 </div>
 
+<input onclick="autoCheck(mandatory2,this)" type="checkbox" id="mandatory2_checkbox" name="mandatory2_checkbox">
+<label for="mandatory2_checkbox">Όλα τα υποχρεωτικά - Β εξάμηνο</label>
 
 <div markdown="1"> 
 ## Υποχρεωτικά Μαθήματα
