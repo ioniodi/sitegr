@@ -13,12 +13,15 @@ permalink: "/ects-calculator/"
 
 <div markdown="1"> 
 # ΠΡΟΠΤΥΧΙΑΚΟ 
-
-
+</div>
+<input onclick="autoCheck()" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox">
+<label for="mandatory_checkbox">Όλα τα υποχρεωτικά Μαθήματα</label>
+<div markdown="1"> 
 ## **A' ΕΞΑΜΗΝΟ**
 
 ## Υποχρεωτικά Μαθήματα
 </div>
+
 {% include ects-collection-sort.html i = 1 l = 'courses' c_type = "M" %}
 
 <div markdown="1"> 
