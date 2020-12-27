@@ -14,11 +14,11 @@ permalink: "/ects-calculator/"
 <div markdown="1"> 
 # ΠΡΟΠΤΥΧΙΑΚΟ 
 </div>
-<input onclick="autoCheck(mandatory_all)" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox"><label for="mandatory_checkbox">Όλα τα υποχρεωτικά Μαθήματα</label>
+<input onclick="autoCheck(mandatory_all,this)" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox"><label for="mandatory_checkbox">Όλα τα υποχρεωτικά Μαθήματα</label>
 
-<input onclick="autoCheck(AE_all)" type="checkbox" id="AE_checkbox" name="AE_checkbox"><label for="AE_checkbox">AE</label>
+<input onclick="autoCheck(AE_all,this)" type="checkbox" id="AE_checkbox" name="AE_checkbox"><label for="AE_checkbox">AE</label>
 
-<input onclick="autoCheck(PS_all)" type="checkbox" id="PS_checkbox" name="PS_checkbox"><label for="PS_checkbox">PS</label>
+<input onclick="autoCheck(PS_all,this)" type="checkbox" id="PS_checkbox" name="PS_checkbox"><label for="PS_checkbox">PS</label>
 <div markdown="1"> 
 ## **A' ΕΞΑΜΗΝΟ**
 
