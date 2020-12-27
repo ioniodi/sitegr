@@ -14,7 +14,7 @@ permalink: "/ects-calculator/"
 <div markdown="1"> 
 # ΠΡΟΠΤΥΧΙΑΚΟ 
 </div>
-<input onclick="autoCheck(mandatory_all)" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox">
+<input onclick="autoCheck(mandatory_all,mandatory_checkbox)" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox">
 <label for="mandatory_checkbox">Όλα τα υποχρεωτικά Μαθήματα</label>
 <div markdown="1"> 
 ## **A' ΕΞΑΜΗΝΟ**
