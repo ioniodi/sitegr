@@ -10,4 +10,5 @@ main:
     url: "/posts/"
   - title: "Ωρολόγιο Πρόγραμμα"
     url: "/timetables/"
-
+  - title: "Ects Calculator"
+    url: "/ects-calculator/"
