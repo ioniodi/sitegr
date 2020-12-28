@@ -17,11 +17,10 @@ permalink: "/ects-calculator/"
 
 <input onclick="autoCheck(mandatory_all,this)" type="checkbox" id="mandatory_checkbox" name="mandatory_checkbox">
 <label style="display: initial;" for="mandatory_checkbox">Όλα τα υποχρεωτικά Μαθήματα</label>
-
+</br>
 <input onclick="autoCheck(AE_all,this)" type="checkbox" id="AE_checkbox" name="AE_checkbox">
 <label style="display: initial;" for="AE_checkbox">AE</label>
-
-
+</br>
 <label for="PS_checkbox">PS
 <input style="display: initial;" onclick="autoCheck(PS_all,this)" type="checkbox" id="PS_checkbox" name="PS_checkbox">
 </label>
@@ -113,10 +112,10 @@ permalink: "/ects-calculator/"
 
 <input onclick="autoCheck(mandatory5,this)" type="checkbox" id="mandatory5_checkbox" name="mandatory5_checkbox">
 <label style="display: initial;" for="mandatory5_checkbox">Όλα τα υποχρεωτικά - Δ εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(AE5,this)" type="checkbox" id="AE5_checkbox" name="AE5_checkbox">
 <label style="display: initial;" for="AE5_checkbox">Όλα του Α.Ε - Ε εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(PS5,this)" type="checkbox" id="PS5_checkbox" name="PS5_checkbox">
 <label style="display: initial;" for="PS5_checkbox">Όλα του Π.Σ - Ε εξάμηνο</label>
 
@@ -152,10 +151,10 @@ permalink: "/ects-calculator/"
 
 <input onclick="autoCheck(mandatory6,this)" type="checkbox" id="mandatory6_checkbox" name="mandatory6_checkbox">
 <label style="display: initial;" for="mandatory6_checkbox">Όλα τα υποχρεωτικά - ΣΤ εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(AE6,this)" type="checkbox" id="AE6_checkbox" name="AE6_checkbox">
 <label style="display: initial;" for="AE6_checkbox">Όλα του Α.Ε - ΣΤ εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(PS6,this)" type="checkbox" id="PS6_checkbox" name="PS6_checkbox">
 <label style="display: initial;" for="PS6_checkbox">Όλα του Π.Σ - ΣΤ εξάμηνο</label>
 
@@ -192,10 +191,10 @@ permalink: "/ects-calculator/"
 
 <input onclick="autoCheck(mandatory7,this)" type="checkbox" id="mandatory7_checkbox" name="mandatory7_checkbox">
 <label style="display: initial;" for="mandatory7_checkbox">Όλα τα υποχρεωτικά - Ζ εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(AE7,this)" type="checkbox" id="AE7_checkbox" name="AE7_checkbox">
 <label style="display: initial;" for="AE7_checkbox">Όλα του Α.Ε - Ζ εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(PS7,this)" type="checkbox" id="PS7_checkbox" name="PS7_checkbox">
 <label style="display: initial;" for="PS7_checkbox">Όλα του Π.Σ - Ζ εξάμηνο</label>
 
@@ -231,10 +230,10 @@ permalink: "/ects-calculator/"
 </div>
 <input onclick="autoCheck(mandatory8,this)" type="checkbox" id="mandatory8_checkbox" name="mandatory8_checkbox">
 <label style="display: initial;" for="mandatory8_checkbox">Όλα τα υποχρεωτικά - 8 εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(AE8,this)" type="checkbox" id="AE8_checkbox" name="AE8_checkbox">
 <label style="display: initial;" for="AE8_checkbox">Όλα του Α.Ε - Η εξάμηνο</label>
-
+</br>
 <input onclick="autoCheck(PS8,this)" type="checkbox" id="PS8_checkbox" name="PS8_checkbox">
 <label style="display: initial;" for="PS8_checkbox">Όλα του Π.Σ - Η εξάμηνο</label>
 
