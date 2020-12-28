@@ -22,7 +22,7 @@ permalink: "/ects-calculator/"
 <label style="display: initial;" for="AE_checkbox">'Ολα τα Α.Ε</label>
 
 <p><input style="display: initial;" onclick="autoCheck(PS_all,this)" type="checkbox" id="PS_checkbox" name="PS_checkbox">
-<label for="PS_checkbox">Όλα τα Π.Σ</label></p>
+<label style="display: initial;" for="PS_checkbox">Όλα τα Π.Σ</label></p>
 
 
 <div markdown="1"> 
