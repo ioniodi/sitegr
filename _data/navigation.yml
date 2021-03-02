@@ -6,6 +6,8 @@ main:
     url: "/courses/"
   - title: "Εργαστήρια"
     url: "/groups/"
+  - title: "Erasmus+"
+    url: "/erasmus/"
   - title: "Ανακοινώσεις"
     url: "/posts/"
   - title: "Ωρολόγιο Πρόγραμμα"
