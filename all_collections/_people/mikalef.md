@@ -2,7 +2,6 @@
 ref: mikalef
 title: "Πάτρικ Μικάλεφ"
 bio: "Απόφοιτος Διδάκτορας"
-rank: 7
 author: mikalef
 tel: ""
 email: "patrick.mikalef@ntnu.no"

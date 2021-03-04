@@ -425,3 +425,54 @@ hristope-en:
   uri: ""
   bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
   avatar: "/assets/images/hristope.jpg"
+  
+mmarag:
+  name: "Εμμανουήλ Μαραγκουδάκης"
+  email: "mmarag@ionio.gr"
+  uri: ""
+  bio: "Δομές και Βάσεις Δεδομένων"
+  avatar: "/assets/images/mmarag.jpg"
+  tel: "+30 26610 87763"
+  
+  
+mmarag-en:
+  name: "Emanouil Maragkoudakis"
+  email: "mmarag@ionio.gr"
+  uri: ""
+  bio: "Structures and Databases"
+  avatar: "/assets/images/mmarag.jpg"
+  tel: "+30 26610 87763"
+  
+karyotis:
+  name: "Βασίλειος Καρυώτης"
+  email: "karyotis@ionio.gr"
+  uri: "https://scholar.google.gr/citations?user=tZAZEFUAAAAJ&hl=en"
+  bio: "Δικτυοκεντρικά Πληροφοριακά Συστήματα"
+  avatar: "/assets/images/karyotis.jpg"
+  tel: ""
+    
+karyotis-en:
+  name: "Vasileios Karyotis"
+  email: "karyotis@ionio.gr"
+  uri: "https://scholar.google.gr/citations?user=tZAZEFUAAAAJ&hl=en"
+  bio: "Network-based Information Systems"
+  avatar: "/assets/images/karyotis.jpg"
+  tel: ""
+
+dadoyan:
+  name: "Νταντογιάν Χριστόφορος"
+  email: "dadoyan@ionio.gr"
+  uri: "https://di.ionio.gr/en/department/staff/614-ntantogian/"
+  bio: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
+  avatar: "/assets/images/dadoyan.jpg"
+  tel: "+30 26610 87702"
+  cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
+
+dadoyan-en:
+  name: "Ntantogian Christoforos"
+  email: "dadoyan@ionio.gr"
+  uri: "https://di.ionio.gr/en/department/staff/614-ntantogian/"
+  bio: "Computer and Network Security"
+  avatar: "/assets/images/dadoyan.jpg"
+  tel: "+30 26610 87702"
+  cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
