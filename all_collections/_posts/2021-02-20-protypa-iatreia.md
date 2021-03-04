@@ -5,9 +5,9 @@ excerpt: "Πρότυπα Ιατρεία"
 tags:
  - conference
 --- 
-Αντιγράφουμε από το  [**ρεπορτάζ του Αθηναϊκου-Μακεδονικού Πρακτορείου Ειδήσεων**](https://www.amna.gr/mobile/articleen/530517/Kerkura-Protupa-Iatreia-Mnimis-gia-proti-fora-stin-Ellada): 
+![](/assets/images/protypaiatreia.png)
 
-
+Αντιγράφουμε από το  [**ρεπορτάζ του Αθηναϊκου-Μακεδονικού Πρακτορείου Ειδήσεων**](https://www.amna.gr/mobile/articleen/530517/Kerkura-Protupa-Iatreia-Mnimis-gia-proti-fora-stin-Ellada):
 
 Πρότυπα Ιατρεία Μνήμης, καθώς και χάρτες Άνοιας και Ήπιας Γνωστικής Διαταραχής, που θα λειτουργήσουν για πρώτη φορά στην Ελλάδα, ανακοίνωσε η «Ελληνική Πρωτοβουλία Ενάντια στην νόσο Αλτσχάιμερ» (Hellenic Initiative Against Alzheimer’s Disease-HIAAD.org), η οποία απεικονίζει την συνεργασία του Κέντρου Αριστείας Ιατρικής Ακριβείας για τη νόσο Αλτσχάιμερ του Πανεπιστημίου Johns Hopkins των ΗΠΑ και του Εργαστηρίου Βιοπληροφορικής και Ανθρώπινης Ηλεκτροφυσιολογίας του Τμήματος Πληροφορικής, του Ιονίου Πανεπιστημίου (BiHELab).
 
