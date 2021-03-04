@@ -1,7 +1,7 @@
 ---
-title: "Προπτυχιακό Β' Εξάμηνο"
-ref: undergraduate_b
-semester: '2'
+title: "Προπτυχιακό ΣΤ' Εξάμηνο"
+ref: undergraduate_f
+semester: '6'
 timetable:
   - day: "Δευτέρα"
     time: 11
