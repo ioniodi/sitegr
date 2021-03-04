@@ -7,22 +7,22 @@ timetable:
     time: 11
     course: "Στοχαστική Ανάλυση Δεδομένων" 
     author: alex
-    location: [https://opencourses.ionio.gr/courses/DDI213/](https://opencourses.ionio.gr/courses/DDI213/)
+    location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
     time: 13
     course: ai
     author: kerman
-    location: [https://e-class.ionio.gr/courses/NOC122/](https://e-class.ionio.gr/courses/NOC122/)
+    location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
     time: 15
     course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
     author: dadoyan
-    location: [https://opencourses.ionio.gr/courses/DDI135](https://opencourses.ionio.gr/courses/DDI135)
+    location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
     time: 19
     course: soen
     author: choko
-    location: [https://github.com/courses-ionio/sw](https://github.com/courses-ionio/sw)
+    location: "Εξ αποστάσεως"
     
   - day: "Τρίτη"
     time: 11
