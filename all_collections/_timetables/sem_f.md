@@ -89,7 +89,7 @@ timetable:
   - day: "Πέμπτη"
     time: 9
     course: soen
-    author: choko
+    author: riggas
     location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 11
@@ -116,7 +116,7 @@ timetable:
     time: 9
     course: "Βιοπληροφορική"
     author: "Γ. Κατωμέρης"
-    location: "Αμφιθέατρο 2"
+    location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 11
     course: ai
