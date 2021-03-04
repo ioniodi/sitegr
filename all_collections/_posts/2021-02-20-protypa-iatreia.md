@@ -5,7 +5,7 @@ excerpt: "Πρότυπα Ιατρεία"
 tags:
  - conference
 --- 
-Αντιγράφουμε από το  [**ρεπορτάζ του Αθηναϊκου-Μακεδονικού Πρακτορείου Ειδήσεων**](https://www.amna.gr/mobile/articleen/530517/Kerkura-Protupa-Iatreia-Mnimis-gia-proti-fora-stin-Ellada):
+Αντιγράφουμε από το  [**ρεπορτάζ του Αθηναϊκου-Μακεδονικού Πρακτορείου Ειδήσεων**](https://www.amna.gr/mobile/articleen/530517/Kerkura-Protupa-Iatreia-Mnimis-gia-proti-fora-stin-Ellada): 
 
 
 
