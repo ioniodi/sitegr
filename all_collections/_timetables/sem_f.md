@@ -25,82 +25,117 @@ timetable:
     location: "Εξ αποστάσεως"
     
   - day: "Τρίτη"
-    time: 11
-    course: discrete-mathematics
+    time: 9
+    course: pattern-recognition
     author: vlamos
-    location: "Αμφιθέατρο 1"
+    location: "Εξ αποστάσεως"
+  - day: "Τρίτη"
+    time: 11
+    course: distributed-network-systems
+    author: hristope
+    location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 13
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    course: distributed-network-systems
+    author: okon
+    location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 15
-    course: computer-programming
-    author: mistral
-    location: "Εργαστήριο Γαληνός"
+    course: internet-technologies
+    author: dtsouma
+    location: "Εξ αποστάσεως"
+  - day: "Τρίτη"
+    time: 17
+    course: "Συστήματα Υποστήριξης Αποφάσεων"
+    author: exarchos
+    location: "Εξ αποστάσεως"
+  - day: "Τρίτη"
+    time: 19
+    course: "Θεωρία Γραφημάτων και Εφαρμογές"
+    author: karyotis
+    location: "Εξ αποστάσεως"
 
   - day: "Τετάρτη"
     time: 9
-    course: discrete-mathematics
-    author: vlamos
-    location: "Αμφιθέατρο 1"
+    course: "Θεωρία Γραφημάτων και Εφαρμογές"
+    author: karyotis
+    location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 11
-    course: theory-of-propability
-    author: alex
-    location: "Εργαστήριο Γαληνός"
+    course: "Βιοπληροφορική"
+    author: vlamos
+    location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 13
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    course: ai
+    author: kerman
+    location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 15
-    course: ba
-    author: doukakis
-    location: "Αμφιθέατρο 2"
+    course: "Συστήματα Υποστήριξης Αποφάσεων"
+    author: exarchos
+    location: "Εξ αποστάσεως"
+  - day: "Τετάρτη"
+    time: 17
+    course: internet-technologies
+    author: dtsouma
+    location: "Εξ αποστάσεως"
+  - day: "Τετάρτη"
+    time: 19
+    course: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
+    author: dadoyan
+    location: "Εξ αποστάσεως"
 
   - day: "Πέμπτη"
+    time: 9
+    course: soen
+    author: choko
+    location: "Εξ αποστάσεως"
+  - day: "Πέμπτη"
+    time: 11
+    course: information-retrieval
+    author: riggas
+    location: "Εξ αποστάσεως"
+  - day: "Πέμπτη"
     time: 13
-    course: discrete-mathematics
-    author: "Γ. Κατωμέρης"
-    location: "Εργαστήριο Γαληνός"
+    course: "Στοχαστική Ανάλυση Δεδομένων"
+    author: avlon
+    location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 15
-    course: ba
-    author: doukakis
-    location: "Αμφιθέατρο 2"
+    course: internet-technologies
+    author: dtsouma
+    location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 17
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
-  - day: "Πέμπτη"
-    time: 19
-    course: computer-programming
-    author: andronikos
-    location: "Αμφιθέατρο 1"
+    course: "Βιοπληροφορική"
+    author: exarchos
+    location: "Εξ αποστάσεως"
   
   - day: "Παρασκευή"
-    time: 11
-    course: theory-of-propability
-    author: avlon
+    time: 9
+    course: "Βιοπληροφορική"
+    author: "Γ. Κατωμέρης"
     location: "Αμφιθέατρο 2"
   - day: "Παρασκευή"
-    time: 13
-    course: discrete-mathematics
-    author: "Γ. Κατωμέρης"
-    location: "Εργαστήριο Γαληνός"
+    time: 11
+    course: ai
+    author: riggas
+    location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
-    time: 15
-    course: "Αγγλικά ΙΙ"
-    author: "Σ. Κοζομπόλης"
-    location: "Αίθουσα 1"
+    time: 13
+    course: pattern-recognition
+    author: "Γ. Κατωμέρης"
+    location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 17
-    course: data-structures
-    author: "Α. Σωτηροπούλου"
-    location: "Εργαστήριο Γαληνός"
+    course: distributed-network-systems
+    author: hristope
+    location: "Εξ αποστάσεως"
+  - day: "Παρασκευή"
+    time: 19
+    course: information-retrieval
+    author: mmarag
+    location: "Εξ αποστάσεως"
 ---
 
