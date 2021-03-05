@@ -1,6 +1,6 @@
 ---
 ref: bioinformatics
-title: "Ασφάλεια Δικτύων Υπολογιστών και Επικοινωνιών"
+title: "Βιοπληροφορική"
 author: vlamos
 excerpt: ""
 uri: "https://opencourses.ionio.gr/courses/DDI225/"
