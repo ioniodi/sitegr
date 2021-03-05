@@ -20,7 +20,7 @@ uri: "https://opencourses.ionio.gr/courses/DDI213/"
 code: HY-663
 type: "Ο"
 hours: 4
-extra: "-"
+extra: "2"
 ects: 4
 ---
 
