@@ -1,7 +1,7 @@
 ---
 ref: Haris
 title: "Χάρης Μουρατίδης"
-bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+bio: "Prof of Software Systems Engineering School of Computing, Engineering and Maths"
 rank: 5
 author: 
 email: "H.Mouratidis@brighton.ac.uk"
