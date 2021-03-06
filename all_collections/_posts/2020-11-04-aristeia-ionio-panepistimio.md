@@ -7,7 +7,7 @@ header:
 tags:
  - conference
 --- 
-![useful image]({{ https://github.com/p18mant/sitegr/blob/2018217 }}/assets/aristeia.jpg)
+![] (https://github.com/p18mant/sitegr/blob/2018217/assets/aristeia.jpg)
 
 **4 Νοεμβρίου 2020**:  
 **Στην κορυφή της Υποστήριξης της Περιφερειακής Αριστείας το Ιόνιο Πανεπιστήμιο.**
