@@ -1,5 +1,5 @@
 ---
-ref: Applied Programming with Python
+ref: applied-programming-with-python
 title: "Εφαρμοσμένος Προγραμματισμός με Python"
 semester: 2
 author: karydis
