@@ -5,7 +5,7 @@ author: vlamos
 excerpt: "- Το μάθημα δεν διαθέτει περιγραφή -"
 code: HY-715
 semester: 6
-type: "	Επιλογής"
+type: "Ο"
 hours: 4
 extra: null
 ects: 4
