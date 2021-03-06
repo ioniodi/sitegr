@@ -476,3 +476,21 @@ dadoyan-en:
   avatar: "/assets/images/dadoyan.jpg"
   tel: "+30 26610 87702"
   cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
+  
+sotan:
+  name: "Σωτηροπούλου Άννα"
+  email: "annasoti@ionio.gr"
+  uri: "https://di.ionio.gr/gr/department/staff/490-sotiropoulou/"
+  bio: "Βάσεις δεδομένων και Πληροφοριακά Συστήματα"
+  avatar: "/assets/images/sotan.jpg"
+  tel: "+30 26610 87869"
+  cv: ""
+
+sotan-en:
+  name: "Ntantogian Christoforos"
+  email: "annasoti@ionio.gr"
+  uri: "https://di.ionio.gr/en/department/staff/490-sotiropoulou/"
+  bio: "Databases and Information Systems"
+  avatar: "/assets/images/sotan.jpg"
+  tel: "+30 26610 87869"
+  cv: ""
