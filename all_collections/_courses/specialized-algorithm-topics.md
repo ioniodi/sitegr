@@ -8,7 +8,7 @@ code: HY-760
 semester: 7
 type: "O"
 hours: 4
-extra: "-"
+extra:
 ects: 4
 books: 
 ---
