@@ -6,13 +6,13 @@ excerpt: "To μάθημα Αναλυτική Δεδομένων Υγείας έ�
 uri: "https://e-class.ionio.gr/courses/DCS298/"
 code: ΗΥ002
 semester: 5
-type: "O"
+type: "Ο"
 hours: 4
 extra: 
 ects: 4
 books:
   - isbn_978_960_92645_1_4
   - isbn_978_960_6080_00_5
-  - isbn_978_960_02_3264_6 
+  - isbn_978_960_02_3264_6
   - isbn_978_960_603_497_8
 ---
