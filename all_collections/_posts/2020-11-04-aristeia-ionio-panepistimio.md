@@ -6,7 +6,7 @@ tags:
  - conference
 --- 
 
-![aristeia foto] (https://github.com/p18mant/hci/blob/2018217/projects/2018217/Capture3.jpg)
+!(https://github.com/p18mant/sitegr/blob/2018217/assets/images/aristeia.jpg)
 
 **4 Νοεμβρίου 2020**:  
 **Στην κορυφή της Υποστήριξης της Περιφερειακής Αριστείας το Ιόνιο Πανεπιστήμιο.**
