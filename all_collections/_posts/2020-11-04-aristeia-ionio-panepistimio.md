@@ -5,8 +5,7 @@ excerpt: "Εξέχουσα επιτυχία σημείωσε το Ιόνιο Π�
 tags:
  - conference
 --- 
-
-(https://github.com/p18mant/sitegr/blob/2018217/assets/images/aristeia.jpg)
+![useful image]({{ https://github.com/p18mant/sitegr/blob/2018217 }}/assets/aristeia.jpg)
 
 **4 Νοεμβρίου 2020**:  
 **Στην κορυφή της Υποστήριξης της Περιφερειακής Αριστείας το Ιόνιο Πανεπιστήμιο.**
