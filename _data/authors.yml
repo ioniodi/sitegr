@@ -295,7 +295,7 @@ alex:
  email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
- avatar: "/assets/images/nophoto.jpg"
+ avatar: "/assets/images/alex.jpg"
  tel: "+30 26610 87754"
 
  alex-en:
@@ -303,7 +303,7 @@ alex:
  email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
- avatar: "/assets/images/nophoto.jpg"
+ avatar: "/assets/images/alex.jpg"
  tel: "+30 26610 87754"
 
 svoul:
