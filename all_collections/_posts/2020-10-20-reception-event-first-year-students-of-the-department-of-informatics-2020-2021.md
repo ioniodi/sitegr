@@ -15,7 +15,7 @@ categories:
 Η εκδήλωση θα πραγματοποιηθεί την Παρασκευή 23/10, ώρα 13.00, μέσω τηλεδιάσκεψης Zoom:
 
 e-Αίθουσα: Join Zoom Meeting
-https://zoom.us/j/97977462615?pwd=NEowcDZLdU00T0RndXAyd1BkeHh0UT09
+[https://zoom.us/j/97977462615?pwd=NEowcDZLdU00T0RndXAyd1BkeHh0UT09](https://zoom.us/j/97977462615?pwd=NEowcDZLdU00T0RndXAyd1BkeHh0UT09)
 
 MeetingID: 979 7746 2615
 
