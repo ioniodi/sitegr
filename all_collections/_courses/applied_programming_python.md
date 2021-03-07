@@ -8,7 +8,7 @@ uri: "https://opencourses.ionio.gr/courses/DDI212/"
 code: ΗΥ135
 type: "Ο"
 hours: 4
-extra: 2Ε
+extra: 2E
 ects: 4
 books:
   - isbn_978_960_97320_7_9
