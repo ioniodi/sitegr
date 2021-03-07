@@ -14,7 +14,7 @@ excerpt:
 - Κάνει σχεδίαση και κατασκευή πολυμεσικών εφαρμογών"
 
 uri: "https://opencourses.ionio.gr/courses/DDI208/"
-code:HY-630
+code: HY-630
 semester: 5
 type: "H"
 hours: 4
