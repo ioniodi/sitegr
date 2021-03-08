@@ -366,18 +366,18 @@ wegner-en:
 
 riggas:
   name: "Δημήτριος Ρίγγας"
-  email: ""
+  email: "riggas@ionio.gr"
   uri: ""
   bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής Ιονίου Πανεπιστημίου"
-  avatar: "/assets/images/nophoto.jpg"
+  avatar: "/assets/images/riggas.jpg"
   tel: ""
 
 riggas-en:
   name: "Dimitrios Riggas"
-  email: ""
+  email: "riggas@ionio.gr"
   uri: ""
   bio: "Academic Scholar Ionian University Department of Informatics"
-  avatar: "/assets/images/nophoto.jpg"
+  avatar: "/assets/images/riggas.jpg"
   tel: ""
 
 doukakis:
