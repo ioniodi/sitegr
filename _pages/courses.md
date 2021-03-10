@@ -97,7 +97,7 @@ permalink: "/courses/"
 
 ## Μαθήματα Επιλογής
 
-{% include collection-sort.html i = 7 l = 'courses' c_type = "Ο" %}
+{% include collection-sort.html i = 7 l = 'courses' c_type = "O" %}
 
 ## **Η' ΕΞΑΜΗΝΟ**
 
