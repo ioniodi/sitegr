@@ -6,7 +6,7 @@ excerpt: "Βασικές έννοιες για τους πολυνηματικο
 uri: "https://opencourses.ionio.gr/courses/DDI210/"
 code: HY-760
 semester: 7
-type: "O"
+type: "Ο"
 hours: 4
 extra:
 ects: 4
