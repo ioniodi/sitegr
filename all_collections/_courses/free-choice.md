@@ -1,6 +1,6 @@
 ---
 ref: free-choice
-title: "Ελεύρη Επιλογή"
+title: "Ελεύθερη Επιλογή"
 semester: 2
 author: 
 excerpt: "Μάθημα από άλλο Tμήμα του Ιονίου Πανεπιστημίου."
