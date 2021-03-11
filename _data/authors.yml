@@ -476,3 +476,17 @@ dadoyan-en:
   avatar: "/assets/images/dadoyan.jpg"
   tel: "+30 26610 87702"
   cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
+  
+mouratidis:
+ name: "Χάρης Μουρατίδης"
+ email: "H.Mouratidis@brighton.ac.uk"
+ uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
+ bio: "Σχεδίαση Πληροφοριακών Συστημάτων, Τεχνολογίες Λογισμικού, Τεχνολογίες Απαιτήσεων, Ασφάλεια και ιδιωτικότητα"
+ avatar: "/assets/images/mouratidis.jpg"
+ 
+mouratidis-en:
+ name: "Haris Mouratidis"
+ email: "H.Mouratidis@brighton.ac.uk"
+ uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
+ bio: "Prof of Software Systems Engineering"
+ avatar: "/assets/images/mouratidis.jpg"
