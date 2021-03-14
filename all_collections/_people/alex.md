@@ -16,3 +16,4 @@ research:
 ### education:
   - "BEng Software Engineering, Univerisity of Wales, Aberystwyth"
   - "MSc E-Commerce Technology, Essex University"
+  - "PhD "Efficient Query processing in Distributed Database Systems", Ionian University"

@@ -1,18 +1,21 @@
 ---
 ref: smart-technologies-and-applications
-title: "Έξυπνα περιβάλλοντα και εφαρμογές"
-author: choko
-excerpt: "Tεχνολογία των έξυπνων περιβαλλόντων. Η open–source πλατφόρμα Arduino. Αρχιτεκτονικές Εφαρμογών Arduino. Τεχνολογίες και εφαρμογές εξυπνου σπιτιού (smart home). Κυκλώματα αισθητήρων και ασύρματων συσκευών. Ανάπτυξη διαδραστικών εφαρμογών έξυπνου περιβάλλοντος. Ορισμός και εφαρμογές του Internet of Things (IoT). Χρήση Open–Source Πλατφόρμας Arduino. Άλλες πλατφόρμες ανάπτυξης εξυπνων εφαρμογών."
-uri: "https://e-class.ionio.gr/courses/DCS287/"
-code: 
+title: "Έξυπνα Περιβάλλοντα και Εφαρμογές"
+author: hristope  
+excerpt: "H περιοχή της Επεξεργασίας της Πληροφορίας σε Σύγχρονες Εφαρμογές ασχολείται με τη συλλογή, διαχείριση, οργάνωση και επεξεργασία δεδομένων και πληροφορίας σε σύγχρονα περιβάλλοντα και εφαρμογές. Έξυπνες εφαρμογές στις κατοικίες και στην παραγωγή. Το διαδίκτυο των πραγμάτων (Internet of Things IoT). Physical Computing. Δημιουργία προτύπων συστημάτων συλλογής πληροφοριών από το περιβάλλον και επέμβασης σ' αυτό, με χρήση της πλατφόρμας Arduino."
+uri: "https://opencourses.ionio.gr/courses/DDI196/"
+code: HY-005
 semester: 8
-type: "Ο"
+type: "Μάθημα Επιλογής"
 hours: 4
 extra: 2Ε
 ects: 4
-books:
+books: 
 
 ---
 
-- νάπτυξη Εφαρμογών με το Adruino", Π. Παπάζογλου, Σ. Λιωνής, 1η έκδοση, Εκδόσεις Α. Τζιόλα & Υιοι Α.Ε., 2014.
-- esearch and application on the smart home based on component technologies and Internet of Things.", Li, B., & Yu, J. (2011).Procedia Engineering, 15, 2087-2092.
+- Οι φοιτητές κάνουν εγγραφή στην ομάδα του μαθήματος μέσω της εφαρμογής <a href="https://www.tinkercad.com/">Tinkercard</a> για την πραγματοποίηση των εργασιών τους.
+- Παπάζογλου Παναγιώτης, Λιωνής Σπυρίδων-Πολυχρόνης, Ανάπτυξη Εφαρμογών με το Arduino, 2η Εκδοση, Εκδόσεις Α. Τζιόλα & Υιοί ΑΕ, 2018.
+- Poslad Stefan, Ubiquitous Computing: Smart Devices, Environments and Interactions, Wiley, 2009.
+- Greenfield Adam, Everyware: The dawning age of ubiquitous computing, 2006.
+- Greengard Samuel, The Internet of Things. The MIT Press, 2015.
