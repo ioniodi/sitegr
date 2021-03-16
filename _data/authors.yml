@@ -295,7 +295,7 @@ alex:
  email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
- avatar: "/assets/images/nophoto.jpg"
+ avatar: "/assets/images/alex.jpg"
  tel: "+30 26610 87754"
 
  alex-en:
@@ -303,7 +303,7 @@ alex:
  email: "alex@ionio.gr"
  uri: "http://users.ionio.gr/~alex/"
  bio: "Laboratory Teaching Staff (Ε.ΔΙ.Π.)"
- avatar: "/assets/images/nophoto.jpg"
+ avatar: "/assets/images/alex.jpg"
  tel: "+30 26610 87754"
 
 svoul:
@@ -366,18 +366,18 @@ wegner-en:
 
 riggas:
   name: "Δημήτριος Ρίγγας"
-  email: ""
+  email: "riggas@ionio.gr"
   uri: ""
   bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής Ιονίου Πανεπιστημίου"
-  avatar: "/assets/images/nophoto.jpg"
+  avatar: "/assets/images/riggas.jpg"
   tel: ""
 
 riggas-en:
   name: "Dimitrios Riggas"
-  email: ""
+  email: "riggas@ionio.gr"
   uri: ""
   bio: "Academic Scholar Ionian University Department of Informatics"
-  avatar: "/assets/images/nophoto.jpg"
+  avatar: "/assets/images/riggas.jpg"
   tel: ""
 
 doukakis:
@@ -476,3 +476,17 @@ dadoyan-en:
   avatar: "/assets/images/dadoyan.jpg"
   tel: "+30 26610 87702"
   cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00614-32812-en.pdf"
+  
+mouratidis:
+ name: "Χάρης Μουρατίδης"
+ email: "H.Mouratidis@brighton.ac.uk"
+ uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
+ bio: "Σχεδίαση Πληροφοριακών Συστημάτων, Τεχνολογίες Λογισμικού, Τεχνολογίες Απαιτήσεων, Ασφάλεια και ιδιωτικότητα"
+ avatar: "/assets/images/mouratidis.jpg"
+ 
+mouratidis-en:
+ name: "Haris Mouratidis"
+ email: "H.Mouratidis@brighton.ac.uk"
+ uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
+ bio: "Prof of Software Systems Engineering"
+ avatar: "/assets/images/mouratidis.jpg"
