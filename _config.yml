@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # theme                    : minimal-ionio-jekyll # FOR LOCAL DEVELOPMENT PLEASE READ THE DOCS
-remote_theme             : p16andr/minimal-ionio
+remote_theme             : ioniodi/minimal-ionio
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "cloud"
 
 # Site Settings
