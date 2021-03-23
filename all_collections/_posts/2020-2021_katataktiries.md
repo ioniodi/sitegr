@@ -7,12 +7,12 @@ tags:
 ---
 
 
-# ΚΑΤΑΤΑΚΤΗΡΙΕΣ
+ΚΑΤΑΤΑΚΤΗΡΙΕΣ
 
-### [Ανακοίνωση 1 - Κατατακτήριες Εξετάσεις 2020-2021 [PDF]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-59510-gr.pdf)
+[Ανακοίνωση 1 - Κατατακτήριες Εξετάσεις 2020-2021 [PDF]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-59510-gr.pdf)
 
-### [Ανακοίνωση 2 - Κατατακτήριες Εξετάσεις 2020-2021 [PDF]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-17987-gr.pdf)
+[Ανακοίνωση 2 - Κατατακτήριες Εξετάσεις 2020-2021 [PDF]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-17987-gr.pdf)
 
-### [Υπεύθυνη δήλωση πρωτοετών [WRD]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-99217-gr.doc)
+[Υπεύθυνη δήλωση πρωτοετών [WRD]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-99217-gr.doc)
 
-### [Αίτηση εγγραφής πρωτοετών [WRD]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-12799-gr.doc)
+[Αίτηση εγγραφής πρωτοετών [WRD]](httpsionio.grdownload.phpf=00001-00999IU-pf-00700-12799-gr.doc)
