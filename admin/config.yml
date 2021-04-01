@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  repo: p16andr/site-gr
-  branch: demo-branch
+  repo: ioniodi/site-gr
+  branch: master
 
 media_folder: "assets/images/uploads/"
 public_folder: "uploads"
