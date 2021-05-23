@@ -1,5 +1,5 @@
 ---
-ref: soen
+ref: data-visualization
 title: "Χωρικές Βάσεις Δεδομένων και Γεωγραφικά Πληροφοριακά Συστήματα"
 semester: 8
 author: apostoloskp
