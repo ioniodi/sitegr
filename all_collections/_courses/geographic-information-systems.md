@@ -8,7 +8,7 @@ uri: "-"
 code: ΗΥ610
 type: "O"
 hours: 4
-extra: 2E
+extra: -
 ects: 4
 books:
   - not found
