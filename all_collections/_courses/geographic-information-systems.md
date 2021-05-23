@@ -2,7 +2,7 @@
 ref: data-visualization
 title: "Χωρικές Βάσεις Δεδομένων και Γεωγραφικά Πληροφοριακά Συστήματα"
 semester: 8
-author: -
+author: not found
 excerpt: "Χωρικές Βάσεις Δεδομένων και Γεωγραφικά Πληροφοριακά Συστήματα."
 uri: "-"
 code: ΗΥ610
