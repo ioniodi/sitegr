@@ -12,5 +12,4 @@ extra: 0
 ects: 4
 books:
   - not found
-  - not found
 ---
