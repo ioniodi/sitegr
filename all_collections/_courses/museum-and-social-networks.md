@@ -11,5 +11,4 @@ hours: 3
 extra: 0
 ects: 4
 books:
-  - unavailable
 ---
