@@ -490,3 +490,10 @@ mouratidis-en:
  uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
  bio: "Prof of Software Systems Engineering"
  avatar: "/assets/images/mouratidis.jpg"
+ 
+vrahatis:
+ name: "Αριστείδης Βραχάτης"
+ email: "aris.vrahatis@ionio.gr"
+ uri: "https://sites.google.com/view/arisgvrahatis/"
+ bio: "Τεχνητή Νοημοσύνη στη Μοντελοποίηση Πολύπλοκων Συστημάτων"
+ avatar: "/assets/images/vrahatis.jpg"
