@@ -384,16 +384,16 @@ doukakis:
   name: "Σπυρίδων Δουκάκης"
   email: "sdoukakis@ionio.gr"
   uri: ""
-  bio: "Ακαδημαϊκός Υπότροφος Τμήματος Πληροφορικής"
+  bio: "Επίκουρος Καθηγητής Τμήματος Πληροφορικής"
   avatar: "/assets/images/doukakis.png"
   tel: ""
 
 doukakis-en:
   name: "Spiridon Doukakis"
-  email: ""
+  email: "sdoukakis@ionio.gr"
   uri: ""
-  bio: "Academic Scholar Department of Informatics"
-  avatar: "/assets/images/nophoto.jpg"
+  bio: "Assistant Professor Department of Informatics"
+  avatar: "/assets/images/doukakis.png"
   tel: ""
  
 exarchos-en:
