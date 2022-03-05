@@ -17,8 +17,7 @@ intro:
 ---
 
 
-  {% include dynamic.html id="posts" category="Posts" index=0 %}
-  
+  {% include dynamic.html id="posts" category="Posts" index=0 %} 
 
   {% assign random = site.time | date: "%s%N" | modulo: site.projects.size %}
 
