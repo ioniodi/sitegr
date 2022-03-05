@@ -430,7 +430,7 @@ mmarag:
   name: "Εμμανουήλ Μαραγκουδάκης"
   email: "mmarag@ionio.gr"
   uri: ""
-  bio: "Δομές και Βάσεις Δεδομένων"
+  bio: "Βάσεις Δεδομένων, Ανάκτηση Πληροφορίας, Επιστήμη των Δεδομένων"
   avatar: "/assets/images/mmarag.jpg"
   tel: "+30 26610 87763"
   
@@ -439,7 +439,7 @@ mmarag-en:
   name: "Emanouil Maragkoudakis"
   email: "mmarag@ionio.gr"
   uri: ""
-  bio: "Structures and Databases"
+  bio: "Databases, Information Retrieval, Data Science"
   avatar: "/assets/images/mmarag.jpg"
   tel: "+30 26610 87763"
   
