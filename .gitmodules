@@ -1,0 +1,3 @@
+[submodule "all_collections"]
+	path = all_collections
+	url = git@github.com:KonstantinosTourtsakis/all_collections.git
