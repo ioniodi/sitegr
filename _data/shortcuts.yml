@@ -59,9 +59,6 @@ categories:
       - name: NMSLab
         url: http://nmslab.di.ionio.gr
         external: true
-      - name: QUITLab
-        url: http://quit.di.ionio.gr
-        external: true
   - name: Χρησιμοί Σύνδεσμοι
     base_url:
     links:
