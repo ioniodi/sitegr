@@ -81,3 +81,6 @@ categories:
         url: https://service.eudoxus.gr/
       - name: Contact
         url: /contact/
+      - name: Ionian University 
+        url: https://ionio.gr
+        external: true
