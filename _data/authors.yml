@@ -490,3 +490,13 @@ mouratidis-en:
  uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
  bio: "Prof of Software Systems Engineering"
  avatar: "/assets/images/mouratidis.jpg"
+ 
+voglis:
+ name: "Κωνσταντίνος Βόγκλης"
+ email: "voglis@ionio.gr"
+ avatar: "/assets/images/nophoto.jpg"
+
+voglis-en:
+ name: "Konstantinos Vogklis"
+ email: "voglis@ionio.gr"
+ avatar: "/assets/images/nophoto.jpg"
