@@ -500,3 +500,22 @@ voglis-en:
  name: "Konstantinos Vogklis"
  email: "voglis@ionio.gr"
  avatar: "/assets/images/nophoto.jpg"
+
+vrahatis:
+ name: "Αριστείδης Βραχάτης"
+ email: "aris.vrahatis@ionio.gr"
+ uri: "https://sites.google.com/view/arisgvrahatis/"
+ bio: "Τεχνητή Νοημοσύνη στη Μοντελοποίηση Πολύπλοκων Συστημάτων"
+ avatar: "/assets/images/vrahatis.png"
+ tel: "+30 2661087702"
+ cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00737-82642-gr.pdf"
+
+vrahatis-en:
+ name: "Aristidis Vrahatis"
+ email: "aris.vrahatis@ionio.gr"
+ uri: "https://sites.google.com/view/arisgvrahatis/"
+ bio: "Artificial Intelligence in Modeling Complex Systems"
+ avatar: "/assets/images/vrahatis.png"
+ tel: "+30 2661087702"
+ cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00737-82642-gr.pdf"
+ 
