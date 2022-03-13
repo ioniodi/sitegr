@@ -68,8 +68,8 @@ categories:
       - name: WebMail
         url: https://webmail.ionio.gr/
         external: true
-      - name: Gram-Web
-        url: http://gram-web.ionio.gr/unistudent/login.asp
+      - name: Dias
+        url: https://dias.ionio.gr/
         external: true
       - name: Dreamspark 
         url: https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=1e1f8b5d-849b-e011-969d-0030487d8897&vsro=8&JSEnabled=1
