@@ -59,9 +59,6 @@ categories:
       - name: NMSLab
         url: http://nmslab.di.ionio.gr
         external: true
-      - name: QUITLab
-        url: http://quit.di.ionio.gr
-        external: true
   - name: Χρησιμοί Σύνδεσμοι
     base_url:
     links:
@@ -71,8 +68,8 @@ categories:
       - name: WebMail
         url: https://webmail.ionio.gr/
         external: true
-      - name: Gram-Web
-        url: http://gram-web.ionio.gr/unistudent/login.asp
+      - name: Dias
+        url: https://dias.ionio.gr/
         external: true
       - name: Dreamspark 
         url: https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=1e1f8b5d-849b-e011-969d-0030487d8897&vsro=8&JSEnabled=1
@@ -81,3 +78,6 @@ categories:
         url: https://service.eudoxus.gr/
       - name: Contact
         url: /contact/
+      - name: Ionian University 
+        url: https://ionio.gr
+        external: true
