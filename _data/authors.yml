@@ -490,3 +490,11 @@ mouratidis-en:
  uri: "https://research.brighton.ac.uk/en/persons/haris-mouratidis"
  bio: "Prof of Software Systems Engineering"
  avatar: "/assets/images/mouratidis.jpg"
+
+tsipis:
+ name: "Αθανάσιος Τσίπης"
+ email: "atsipis@ionio.gr"
+ 
+ tsipis-en:
+ name: "Athanasios Tsipis"
+ email: "atsipis@ionio.gr"
