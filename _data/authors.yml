@@ -519,3 +519,14 @@ vrahatis-en:
  tel: "+30 2661087702"
  cv: "https://ionio.gr/download.php?f=00001-00999/IU-sf-00737-82642-gr.pdf"
  
+atsipis:
+ name: "Αθανάσιος Τσίπης"
+ email: "atsipis@ionio.gr"
+ bio: "Information Systems"
+ avatar: "/assets/images/atsipis.png"
+ 
+ atsipis-en:
+ name: "Athanasios Tsipis"
+ email: "atsipis@ionio.gr"
+ bio: "Information Systems"
+ avatar: "/assets/images/atsipis.png"
