@@ -15,9 +15,9 @@ title                    : "Τμήμα Πληροφορικής"
 title_separator          : "-"
 name                     : ""
 description              : ""
-url                      : ""
+url                      : "https://effulgent-monstera-b09933.netlify.app/"
 baseurl                  : ""
-repository               : "ioniodi/site-gr"
+repository               : "Genti-voka/site-gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
