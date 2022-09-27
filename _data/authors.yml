@@ -530,3 +530,17 @@ atsipis:
  email: "atsipis@ionio.gr"
  bio: "Information Systems"
  avatar: "/assets/images/atsipis.png"
+ 
+ atsohou:
+ name: "Αγγελική Τσώχου"
+ email: "atsohou@ionio.grr"
+ bio: "Ασφάλεια και Ιδιωτικότητα σε Πληροφοριακά Συστήματα"
+ avatar: "/assets/images/atsohou.png"
+ tel: "+30 2661087705"
+ 
+ atsohou-en:
+ name: "Aggeliki Tsohou"
+ email: "atsohou@ionio.gr"
+ bio: "Security and Privacy in Information Systems"
+ avatar: "/assets/images/atsohou.png"
+ tel: "+30 2661087705"
