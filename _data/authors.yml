@@ -530,3 +530,19 @@ atsipis:
  email: "atsipis@ionio.gr"
  bio: "Information Systems"
  avatar: "/assets/images/atsipis.png"
+
+asotir:
+ name: "Άννα Σωτηροπούλου"
+ email: "annasoti@ionio.gr"
+ uri: "https://di.ionio.gr/en/department/staff/490-sotiropoulou/"
+ bio: "Τεχνητή Νοημοσύνη στη Μοντελοποίηση Πολύπλοκων Συστημάτων"
+ avatar: "/assets/images/asotir.jps"
+ tel:  "+30 2661087768"
+
+asotir-en:
+ name: "Anna Sotiropoulou"
+ email: "annasoti@ionio.gr"
+ uri: "https://di.ionio.gr/en/department/staff/490-sotiropoulou/"
+ bio: "Τεχνητή Νοημοσύνη στη Μοντελοποίηση Πολύπλοκων Συστημάτων"
+ avatar: "/assets/images/asotir.jps"
+ tel:  "+30 2661087768"
