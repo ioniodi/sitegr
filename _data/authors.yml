@@ -549,12 +549,12 @@ atsipis:
  name: "Γιώργος Κατωμέρης"
  email: "gkatomeris@ionio.gr"
  bio: "Εφαρμοσμένα μαθηματικά μοντέλα στην Πληροφορική"
- avatar: "/assets/images/gkatomeris.jpg"
+
  
  
  gkatomeris-en:
  name: "Giorgos Katomeris"
- email: "atsohou@ionio.gr"
+ email: "gkatomeris@ionio.gr"
  bio: "Applied and Computational Mathematics"
- avatar: "/assets/images/gkatomeris.jpg"
+
 
