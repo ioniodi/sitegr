@@ -533,7 +533,7 @@ atsipis:
  
  atsohou:
  name: "Αγγελική Τσώχου"
- email: "atsohou@ionio.grr"
+ email: "atsohou@ionio.gr"
  bio: "Ασφάλεια και Ιδιωτικότητα σε Πληροφοριακά Συστήματα"
  avatar: "/assets/images/atsohou.jpg"
  tel: "+30 2661087705"
@@ -544,3 +544,17 @@ atsipis:
  bio: "Security and Privacy in Information Systems"
  avatar: "/assets/images/atsohou.jpg"
  tel: "+30 2661087705" 
+ 
+  gkatomeris:
+ name: "Γιώργος Κατωμέρης"
+ email: "gkatomeris@ionio.gr"
+ bio: "Εφαρμοσμένα μαθηματικά μοντέλα στην Πληροφορική"
+ avatar: "/assets/images/gkatomeris.jpg"
+ 
+ 
+ gkatomeris-en:
+ name: "Giorgos Katomeris"
+ email: "atsohou@ionio.gr"
+ bio: "Applied and Computational Mathematics"
+ avatar: "/assets/images/gkatomeris.jpg"
+
