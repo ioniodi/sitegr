@@ -530,3 +530,15 @@ atsipis:
  email: "atsipis@ionio.gr"
  bio: "Information Systems"
  avatar: "/assets/images/atsipis.png"
+ 
+ asotiropoulou:
+ name: "Άννα Σωτηροπούλου"
+ email: "annasoti@ionio.gr"
+ bio: "Βάσεις δεδομένων και πληροφοριακά συστήματα"
+ avatar: "/assets/images/asotiropoulou.png"
+ 
+ asotiropoulou-en:
+ name: "Anna Sotiropoulou"
+ email: "annasoti@ionio.gr"
+ bio: "Analysis and Design of Information Systems"
+ avatar: "/assets/images/asotiropoulou.png"
