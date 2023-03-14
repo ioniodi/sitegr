@@ -530,3 +530,15 @@ atsipis:
  email: "atsipis@ionio.gr"
  bio: "Information Systems"
  avatar: "/assets/images/atsipis.png"
+ 
+dmouratidi:
+ name: "Δέσποινα Μουρατίδη"
+ email: "dmouratidi@gmail.com"
+ bio: ""
+ avatar: "/assets/images/dmouratidi.jpg"
+ 
+ dmouratidi-en:
+ name: "Despoina Mouratidi"
+ email: "dmouratidi@gmail.com"
+ bio: ""
+ avatar: "/assets/images/dmouratidi.jpg"
