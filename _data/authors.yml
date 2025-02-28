@@ -542,3 +542,10 @@ dmouratidi:
  email: "dmouratidi@gmail.com"
  bio: ""
  avatar: "/assets/images/dmouratidi.jpg"
+
+kanavos:
+ name: "Ανδρέας Καναβός"
+ email: "akanavos@ionio.gr"
+ bio: "Δομές και Βάσεις Δεδομένων"
+ tel: "30 2661087763"
+ avatar: "/assets/images/kanavos.jpg"
