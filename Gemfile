@@ -8,6 +8,7 @@ gem 'jekyll-pwa-plugin', git: 'https://github.com/lavas-project/jekyll-pwa'
 # gem "minimal-ionio-jekyll", path: '../minimal-ionio'  # FOR LOCAL DEVELOPEMNT ONLY, PLEASE READ THE DOCS
 
 group :jekyll_plugins do
+  gem 'webrick'
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
@@ -18,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-leaflet"
   gem "jekyll-scholar"
   gem "jekyll-archives"
+  gem "csv"
 end
 
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
